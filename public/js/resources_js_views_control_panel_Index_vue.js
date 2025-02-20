@@ -1,139 +1,16 @@
 "use strict";
 (self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_views_control_panel_Index_vue"],{
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=script&lang=js&":
-/*!**************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=script&lang=js& ***!
-  \**************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=script&lang=js":
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=script&lang=js ***!
+  \*************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Sidenav',
   methods: {
@@ -148,10 +25,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js&":
-/*!*********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js& ***!
-  \*********************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js":
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js ***!
+  \********************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -162,22 +39,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _chart_CandidatesChartBar_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./chart/CandidatesChartBar.vue */ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue");
 /* harmony import */ var _chart_CandidatesChartPie_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./chart/CandidatesChartPie.vue */ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue");
 /* harmony import */ var _chart_UserVoted_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./chart/UserVoted.vue */ "./resources/js/views/control_panel/chart/UserVoted.vue");
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 
 
@@ -211,57 +72,24 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js&":
-/*!****************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js& ***!
-  \****************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js":
+/*!***************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js ***!
+  \***************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var chart_js_auto__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! chart.js/auto */ "./node_modules/chart.js/auto/auto.esm.js");
-
-
-function _createForOfIteratorHelper(o, allowArrayLike) { var it = typeof Symbol !== "undefined" && o[Symbol.iterator] || o["@@iterator"]; if (!it) { if (Array.isArray(o) || (it = _unsupportedIterableToArray(o)) || allowArrayLike && o && typeof o.length === "number") { if (it) o = it; var i = 0; var F = function F() {}; return { s: F, n: function n() { if (i >= o.length) return { done: true }; return { done: false, value: o[i++] }; }, e: function e(_e) { throw _e; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var normalCompletion = true, didErr = false, err; return { s: function s() { it = it.call(o); }, n: function n() { var step = it.next(); normalCompletion = step.done; return step; }, e: function e(_e2) { didErr = true; err = _e2; }, f: function f() { try { if (!normalCompletion && it["return"] != null) it["return"](); } finally { if (didErr) throw err; } } }; }
-
-function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
-
-function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
-
-function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { Promise.resolve(value).then(_next, _throw); } }
-
-function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var chart_js_auto__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! chart.js/auto */ "./node_modules/chart.js/auto/auto.mjs");
+function _typeof(o) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) { return typeof o; } : function (o) { return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o; }, _typeof(o); }
+function _regeneratorRuntime() { "use strict"; /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */ _regeneratorRuntime = function _regeneratorRuntime() { return e; }; var t, e = {}, r = Object.prototype, n = r.hasOwnProperty, o = Object.defineProperty || function (t, e, r) { t[e] = r.value; }, i = "function" == typeof Symbol ? Symbol : {}, a = i.iterator || "@@iterator", c = i.asyncIterator || "@@asyncIterator", u = i.toStringTag || "@@toStringTag"; function define(t, e, r) { return Object.defineProperty(t, e, { value: r, enumerable: !0, configurable: !0, writable: !0 }), t[e]; } try { define({}, ""); } catch (t) { define = function define(t, e, r) { return t[e] = r; }; } function wrap(t, e, r, n) { var i = e && e.prototype instanceof Generator ? e : Generator, a = Object.create(i.prototype), c = new Context(n || []); return o(a, "_invoke", { value: makeInvokeMethod(t, r, c) }), a; } function tryCatch(t, e, r) { try { return { type: "normal", arg: t.call(e, r) }; } catch (t) { return { type: "throw", arg: t }; } } e.wrap = wrap; var h = "suspendedStart", l = "suspendedYield", f = "executing", s = "completed", y = {}; function Generator() {} function GeneratorFunction() {} function GeneratorFunctionPrototype() {} var p = {}; define(p, a, function () { return this; }); var d = Object.getPrototypeOf, v = d && d(d(values([]))); v && v !== r && n.call(v, a) && (p = v); var g = GeneratorFunctionPrototype.prototype = Generator.prototype = Object.create(p); function defineIteratorMethods(t) { ["next", "throw", "return"].forEach(function (e) { define(t, e, function (t) { return this._invoke(e, t); }); }); } function AsyncIterator(t, e) { function invoke(r, o, i, a) { var c = tryCatch(t[r], t, o); if ("throw" !== c.type) { var u = c.arg, h = u.value; return h && "object" == _typeof(h) && n.call(h, "__await") ? e.resolve(h.__await).then(function (t) { invoke("next", t, i, a); }, function (t) { invoke("throw", t, i, a); }) : e.resolve(h).then(function (t) { u.value = t, i(u); }, function (t) { return invoke("throw", t, i, a); }); } a(c.arg); } var r; o(this, "_invoke", { value: function value(t, n) { function callInvokeWithMethodAndArg() { return new e(function (e, r) { invoke(t, n, e, r); }); } return r = r ? r.then(callInvokeWithMethodAndArg, callInvokeWithMethodAndArg) : callInvokeWithMethodAndArg(); } }); } function makeInvokeMethod(e, r, n) { var o = h; return function (i, a) { if (o === f) throw Error("Generator is already running"); if (o === s) { if ("throw" === i) throw a; return { value: t, done: !0 }; } for (n.method = i, n.arg = a;;) { var c = n.delegate; if (c) { var u = maybeInvokeDelegate(c, n); if (u) { if (u === y) continue; return u; } } if ("next" === n.method) n.sent = n._sent = n.arg;else if ("throw" === n.method) { if (o === h) throw o = s, n.arg; n.dispatchException(n.arg); } else "return" === n.method && n.abrupt("return", n.arg); o = f; var p = tryCatch(e, r, n); if ("normal" === p.type) { if (o = n.done ? s : l, p.arg === y) continue; return { value: p.arg, done: n.done }; } "throw" === p.type && (o = s, n.method = "throw", n.arg = p.arg); } }; } function maybeInvokeDelegate(e, r) { var n = r.method, o = e.iterator[n]; if (o === t) return r.delegate = null, "throw" === n && e.iterator["return"] && (r.method = "return", r.arg = t, maybeInvokeDelegate(e, r), "throw" === r.method) || "return" !== n && (r.method = "throw", r.arg = new TypeError("The iterator does not provide a '" + n + "' method")), y; var i = tryCatch(o, e.iterator, r.arg); if ("throw" === i.type) return r.method = "throw", r.arg = i.arg, r.delegate = null, y; var a = i.arg; return a ? a.done ? (r[e.resultName] = a.value, r.next = e.nextLoc, "return" !== r.method && (r.method = "next", r.arg = t), r.delegate = null, y) : a : (r.method = "throw", r.arg = new TypeError("iterator result is not an object"), r.delegate = null, y); } function pushTryEntry(t) { var e = { tryLoc: t[0] }; 1 in t && (e.catchLoc = t[1]), 2 in t && (e.finallyLoc = t[2], e.afterLoc = t[3]), this.tryEntries.push(e); } function resetTryEntry(t) { var e = t.completion || {}; e.type = "normal", delete e.arg, t.completion = e; } function Context(t) { this.tryEntries = [{ tryLoc: "root" }], t.forEach(pushTryEntry, this), this.reset(!0); } function values(e) { if (e || "" === e) { var r = e[a]; if (r) return r.call(e); if ("function" == typeof e.next) return e; if (!isNaN(e.length)) { var o = -1, i = function next() { for (; ++o < e.length;) if (n.call(e, o)) return next.value = e[o], next.done = !1, next; return next.value = t, next.done = !0, next; }; return i.next = i; } } throw new TypeError(_typeof(e) + " is not iterable"); } return GeneratorFunction.prototype = GeneratorFunctionPrototype, o(g, "constructor", { value: GeneratorFunctionPrototype, configurable: !0 }), o(GeneratorFunctionPrototype, "constructor", { value: GeneratorFunction, configurable: !0 }), GeneratorFunction.displayName = define(GeneratorFunctionPrototype, u, "GeneratorFunction"), e.isGeneratorFunction = function (t) { var e = "function" == typeof t && t.constructor; return !!e && (e === GeneratorFunction || "GeneratorFunction" === (e.displayName || e.name)); }, e.mark = function (t) { return Object.setPrototypeOf ? Object.setPrototypeOf(t, GeneratorFunctionPrototype) : (t.__proto__ = GeneratorFunctionPrototype, define(t, u, "GeneratorFunction")), t.prototype = Object.create(g), t; }, e.awrap = function (t) { return { __await: t }; }, defineIteratorMethods(AsyncIterator.prototype), define(AsyncIterator.prototype, c, function () { return this; }), e.AsyncIterator = AsyncIterator, e.async = function (t, r, n, o, i) { void 0 === i && (i = Promise); var a = new AsyncIterator(wrap(t, r, n, o), i); return e.isGeneratorFunction(r) ? a : a.next().then(function (t) { return t.done ? t.value : a.next(); }); }, defineIteratorMethods(g), define(g, u, "Generator"), define(g, a, function () { return this; }), define(g, "toString", function () { return "[object Generator]"; }), e.keys = function (t) { var e = Object(t), r = []; for (var n in e) r.push(n); return r.reverse(), function next() { for (; r.length;) { var t = r.pop(); if (t in e) return next.value = t, next.done = !1, next; } return next.done = !0, next; }; }, e.values = values, Context.prototype = { constructor: Context, reset: function reset(e) { if (this.prev = 0, this.next = 0, this.sent = this._sent = t, this.done = !1, this.delegate = null, this.method = "next", this.arg = t, this.tryEntries.forEach(resetTryEntry), !e) for (var r in this) "t" === r.charAt(0) && n.call(this, r) && !isNaN(+r.slice(1)) && (this[r] = t); }, stop: function stop() { this.done = !0; var t = this.tryEntries[0].completion; if ("throw" === t.type) throw t.arg; return this.rval; }, dispatchException: function dispatchException(e) { if (this.done) throw e; var r = this; function handle(n, o) { return a.type = "throw", a.arg = e, r.next = n, o && (r.method = "next", r.arg = t), !!o; } for (var o = this.tryEntries.length - 1; o >= 0; --o) { var i = this.tryEntries[o], a = i.completion; if ("root" === i.tryLoc) return handle("end"); if (i.tryLoc <= this.prev) { var c = n.call(i, "catchLoc"), u = n.call(i, "finallyLoc"); if (c && u) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } else if (c) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); } else { if (!u) throw Error("try statement without catch or finally"); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } } } }, abrupt: function abrupt(t, e) { for (var r = this.tryEntries.length - 1; r >= 0; --r) { var o = this.tryEntries[r]; if (o.tryLoc <= this.prev && n.call(o, "finallyLoc") && this.prev < o.finallyLoc) { var i = o; break; } } i && ("break" === t || "continue" === t) && i.tryLoc <= e && e <= i.finallyLoc && (i = null); var a = i ? i.completion : {}; return a.type = t, a.arg = e, i ? (this.method = "next", this.next = i.finallyLoc, y) : this.complete(a); }, complete: function complete(t, e) { if ("throw" === t.type) throw t.arg; return "break" === t.type || "continue" === t.type ? this.next = t.arg : "return" === t.type ? (this.rval = this.arg = t.arg, this.method = "return", this.next = "end") : "normal" === t.type && e && (this.next = e), y; }, finish: function finish(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.finallyLoc === t) return this.complete(r.completion, r.afterLoc), resetTryEntry(r), y; } }, "catch": function _catch(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.tryLoc === t) { var n = r.completion; if ("throw" === n.type) { var o = n.arg; resetTryEntry(r); } return o; } } throw Error("illegal catch attempt"); }, delegateYield: function delegateYield(e, r, n) { return this.delegate = { iterator: values(e), resultName: r, nextLoc: n }, "next" === this.method && (this.arg = t), y; } }, e; }
+function _createForOfIteratorHelper(r, e) { var t = "undefined" != typeof Symbol && r[Symbol.iterator] || r["@@iterator"]; if (!t) { if (Array.isArray(r) || (t = _unsupportedIterableToArray(r)) || e && r && "number" == typeof r.length) { t && (r = t); var _n = 0, F = function F() {}; return { s: F, n: function n() { return _n >= r.length ? { done: !0 } : { done: !1, value: r[_n++] }; }, e: function e(r) { throw r; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var o, a = !0, u = !1; return { s: function s() { t = t.call(r); }, n: function n() { var r = t.next(); return a = r.done, r; }, e: function e(r) { u = !0, o = r; }, f: function f() { try { a || null == t["return"] || t["return"](); } finally { if (u) throw o; } } }; }
+function _unsupportedIterableToArray(r, a) { if (r) { if ("string" == typeof r) return _arrayLikeToArray(r, a); var t = {}.toString.call(r).slice(8, -1); return "Object" === t && r.constructor && (t = r.constructor.name), "Map" === t || "Set" === t ? Array.from(r) : "Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t) ? _arrayLikeToArray(r, a) : void 0; } }
+function _arrayLikeToArray(r, a) { (null == a || a > r.length) && (a = r.length); for (var e = 0, n = Array(a); e < a; e++) n[e] = r[e]; return n; }
+function asyncGeneratorStep(n, t, e, r, o, a, c) { try { var i = n[a](c), u = i.value; } catch (n) { return void e(n); } i.done ? t(u) : Promise.resolve(u).then(r, o); }
+function _asyncToGenerator(n) { return function () { var t = this, e = arguments; return new Promise(function (r, o) { var a = n.apply(t, e); function _next(n) { asyncGeneratorStep(a, r, o, _next, _throw, "next", n); } function _throw(n) { asyncGeneratorStep(a, r, o, _next, _throw, "throw", n); } _next(void 0); }); }; }
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'CandidatesChart',
@@ -280,67 +108,60 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
   methods: {
     barChart: function barChart() {
       var _this = this;
-
-      return _asyncToGenerator( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
-          while (1) {
-            switch (_context.prev = _context.next) {
-              case 0:
-                _context.next = 2;
-                return axios.get('/api/v1/candidates').then(function (response) {
-                  var _iterator = _createForOfIteratorHelper(response.data.results),
-                      _step;
-
-                  try {
-                    for (_iterator.s(); !(_step = _iterator.n()).done;) {
-                      var dataObj = _step.value;
-
-                      // this.candidates.score.push(parseInt(dataObj.score))
-                      _this.candidates.datasets.push({
-                        label: dataObj.student.name,
-                        data: [dataObj.score],
-                        backgroundColor: 'rgba(' + dataObj.color + ', .2)',
-                        borderColor: 'rgba(' + dataObj.color + ')',
-                        borderWidth: 2,
-                        borderRadius: 8
-                      });
-                    }
-                  } catch (err) {
-                    _iterator.e(err);
-                  } finally {
-                    _iterator.f();
+      return _asyncToGenerator(/*#__PURE__*/_regeneratorRuntime().mark(function _callee() {
+        return _regeneratorRuntime().wrap(function _callee$(_context) {
+          while (1) switch (_context.prev = _context.next) {
+            case 0:
+              _context.next = 2;
+              return axios.get('/api/v1/candidates').then(function (response) {
+                var _iterator = _createForOfIteratorHelper(response.data.results),
+                  _step;
+                try {
+                  for (_iterator.s(); !(_step = _iterator.n()).done;) {
+                    var dataObj = _step.value;
+                    // this.candidates.score.push(parseInt(dataObj.score))
+                    _this.candidates.datasets.push({
+                      label: dataObj.student.name,
+                      data: [dataObj.score],
+                      backgroundColor: 'rgba(' + dataObj.color + ', .2)',
+                      borderColor: 'rgba(' + dataObj.color + ')',
+                      borderWidth: 2,
+                      borderRadius: 8
+                    });
                   }
-                })["catch"](function (error) {
-                  return [console.log(error.response)];
-                });
-
-              case 2:
-                new chart_js_auto__WEBPACK_IMPORTED_MODULE_1__["default"](_this.$refs.candidatesBarChart, {
-                  type: "bar",
-                  data: {
-                    labels: ['Total Skor Sementara'],
-                    datasets: _this.candidates.datasets
-                  },
-                  options: {
-                    responsive: true,
-                    plugins: {
-                      legend: {
-                        position: 'bottom',
-                        labels: {
-                          font: {
-                            family: "'Poppins', sans-serif",
-                            size: 14
-                          }
+                } catch (err) {
+                  _iterator.e(err);
+                } finally {
+                  _iterator.f();
+                }
+              })["catch"](function (error) {
+                return [console.log(error.response)];
+              });
+            case 2:
+              new chart_js_auto__WEBPACK_IMPORTED_MODULE_0__["default"](_this.$refs.candidatesBarChart, {
+                type: "bar",
+                data: {
+                  labels: ['Total Skor Sementara'],
+                  datasets: _this.candidates.datasets
+                },
+                options: {
+                  responsive: true,
+                  plugins: {
+                    legend: {
+                      position: 'bottom',
+                      labels: {
+                        font: {
+                          family: "'Poppins', sans-serif",
+                          size: 14
                         }
                       }
                     }
                   }
-                });
-
-              case 3:
-              case "end":
-                return _context.stop();
-            }
+                }
+              });
+            case 3:
+            case "end":
+              return _context.stop();
           }
         }, _callee);
       }))();
@@ -350,60 +171,24 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js&":
-/*!****************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js& ***!
-  \****************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js":
+/*!***************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js ***!
+  \***************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var chart_js_auto__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! chart.js/auto */ "./node_modules/chart.js/auto/auto.esm.js");
-
-
-function _createForOfIteratorHelper(o, allowArrayLike) { var it = typeof Symbol !== "undefined" && o[Symbol.iterator] || o["@@iterator"]; if (!it) { if (Array.isArray(o) || (it = _unsupportedIterableToArray(o)) || allowArrayLike && o && typeof o.length === "number") { if (it) o = it; var i = 0; var F = function F() {}; return { s: F, n: function n() { if (i >= o.length) return { done: true }; return { done: false, value: o[i++] }; }, e: function e(_e) { throw _e; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var normalCompletion = true, didErr = false, err; return { s: function s() { it = it.call(o); }, n: function n() { var step = it.next(); normalCompletion = step.done; return step; }, e: function e(_e2) { didErr = true; err = _e2; }, f: function f() { try { if (!normalCompletion && it["return"] != null) it["return"](); } finally { if (didErr) throw err; } } }; }
-
-function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
-
-function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
-
-function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { Promise.resolve(value).then(_next, _throw); } }
-
-function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var chart_js_auto__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! chart.js/auto */ "./node_modules/chart.js/auto/auto.mjs");
+function _typeof(o) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) { return typeof o; } : function (o) { return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o; }, _typeof(o); }
+function _regeneratorRuntime() { "use strict"; /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */ _regeneratorRuntime = function _regeneratorRuntime() { return e; }; var t, e = {}, r = Object.prototype, n = r.hasOwnProperty, o = Object.defineProperty || function (t, e, r) { t[e] = r.value; }, i = "function" == typeof Symbol ? Symbol : {}, a = i.iterator || "@@iterator", c = i.asyncIterator || "@@asyncIterator", u = i.toStringTag || "@@toStringTag"; function define(t, e, r) { return Object.defineProperty(t, e, { value: r, enumerable: !0, configurable: !0, writable: !0 }), t[e]; } try { define({}, ""); } catch (t) { define = function define(t, e, r) { return t[e] = r; }; } function wrap(t, e, r, n) { var i = e && e.prototype instanceof Generator ? e : Generator, a = Object.create(i.prototype), c = new Context(n || []); return o(a, "_invoke", { value: makeInvokeMethod(t, r, c) }), a; } function tryCatch(t, e, r) { try { return { type: "normal", arg: t.call(e, r) }; } catch (t) { return { type: "throw", arg: t }; } } e.wrap = wrap; var h = "suspendedStart", l = "suspendedYield", f = "executing", s = "completed", y = {}; function Generator() {} function GeneratorFunction() {} function GeneratorFunctionPrototype() {} var p = {}; define(p, a, function () { return this; }); var d = Object.getPrototypeOf, v = d && d(d(values([]))); v && v !== r && n.call(v, a) && (p = v); var g = GeneratorFunctionPrototype.prototype = Generator.prototype = Object.create(p); function defineIteratorMethods(t) { ["next", "throw", "return"].forEach(function (e) { define(t, e, function (t) { return this._invoke(e, t); }); }); } function AsyncIterator(t, e) { function invoke(r, o, i, a) { var c = tryCatch(t[r], t, o); if ("throw" !== c.type) { var u = c.arg, h = u.value; return h && "object" == _typeof(h) && n.call(h, "__await") ? e.resolve(h.__await).then(function (t) { invoke("next", t, i, a); }, function (t) { invoke("throw", t, i, a); }) : e.resolve(h).then(function (t) { u.value = t, i(u); }, function (t) { return invoke("throw", t, i, a); }); } a(c.arg); } var r; o(this, "_invoke", { value: function value(t, n) { function callInvokeWithMethodAndArg() { return new e(function (e, r) { invoke(t, n, e, r); }); } return r = r ? r.then(callInvokeWithMethodAndArg, callInvokeWithMethodAndArg) : callInvokeWithMethodAndArg(); } }); } function makeInvokeMethod(e, r, n) { var o = h; return function (i, a) { if (o === f) throw Error("Generator is already running"); if (o === s) { if ("throw" === i) throw a; return { value: t, done: !0 }; } for (n.method = i, n.arg = a;;) { var c = n.delegate; if (c) { var u = maybeInvokeDelegate(c, n); if (u) { if (u === y) continue; return u; } } if ("next" === n.method) n.sent = n._sent = n.arg;else if ("throw" === n.method) { if (o === h) throw o = s, n.arg; n.dispatchException(n.arg); } else "return" === n.method && n.abrupt("return", n.arg); o = f; var p = tryCatch(e, r, n); if ("normal" === p.type) { if (o = n.done ? s : l, p.arg === y) continue; return { value: p.arg, done: n.done }; } "throw" === p.type && (o = s, n.method = "throw", n.arg = p.arg); } }; } function maybeInvokeDelegate(e, r) { var n = r.method, o = e.iterator[n]; if (o === t) return r.delegate = null, "throw" === n && e.iterator["return"] && (r.method = "return", r.arg = t, maybeInvokeDelegate(e, r), "throw" === r.method) || "return" !== n && (r.method = "throw", r.arg = new TypeError("The iterator does not provide a '" + n + "' method")), y; var i = tryCatch(o, e.iterator, r.arg); if ("throw" === i.type) return r.method = "throw", r.arg = i.arg, r.delegate = null, y; var a = i.arg; return a ? a.done ? (r[e.resultName] = a.value, r.next = e.nextLoc, "return" !== r.method && (r.method = "next", r.arg = t), r.delegate = null, y) : a : (r.method = "throw", r.arg = new TypeError("iterator result is not an object"), r.delegate = null, y); } function pushTryEntry(t) { var e = { tryLoc: t[0] }; 1 in t && (e.catchLoc = t[1]), 2 in t && (e.finallyLoc = t[2], e.afterLoc = t[3]), this.tryEntries.push(e); } function resetTryEntry(t) { var e = t.completion || {}; e.type = "normal", delete e.arg, t.completion = e; } function Context(t) { this.tryEntries = [{ tryLoc: "root" }], t.forEach(pushTryEntry, this), this.reset(!0); } function values(e) { if (e || "" === e) { var r = e[a]; if (r) return r.call(e); if ("function" == typeof e.next) return e; if (!isNaN(e.length)) { var o = -1, i = function next() { for (; ++o < e.length;) if (n.call(e, o)) return next.value = e[o], next.done = !1, next; return next.value = t, next.done = !0, next; }; return i.next = i; } } throw new TypeError(_typeof(e) + " is not iterable"); } return GeneratorFunction.prototype = GeneratorFunctionPrototype, o(g, "constructor", { value: GeneratorFunctionPrototype, configurable: !0 }), o(GeneratorFunctionPrototype, "constructor", { value: GeneratorFunction, configurable: !0 }), GeneratorFunction.displayName = define(GeneratorFunctionPrototype, u, "GeneratorFunction"), e.isGeneratorFunction = function (t) { var e = "function" == typeof t && t.constructor; return !!e && (e === GeneratorFunction || "GeneratorFunction" === (e.displayName || e.name)); }, e.mark = function (t) { return Object.setPrototypeOf ? Object.setPrototypeOf(t, GeneratorFunctionPrototype) : (t.__proto__ = GeneratorFunctionPrototype, define(t, u, "GeneratorFunction")), t.prototype = Object.create(g), t; }, e.awrap = function (t) { return { __await: t }; }, defineIteratorMethods(AsyncIterator.prototype), define(AsyncIterator.prototype, c, function () { return this; }), e.AsyncIterator = AsyncIterator, e.async = function (t, r, n, o, i) { void 0 === i && (i = Promise); var a = new AsyncIterator(wrap(t, r, n, o), i); return e.isGeneratorFunction(r) ? a : a.next().then(function (t) { return t.done ? t.value : a.next(); }); }, defineIteratorMethods(g), define(g, u, "Generator"), define(g, a, function () { return this; }), define(g, "toString", function () { return "[object Generator]"; }), e.keys = function (t) { var e = Object(t), r = []; for (var n in e) r.push(n); return r.reverse(), function next() { for (; r.length;) { var t = r.pop(); if (t in e) return next.value = t, next.done = !1, next; } return next.done = !0, next; }; }, e.values = values, Context.prototype = { constructor: Context, reset: function reset(e) { if (this.prev = 0, this.next = 0, this.sent = this._sent = t, this.done = !1, this.delegate = null, this.method = "next", this.arg = t, this.tryEntries.forEach(resetTryEntry), !e) for (var r in this) "t" === r.charAt(0) && n.call(this, r) && !isNaN(+r.slice(1)) && (this[r] = t); }, stop: function stop() { this.done = !0; var t = this.tryEntries[0].completion; if ("throw" === t.type) throw t.arg; return this.rval; }, dispatchException: function dispatchException(e) { if (this.done) throw e; var r = this; function handle(n, o) { return a.type = "throw", a.arg = e, r.next = n, o && (r.method = "next", r.arg = t), !!o; } for (var o = this.tryEntries.length - 1; o >= 0; --o) { var i = this.tryEntries[o], a = i.completion; if ("root" === i.tryLoc) return handle("end"); if (i.tryLoc <= this.prev) { var c = n.call(i, "catchLoc"), u = n.call(i, "finallyLoc"); if (c && u) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } else if (c) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); } else { if (!u) throw Error("try statement without catch or finally"); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } } } }, abrupt: function abrupt(t, e) { for (var r = this.tryEntries.length - 1; r >= 0; --r) { var o = this.tryEntries[r]; if (o.tryLoc <= this.prev && n.call(o, "finallyLoc") && this.prev < o.finallyLoc) { var i = o; break; } } i && ("break" === t || "continue" === t) && i.tryLoc <= e && e <= i.finallyLoc && (i = null); var a = i ? i.completion : {}; return a.type = t, a.arg = e, i ? (this.method = "next", this.next = i.finallyLoc, y) : this.complete(a); }, complete: function complete(t, e) { if ("throw" === t.type) throw t.arg; return "break" === t.type || "continue" === t.type ? this.next = t.arg : "return" === t.type ? (this.rval = this.arg = t.arg, this.method = "return", this.next = "end") : "normal" === t.type && e && (this.next = e), y; }, finish: function finish(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.finallyLoc === t) return this.complete(r.completion, r.afterLoc), resetTryEntry(r), y; } }, "catch": function _catch(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.tryLoc === t) { var n = r.completion; if ("throw" === n.type) { var o = n.arg; resetTryEntry(r); } return o; } } throw Error("illegal catch attempt"); }, delegateYield: function delegateYield(e, r, n) { return this.delegate = { iterator: values(e), resultName: r, nextLoc: n }, "next" === this.method && (this.arg = t), y; } }, e; }
+function _createForOfIteratorHelper(r, e) { var t = "undefined" != typeof Symbol && r[Symbol.iterator] || r["@@iterator"]; if (!t) { if (Array.isArray(r) || (t = _unsupportedIterableToArray(r)) || e && r && "number" == typeof r.length) { t && (r = t); var _n = 0, F = function F() {}; return { s: F, n: function n() { return _n >= r.length ? { done: !0 } : { done: !1, value: r[_n++] }; }, e: function e(r) { throw r; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var o, a = !0, u = !1; return { s: function s() { t = t.call(r); }, n: function n() { var r = t.next(); return a = r.done, r; }, e: function e(r) { u = !0, o = r; }, f: function f() { try { a || null == t["return"] || t["return"](); } finally { if (u) throw o; } } }; }
+function _unsupportedIterableToArray(r, a) { if (r) { if ("string" == typeof r) return _arrayLikeToArray(r, a); var t = {}.toString.call(r).slice(8, -1); return "Object" === t && r.constructor && (t = r.constructor.name), "Map" === t || "Set" === t ? Array.from(r) : "Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t) ? _arrayLikeToArray(r, a) : void 0; } }
+function _arrayLikeToArray(r, a) { (null == a || a > r.length) && (a = r.length); for (var e = 0, n = Array(a); e < a; e++) n[e] = r[e]; return n; }
+function asyncGeneratorStep(n, t, e, r, o, a, c) { try { var i = n[a](c), u = i.value; } catch (n) { return void e(n); } i.done ? t(u) : Promise.resolve(u).then(r, o); }
+function _asyncToGenerator(n) { return function () { var t = this, e = arguments; return new Promise(function (r, o) { var a = n.apply(t, e); function _next(n) { asyncGeneratorStep(a, r, o, _next, _throw, "next", n); } function _throw(n) { asyncGeneratorStep(a, r, o, _next, _throw, "throw", n); } _next(void 0); }); }; }
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'CandidatesChartPie',
@@ -422,66 +207,57 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
   methods: {
     pieChart: function pieChart() {
       var _this = this;
-
-      return _asyncToGenerator( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
-          while (1) {
-            switch (_context.prev = _context.next) {
-              case 0:
-                _context.next = 2;
-                return axios.get('/api/v1/candidates').then(function (response) {
-                  var _iterator = _createForOfIteratorHelper(response.data.results),
-                      _step;
-
-                  try {
-                    for (_iterator.s(); !(_step = _iterator.n()).done;) {
-                      var dataObj = _step.value;
-
-                      _this.candidates.score.push(parseInt(dataObj.score));
-
-                      _this.candidates.name.push(dataObj.student.name);
-
-                      _this.candidates.color.push('rgba(' + dataObj.color + ')');
-                    }
-                  } catch (err) {
-                    _iterator.e(err);
-                  } finally {
-                    _iterator.f();
+      return _asyncToGenerator(/*#__PURE__*/_regeneratorRuntime().mark(function _callee() {
+        return _regeneratorRuntime().wrap(function _callee$(_context) {
+          while (1) switch (_context.prev = _context.next) {
+            case 0:
+              _context.next = 2;
+              return axios.get('/api/v1/candidates').then(function (response) {
+                var _iterator = _createForOfIteratorHelper(response.data.results),
+                  _step;
+                try {
+                  for (_iterator.s(); !(_step = _iterator.n()).done;) {
+                    var dataObj = _step.value;
+                    _this.candidates.score.push(parseInt(dataObj.score));
+                    _this.candidates.name.push(dataObj.student.name);
+                    _this.candidates.color.push('rgba(' + dataObj.color + ')');
                   }
-                })["catch"](function (error) {
-                  return [console.log(error.response)];
-                });
-
-              case 2:
-                new chart_js_auto__WEBPACK_IMPORTED_MODULE_1__["default"](_this.$refs.candidatesPieChart, {
-                  type: "doughnut",
-                  data: {
-                    labels: _this.candidates.name,
-                    datasets: [{
-                      data: _this.candidates.score,
-                      backgroundColor: _this.candidates.color
-                    }]
-                  },
-                  options: {
-                    responsive: true,
-                    plugins: {
-                      legend: {
-                        position: 'top',
-                        labels: {
-                          font: {
-                            family: "'Poppins', sans-serif",
-                            size: 14
-                          }
+                } catch (err) {
+                  _iterator.e(err);
+                } finally {
+                  _iterator.f();
+                }
+              })["catch"](function (error) {
+                return [console.log(error.response)];
+              });
+            case 2:
+              new chart_js_auto__WEBPACK_IMPORTED_MODULE_0__["default"](_this.$refs.candidatesPieChart, {
+                type: "doughnut",
+                data: {
+                  labels: _this.candidates.name,
+                  datasets: [{
+                    data: _this.candidates.score,
+                    backgroundColor: _this.candidates.color
+                  }]
+                },
+                options: {
+                  responsive: true,
+                  plugins: {
+                    legend: {
+                      position: 'top',
+                      labels: {
+                        font: {
+                          family: "'Poppins', sans-serif",
+                          size: 14
                         }
                       }
                     }
                   }
-                });
-
-              case 3:
-              case "end":
-                return _context.stop();
-            }
+                }
+              });
+            case 3:
+            case "end":
+              return _context.stop();
           }
         }, _callee);
       }))();
@@ -491,52 +267,21 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js&":
-/*!*******************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js& ***!
-  \*******************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js":
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js ***!
+  \******************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var chart_js_auto__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! chart.js/auto */ "./node_modules/chart.js/auto/auto.esm.js");
-
-
-function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { Promise.resolve(value).then(_next, _throw); } }
-
-function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var chart_js_auto__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! chart.js/auto */ "./node_modules/chart.js/auto/auto.mjs");
+function _typeof(o) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) { return typeof o; } : function (o) { return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o; }, _typeof(o); }
+function _regeneratorRuntime() { "use strict"; /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */ _regeneratorRuntime = function _regeneratorRuntime() { return e; }; var t, e = {}, r = Object.prototype, n = r.hasOwnProperty, o = Object.defineProperty || function (t, e, r) { t[e] = r.value; }, i = "function" == typeof Symbol ? Symbol : {}, a = i.iterator || "@@iterator", c = i.asyncIterator || "@@asyncIterator", u = i.toStringTag || "@@toStringTag"; function define(t, e, r) { return Object.defineProperty(t, e, { value: r, enumerable: !0, configurable: !0, writable: !0 }), t[e]; } try { define({}, ""); } catch (t) { define = function define(t, e, r) { return t[e] = r; }; } function wrap(t, e, r, n) { var i = e && e.prototype instanceof Generator ? e : Generator, a = Object.create(i.prototype), c = new Context(n || []); return o(a, "_invoke", { value: makeInvokeMethod(t, r, c) }), a; } function tryCatch(t, e, r) { try { return { type: "normal", arg: t.call(e, r) }; } catch (t) { return { type: "throw", arg: t }; } } e.wrap = wrap; var h = "suspendedStart", l = "suspendedYield", f = "executing", s = "completed", y = {}; function Generator() {} function GeneratorFunction() {} function GeneratorFunctionPrototype() {} var p = {}; define(p, a, function () { return this; }); var d = Object.getPrototypeOf, v = d && d(d(values([]))); v && v !== r && n.call(v, a) && (p = v); var g = GeneratorFunctionPrototype.prototype = Generator.prototype = Object.create(p); function defineIteratorMethods(t) { ["next", "throw", "return"].forEach(function (e) { define(t, e, function (t) { return this._invoke(e, t); }); }); } function AsyncIterator(t, e) { function invoke(r, o, i, a) { var c = tryCatch(t[r], t, o); if ("throw" !== c.type) { var u = c.arg, h = u.value; return h && "object" == _typeof(h) && n.call(h, "__await") ? e.resolve(h.__await).then(function (t) { invoke("next", t, i, a); }, function (t) { invoke("throw", t, i, a); }) : e.resolve(h).then(function (t) { u.value = t, i(u); }, function (t) { return invoke("throw", t, i, a); }); } a(c.arg); } var r; o(this, "_invoke", { value: function value(t, n) { function callInvokeWithMethodAndArg() { return new e(function (e, r) { invoke(t, n, e, r); }); } return r = r ? r.then(callInvokeWithMethodAndArg, callInvokeWithMethodAndArg) : callInvokeWithMethodAndArg(); } }); } function makeInvokeMethod(e, r, n) { var o = h; return function (i, a) { if (o === f) throw Error("Generator is already running"); if (o === s) { if ("throw" === i) throw a; return { value: t, done: !0 }; } for (n.method = i, n.arg = a;;) { var c = n.delegate; if (c) { var u = maybeInvokeDelegate(c, n); if (u) { if (u === y) continue; return u; } } if ("next" === n.method) n.sent = n._sent = n.arg;else if ("throw" === n.method) { if (o === h) throw o = s, n.arg; n.dispatchException(n.arg); } else "return" === n.method && n.abrupt("return", n.arg); o = f; var p = tryCatch(e, r, n); if ("normal" === p.type) { if (o = n.done ? s : l, p.arg === y) continue; return { value: p.arg, done: n.done }; } "throw" === p.type && (o = s, n.method = "throw", n.arg = p.arg); } }; } function maybeInvokeDelegate(e, r) { var n = r.method, o = e.iterator[n]; if (o === t) return r.delegate = null, "throw" === n && e.iterator["return"] && (r.method = "return", r.arg = t, maybeInvokeDelegate(e, r), "throw" === r.method) || "return" !== n && (r.method = "throw", r.arg = new TypeError("The iterator does not provide a '" + n + "' method")), y; var i = tryCatch(o, e.iterator, r.arg); if ("throw" === i.type) return r.method = "throw", r.arg = i.arg, r.delegate = null, y; var a = i.arg; return a ? a.done ? (r[e.resultName] = a.value, r.next = e.nextLoc, "return" !== r.method && (r.method = "next", r.arg = t), r.delegate = null, y) : a : (r.method = "throw", r.arg = new TypeError("iterator result is not an object"), r.delegate = null, y); } function pushTryEntry(t) { var e = { tryLoc: t[0] }; 1 in t && (e.catchLoc = t[1]), 2 in t && (e.finallyLoc = t[2], e.afterLoc = t[3]), this.tryEntries.push(e); } function resetTryEntry(t) { var e = t.completion || {}; e.type = "normal", delete e.arg, t.completion = e; } function Context(t) { this.tryEntries = [{ tryLoc: "root" }], t.forEach(pushTryEntry, this), this.reset(!0); } function values(e) { if (e || "" === e) { var r = e[a]; if (r) return r.call(e); if ("function" == typeof e.next) return e; if (!isNaN(e.length)) { var o = -1, i = function next() { for (; ++o < e.length;) if (n.call(e, o)) return next.value = e[o], next.done = !1, next; return next.value = t, next.done = !0, next; }; return i.next = i; } } throw new TypeError(_typeof(e) + " is not iterable"); } return GeneratorFunction.prototype = GeneratorFunctionPrototype, o(g, "constructor", { value: GeneratorFunctionPrototype, configurable: !0 }), o(GeneratorFunctionPrototype, "constructor", { value: GeneratorFunction, configurable: !0 }), GeneratorFunction.displayName = define(GeneratorFunctionPrototype, u, "GeneratorFunction"), e.isGeneratorFunction = function (t) { var e = "function" == typeof t && t.constructor; return !!e && (e === GeneratorFunction || "GeneratorFunction" === (e.displayName || e.name)); }, e.mark = function (t) { return Object.setPrototypeOf ? Object.setPrototypeOf(t, GeneratorFunctionPrototype) : (t.__proto__ = GeneratorFunctionPrototype, define(t, u, "GeneratorFunction")), t.prototype = Object.create(g), t; }, e.awrap = function (t) { return { __await: t }; }, defineIteratorMethods(AsyncIterator.prototype), define(AsyncIterator.prototype, c, function () { return this; }), e.AsyncIterator = AsyncIterator, e.async = function (t, r, n, o, i) { void 0 === i && (i = Promise); var a = new AsyncIterator(wrap(t, r, n, o), i); return e.isGeneratorFunction(r) ? a : a.next().then(function (t) { return t.done ? t.value : a.next(); }); }, defineIteratorMethods(g), define(g, u, "Generator"), define(g, a, function () { return this; }), define(g, "toString", function () { return "[object Generator]"; }), e.keys = function (t) { var e = Object(t), r = []; for (var n in e) r.push(n); return r.reverse(), function next() { for (; r.length;) { var t = r.pop(); if (t in e) return next.value = t, next.done = !1, next; } return next.done = !0, next; }; }, e.values = values, Context.prototype = { constructor: Context, reset: function reset(e) { if (this.prev = 0, this.next = 0, this.sent = this._sent = t, this.done = !1, this.delegate = null, this.method = "next", this.arg = t, this.tryEntries.forEach(resetTryEntry), !e) for (var r in this) "t" === r.charAt(0) && n.call(this, r) && !isNaN(+r.slice(1)) && (this[r] = t); }, stop: function stop() { this.done = !0; var t = this.tryEntries[0].completion; if ("throw" === t.type) throw t.arg; return this.rval; }, dispatchException: function dispatchException(e) { if (this.done) throw e; var r = this; function handle(n, o) { return a.type = "throw", a.arg = e, r.next = n, o && (r.method = "next", r.arg = t), !!o; } for (var o = this.tryEntries.length - 1; o >= 0; --o) { var i = this.tryEntries[o], a = i.completion; if ("root" === i.tryLoc) return handle("end"); if (i.tryLoc <= this.prev) { var c = n.call(i, "catchLoc"), u = n.call(i, "finallyLoc"); if (c && u) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } else if (c) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); } else { if (!u) throw Error("try statement without catch or finally"); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } } } }, abrupt: function abrupt(t, e) { for (var r = this.tryEntries.length - 1; r >= 0; --r) { var o = this.tryEntries[r]; if (o.tryLoc <= this.prev && n.call(o, "finallyLoc") && this.prev < o.finallyLoc) { var i = o; break; } } i && ("break" === t || "continue" === t) && i.tryLoc <= e && e <= i.finallyLoc && (i = null); var a = i ? i.completion : {}; return a.type = t, a.arg = e, i ? (this.method = "next", this.next = i.finallyLoc, y) : this.complete(a); }, complete: function complete(t, e) { if ("throw" === t.type) throw t.arg; return "break" === t.type || "continue" === t.type ? this.next = t.arg : "return" === t.type ? (this.rval = this.arg = t.arg, this.method = "return", this.next = "end") : "normal" === t.type && e && (this.next = e), y; }, finish: function finish(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.finallyLoc === t) return this.complete(r.completion, r.afterLoc), resetTryEntry(r), y; } }, "catch": function _catch(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.tryLoc === t) { var n = r.completion; if ("throw" === n.type) { var o = n.arg; resetTryEntry(r); } return o; } } throw Error("illegal catch attempt"); }, delegateYield: function delegateYield(e, r, n) { return this.delegate = { iterator: values(e), resultName: r, nextLoc: n }, "next" === this.method && (this.arg = t), y; } }, e; }
+function asyncGeneratorStep(n, t, e, r, o, a, c) { try { var i = n[a](c), u = i.value; } catch (n) { return void e(n); } i.done ? t(u) : Promise.resolve(u).then(r, o); }
+function _asyncToGenerator(n) { return function () { var t = this, e = arguments; return new Promise(function (r, o) { var a = n.apply(t, e); function _next(n) { asyncGeneratorStep(a, r, o, _next, _throw, "next", n); } function _throw(n) { asyncGeneratorStep(a, r, o, _next, _throw, "throw", n); } _next(void 0); }); }; }
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'CandidatesChartPie',
@@ -554,61 +299,56 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
   methods: {
     pieChart: function pieChart() {
       var _this = this;
-
-      return _asyncToGenerator( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
-          while (1) {
-            switch (_context.prev = _context.next) {
-              case 0:
-                _context.next = 2;
-                return axios.get('/api/v1/configurations/voting/counts').then(function (response) {
-                  _this.counted.voted = response.data.results.voted;
-                  _this.counted.not_voted = response.data.results.not_voted;
-                })["catch"](function (error) {
-                  return [console.log(error.response)];
-                });
-
-              case 2:
-                new chart_js_auto__WEBPACK_IMPORTED_MODULE_1__["default"](_this.$refs.userVoted, {
-                  type: "bar",
-                  data: {
-                    labels: [''],
-                    datasets: [{
-                      label: 'BELUM VOTING',
-                      data: [_this.counted.not_voted],
-                      backgroundColor: 'rgba(248, 63, 55, .2)',
-                      borderColor: 'rgba(248, 63, 55)',
-                      borderWidth: 2,
-                      borderRadius: 8
-                    }, {
-                      label: 'SUDAH VOTING',
-                      data: [_this.counted.voted],
-                      backgroundColor: 'rgba(34, 175, 71, .2)',
-                      borderColor: 'rgba(34, 175, 71)',
-                      borderWidth: 2,
-                      borderRadius: 8
-                    }]
-                  },
-                  options: {
-                    responsive: true,
-                    plugins: {
-                      legend: {
-                        position: 'bottom',
-                        labels: {
-                          font: {
-                            family: "'Poppins', sans-serif",
-                            size: 14
-                          }
+      return _asyncToGenerator(/*#__PURE__*/_regeneratorRuntime().mark(function _callee() {
+        return _regeneratorRuntime().wrap(function _callee$(_context) {
+          while (1) switch (_context.prev = _context.next) {
+            case 0:
+              _context.next = 2;
+              return axios.get('/api/v1/configurations/voting/counts').then(function (response) {
+                _this.counted.voted = response.data.results.voted;
+                _this.counted.not_voted = response.data.results.not_voted;
+              })["catch"](function (error) {
+                return [console.log(error.response)];
+              });
+            case 2:
+              new chart_js_auto__WEBPACK_IMPORTED_MODULE_0__["default"](_this.$refs.userVoted, {
+                type: "bar",
+                data: {
+                  labels: [''],
+                  datasets: [{
+                    label: 'BELUM VOTING',
+                    data: [_this.counted.not_voted],
+                    backgroundColor: 'rgba(248, 63, 55, .2)',
+                    borderColor: 'rgba(248, 63, 55)',
+                    borderWidth: 2,
+                    borderRadius: 8
+                  }, {
+                    label: 'SUDAH VOTING',
+                    data: [_this.counted.voted],
+                    backgroundColor: 'rgba(34, 175, 71, .2)',
+                    borderColor: 'rgba(34, 175, 71)',
+                    borderWidth: 2,
+                    borderRadius: 8
+                  }]
+                },
+                options: {
+                  responsive: true,
+                  plugins: {
+                    legend: {
+                      position: 'bottom',
+                      labels: {
+                        font: {
+                          family: "'Poppins', sans-serif",
+                          size: 14
                         }
                       }
                     }
                   }
-                });
-
-              case 3:
-              case "end":
-                return _context.stop();
-            }
+                }
+              });
+            case 3:
+            case "end":
+              return _context.stop();
           }
         }, _callee);
       }))();
@@ -618,84 +358,456 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 /***/ }),
 
-/***/ "./node_modules/chart.js/auto/auto.esm.js":
-/*!************************************************!*\
-  !*** ./node_modules/chart.js/auto/auto.esm.js ***!
-  \************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1":
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1 ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* binding */ render),
+/* harmony export */   staticRenderFns: () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function render() {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "border p-3 rounded mb-5"
+  }, [_c("ul", {
+    staticClass: "nav flex-column"
+  }, [_c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-primary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel",
+      exact: ""
+    }
+  }, [_vm._v("Beranda Control Panel")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("a", {
+    staticClass: "btn btn-inverted-primary d-block text-start",
+    attrs: {
+      href: ""
+    },
+    on: {
+      click: function click($event) {
+        $event.preventDefault();
+        return _vm.livechart();
+      }
+    }
+  }, [_vm._v("Live Chart")])])]), _vm._v(" "), _c("hr", {
+    staticClass: "bg-secondary"
+  }), _vm._v(" "), _vm._m(0), _vm._v(" "), _c("ul", {
+    staticClass: "nav flex-column"
+  }, [_c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/candidates",
+      exact: ""
+    }
+  }, [_vm._v("Data Semua Kandidat")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/candidates/create"
+    }
+  }, [_vm._v("Buat Data Kandidat Baru")])], 1)]), _vm._v(" "), _c("hr", {
+    staticClass: "bg-secondary"
+  }), _vm._v(" "), _vm._m(1), _vm._v(" "), _c("ul", {
+    staticClass: "nav flex-column"
+  }, [_c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/students",
+      exact: ""
+    }
+  }, [_vm._v("Data Semua Mahasiswa")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/students/create"
+    }
+  }, [_vm._v("Buat Data Mahasiswa Baru")])], 1)]), _vm._v(" "), _c("hr", {
+    staticClass: "bg-secondary"
+  }), _vm._v(" "), _vm._m(2), _vm._v(" "), _c("ul", {
+    staticClass: "nav flex-column"
+  }, [_c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/teachers"
+    }
+  }, [_vm._v("Data Semua Dosen")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/teachers/create"
+    }
+  }, [_vm._v("Buat Data Dosen Baru")])], 1)]), _vm._v(" "), _c("hr", {
+    staticClass: "bg-secondary"
+  }), _vm._v(" "), _vm._m(3), _vm._v(" "), _c("ul", {
+    staticClass: "nav flex-column"
+  }, [_c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/configurations/voting"
+    }
+  }, [_vm._v("Voting")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/configurations/user"
+    }
+  }, [_vm._v("User")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/configurations/terms-and-conditions"
+    }
+  }, [_vm._v("Syarat & Ketentuan")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/configurations/privacy-policy"
+    }
+  }, [_vm._v("Kebijakan Privasi")])], 1), _vm._v(" "), _c("li", {
+    staticClass: "nav-item"
+  }, [_c("router-link", {
+    staticClass: "btn btn-inverted-secondary d-block text-start",
+    attrs: {
+      "aria-current": "page",
+      to: "/control-panel/configurations/log"
+    }
+  }, [_vm._v("Log")])], 1)])]);
+};
+var staticRenderFns = [function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("h6", [_c("i", {
+    staticClass: "fa fa-user-check"
+  }), _vm._v(" Kandidat")]);
+}, function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("h6", [_c("i", {
+    staticClass: "fa fa-user-graduate"
+  }), _vm._v(" Mahasiswa")]);
+}, function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("h6", [_c("i", {
+    staticClass: "fa fa-user-tie"
+  }), _vm._v(" Dosen")]);
+}, function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("h6", [_c("i", {
+    staticClass: "fa fa-cogs"
+  }), _vm._v(" Konfigurasi")]);
+}];
+render._withStripped = true;
+
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956 ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* binding */ render),
+/* harmony export */   staticRenderFns: () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function render() {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "container"
+  }, [_c("div", {
+    staticClass: "row"
+  }, [_c("div", {
+    staticClass: "col-lg-3"
+  }, [_c("Sidenav")], 1), _vm._v(" "), _c("div", {
+    staticClass: "col-lg"
+  }, [_vm._m(0), _vm._v(" "), _c("CandidatesChartBar"), _vm._v(" "), _c("CandidatesChartPie"), _vm._v(" "), _c("UserVoted")], 1)])]);
+};
+var staticRenderFns = [function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("h5", [_c("i", {
+    staticClass: "fa fa-chart-line"
+  }), _vm._v(" Grafik Statistik")]);
+}];
+render._withStripped = true;
+
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* binding */ render),
+/* harmony export */   staticRenderFns: () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function render() {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "card border-0 shadow-sm mb-4"
+  }, [_vm._m(0), _vm._v(" "), _c("div", {
+    staticClass: "collapse show",
+    attrs: {
+      id: "chartBar"
+    }
+  }, [_c("div", {
+    staticClass: "card-body"
+  }, [_c("canvas", {
+    ref: "candidatesBarChart"
+  })])])]);
+};
+var staticRenderFns = [function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "card-header border-0"
+  }, [_c("div", {
+    staticClass: "py-2"
+  }, [_c("span", {
+    staticClass: "h5 fw-bold text-muted"
+  }, [_vm._v("Total Suara Sementara")]), _vm._v(" "), _c("a", {
+    staticClass: "float-end",
+    attrs: {
+      "data-bs-toggle": "collapse",
+      href: "#chartBar",
+      role: "button"
+    }
+  }, [_c("i", {
+    staticClass: "fa fa-bars"
+  })])])]);
+}];
+render._withStripped = true;
+
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* binding */ render),
+/* harmony export */   staticRenderFns: () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function render() {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "card border-0 shadow-sm mb-4"
+  }, [_vm._m(0), _vm._v(" "), _c("div", {
+    staticClass: "collapse show",
+    attrs: {
+      id: "chartPie"
+    }
+  }, [_c("div", {
+    staticClass: "card-body"
+  }, [_c("div", {
+    staticClass: "col-lg-8 mx-auto"
+  }, [_c("canvas", {
+    ref: "candidatesPieChart"
+  })])])])]);
+};
+var staticRenderFns = [function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "card-header border-0"
+  }, [_c("div", {
+    staticClass: "py-2"
+  }, [_c("span", {
+    staticClass: "h5 fw-bold text-muted"
+  }, [_vm._v("Total Suara Sementara")]), _vm._v(" "), _c("a", {
+    staticClass: "float-end",
+    attrs: {
+      "data-bs-toggle": "collapse",
+      href: "#chartPie",
+      role: "button"
+    }
+  }, [_c("i", {
+    staticClass: "fa fa-bars"
+  })])])]);
+}];
+render._withStripped = true;
+
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* binding */ render),
+/* harmony export */   staticRenderFns: () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function render() {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "card border-0 shadow-sm mb-4"
+  }, [_vm._m(0), _vm._v(" "), _c("div", {
+    staticClass: "collapse show",
+    attrs: {
+      id: "userVotedChart"
+    }
+  }, [_c("div", {
+    staticClass: "card-body"
+  }, [_c("canvas", {
+    ref: "userVoted"
+  })])])]);
+};
+var staticRenderFns = [function () {
+  var _vm = this,
+    _c = _vm._self._c;
+  return _c("div", {
+    staticClass: "card-header border-0"
+  }, [_c("div", {
+    staticClass: "py-2"
+  }, [_c("span", {
+    staticClass: "h5 fw-bold text-muted"
+  }, [_vm._v("Total Voting")]), _vm._v(" "), _c("a", {
+    staticClass: "float-end",
+    attrs: {
+      "data-bs-toggle": "collapse",
+      href: "#userVotedChart",
+      role: "button"
+    }
+  }, [_c("i", {
+    staticClass: "fa fa-bars"
+  })])])]);
+}];
+render._withStripped = true;
+
+
+/***/ }),
+
+/***/ "./node_modules/chart.js/auto/auto.mjs":
+/*!*********************************************!*\
+  !*** ./node_modules/chart.js/auto/auto.mjs ***!
+  \*********************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _dist_chart_esm__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../dist/chart.esm */ "./node_modules/chart.js/dist/chart.esm.js");
+/* harmony import */ var _dist_chart_mjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../dist/chart.mjs */ "./node_modules/chart.js/dist/chart.mjs");
 
 
-_dist_chart_esm__WEBPACK_IMPORTED_MODULE_0__.Chart.register(..._dist_chart_esm__WEBPACK_IMPORTED_MODULE_0__.registerables);
+_dist_chart_mjs__WEBPACK_IMPORTED_MODULE_0__.Chart.register(..._dist_chart_mjs__WEBPACK_IMPORTED_MODULE_0__.registerables);
 
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_dist_chart_esm__WEBPACK_IMPORTED_MODULE_0__.Chart);
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_dist_chart_mjs__WEBPACK_IMPORTED_MODULE_0__.Chart);
 
 
 /***/ }),
 
-/***/ "./node_modules/chart.js/dist/chart.esm.js":
-/*!*************************************************!*\
-  !*** ./node_modules/chart.js/dist/chart.esm.js ***!
-  \*************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+/***/ "./node_modules/chart.js/dist/chart.mjs":
+/*!**********************************************!*\
+  !*** ./node_modules/chart.js/dist/chart.mjs ***!
+  \**********************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "defaults": () => (/* reexport safe */ _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d),
-/* harmony export */   "Animation": () => (/* binding */ Animation),
-/* harmony export */   "Animations": () => (/* binding */ Animations),
-/* harmony export */   "ArcElement": () => (/* binding */ ArcElement),
-/* harmony export */   "BarController": () => (/* binding */ BarController),
-/* harmony export */   "BarElement": () => (/* binding */ BarElement),
-/* harmony export */   "BasePlatform": () => (/* binding */ BasePlatform),
-/* harmony export */   "BasicPlatform": () => (/* binding */ BasicPlatform),
-/* harmony export */   "BubbleController": () => (/* binding */ BubbleController),
-/* harmony export */   "CategoryScale": () => (/* binding */ CategoryScale),
-/* harmony export */   "Chart": () => (/* binding */ Chart),
-/* harmony export */   "DatasetController": () => (/* binding */ DatasetController),
-/* harmony export */   "Decimation": () => (/* binding */ plugin_decimation),
-/* harmony export */   "DomPlatform": () => (/* binding */ DomPlatform),
-/* harmony export */   "DoughnutController": () => (/* binding */ DoughnutController),
-/* harmony export */   "Element": () => (/* binding */ Element),
-/* harmony export */   "Filler": () => (/* binding */ plugin_filler),
-/* harmony export */   "Interaction": () => (/* binding */ Interaction),
-/* harmony export */   "Legend": () => (/* binding */ plugin_legend),
-/* harmony export */   "LineController": () => (/* binding */ LineController),
-/* harmony export */   "LineElement": () => (/* binding */ LineElement),
-/* harmony export */   "LinearScale": () => (/* binding */ LinearScale),
-/* harmony export */   "LogarithmicScale": () => (/* binding */ LogarithmicScale),
-/* harmony export */   "PieController": () => (/* binding */ PieController),
-/* harmony export */   "PointElement": () => (/* binding */ PointElement),
-/* harmony export */   "PolarAreaController": () => (/* binding */ PolarAreaController),
-/* harmony export */   "RadarController": () => (/* binding */ RadarController),
-/* harmony export */   "RadialLinearScale": () => (/* binding */ RadialLinearScale),
-/* harmony export */   "Scale": () => (/* binding */ Scale),
-/* harmony export */   "ScatterController": () => (/* binding */ ScatterController),
-/* harmony export */   "SubTitle": () => (/* binding */ plugin_subtitle),
-/* harmony export */   "Ticks": () => (/* binding */ Ticks),
-/* harmony export */   "TimeScale": () => (/* binding */ TimeScale),
-/* harmony export */   "TimeSeriesScale": () => (/* binding */ TimeSeriesScale),
-/* harmony export */   "Title": () => (/* binding */ plugin_title),
-/* harmony export */   "Tooltip": () => (/* binding */ plugin_tooltip),
-/* harmony export */   "_adapters": () => (/* binding */ adapters),
-/* harmony export */   "_detectPlatform": () => (/* binding */ _detectPlatform),
-/* harmony export */   "animator": () => (/* binding */ animator),
-/* harmony export */   "controllers": () => (/* binding */ controllers),
-/* harmony export */   "elements": () => (/* binding */ elements),
-/* harmony export */   "layouts": () => (/* binding */ layouts),
-/* harmony export */   "plugins": () => (/* binding */ plugins),
-/* harmony export */   "registerables": () => (/* binding */ registerables),
-/* harmony export */   "registry": () => (/* binding */ registry),
-/* harmony export */   "scales": () => (/* binding */ scales)
+/* harmony export */   Animation: () => (/* binding */ Animation),
+/* harmony export */   Animations: () => (/* binding */ Animations),
+/* harmony export */   ArcElement: () => (/* binding */ ArcElement),
+/* harmony export */   BarController: () => (/* binding */ BarController),
+/* harmony export */   BarElement: () => (/* binding */ BarElement),
+/* harmony export */   BasePlatform: () => (/* binding */ BasePlatform),
+/* harmony export */   BasicPlatform: () => (/* binding */ BasicPlatform),
+/* harmony export */   BubbleController: () => (/* binding */ BubbleController),
+/* harmony export */   CategoryScale: () => (/* binding */ CategoryScale),
+/* harmony export */   Chart: () => (/* binding */ Chart),
+/* harmony export */   DatasetController: () => (/* binding */ DatasetController),
+/* harmony export */   Decimation: () => (/* binding */ plugin_decimation),
+/* harmony export */   DomPlatform: () => (/* binding */ DomPlatform),
+/* harmony export */   DoughnutController: () => (/* binding */ DoughnutController),
+/* harmony export */   Element: () => (/* binding */ Element),
+/* harmony export */   Filler: () => (/* binding */ index),
+/* harmony export */   Interaction: () => (/* binding */ Interaction),
+/* harmony export */   Legend: () => (/* binding */ plugin_legend),
+/* harmony export */   LineController: () => (/* binding */ LineController),
+/* harmony export */   LineElement: () => (/* binding */ LineElement),
+/* harmony export */   LinearScale: () => (/* binding */ LinearScale),
+/* harmony export */   LogarithmicScale: () => (/* binding */ LogarithmicScale),
+/* harmony export */   PieController: () => (/* binding */ PieController),
+/* harmony export */   PointElement: () => (/* binding */ PointElement),
+/* harmony export */   PolarAreaController: () => (/* binding */ PolarAreaController),
+/* harmony export */   RadarController: () => (/* binding */ RadarController),
+/* harmony export */   RadialLinearScale: () => (/* binding */ RadialLinearScale),
+/* harmony export */   Scale: () => (/* binding */ Scale),
+/* harmony export */   ScatterController: () => (/* binding */ ScatterController),
+/* harmony export */   SubTitle: () => (/* binding */ plugin_subtitle),
+/* harmony export */   Ticks: () => (/* binding */ Ticks),
+/* harmony export */   TimeScale: () => (/* binding */ TimeScale),
+/* harmony export */   TimeSeriesScale: () => (/* binding */ TimeSeriesScale),
+/* harmony export */   Title: () => (/* binding */ plugin_title),
+/* harmony export */   Tooltip: () => (/* binding */ plugin_tooltip),
+/* harmony export */   _adapters: () => (/* binding */ adapters),
+/* harmony export */   _detectPlatform: () => (/* binding */ _detectPlatform),
+/* harmony export */   animator: () => (/* binding */ animator),
+/* harmony export */   controllers: () => (/* binding */ controllers),
+/* harmony export */   defaults: () => (/* reexport safe */ _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d),
+/* harmony export */   elements: () => (/* binding */ elements),
+/* harmony export */   layouts: () => (/* binding */ layouts),
+/* harmony export */   plugins: () => (/* binding */ plugins),
+/* harmony export */   registerables: () => (/* binding */ registerables),
+/* harmony export */   registry: () => (/* binding */ registry),
+/* harmony export */   scales: () => (/* binding */ scales)
 /* harmony export */ });
-/* harmony import */ var _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./chunks/helpers.segment.js */ "./node_modules/chart.js/dist/chunks/helpers.segment.js");
+/* harmony import */ var _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./chunks/helpers.segment.mjs */ "./node_modules/chart.js/dist/chunks/helpers.segment.mjs");
 /*!
- * Chart.js v3.7.1
+ * Chart.js v3.9.1
  * https://www.chartjs.org
  * (c) 2022 Chart.js Contributors
  * Released under the MIT License
@@ -725,7 +837,7 @@ class Animator {
       return;
     }
     this._running = true;
-    this._request = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.r.call(window, () => {
+    this._request = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.r.call(window, () => {
       this._update();
       this._request = null;
       if (this._running) {
@@ -846,8 +958,8 @@ const interpolators = {
     return factor > 0.5 ? to : from;
   },
   color(from, to, factor) {
-    const c0 = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.c)(from || transparent);
-    const c1 = c0.valid && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.c)(to || transparent);
+    const c0 = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.c)(from || transparent);
+    const c1 = c0.valid && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.c)(to || transparent);
     return c1 && c1.valid
       ? c1.mix(c0, factor).hexString()
       : to;
@@ -859,11 +971,11 @@ const interpolators = {
 class Animation {
   constructor(cfg, target, prop, to) {
     const currentValue = target[prop];
-    to = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.to, to, currentValue, cfg.from]);
-    const from = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.from, currentValue, to]);
+    to = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.to, to, currentValue, cfg.from]);
+    const from = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.from, currentValue, to]);
     this._active = true;
     this._fn = cfg.fn || interpolators[cfg.type || typeof from];
-    this._easing = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.e[cfg.easing] || _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.e.linear;
+    this._easing = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.e[cfg.easing] || _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.e.linear;
     this._start = Math.floor(Date.now() + (cfg.delay || 0));
     this._duration = this._total = Math.floor(cfg.duration);
     this._loop = !!cfg.loop;
@@ -886,8 +998,8 @@ class Animation {
       this._duration = Math.floor(Math.max(remain, cfg.duration));
       this._total += elapsed;
       this._loop = !!cfg.loop;
-      this._to = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.to, to, currentValue, cfg.from]);
-      this._from = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.from, currentValue, to]);
+      this._to = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.to, to, currentValue, cfg.from]);
+      this._from = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a)([cfg.from, currentValue, to]);
     }
   }
   cancel() {
@@ -937,7 +1049,7 @@ class Animation {
 
 const numbers = ['x', 'y', 'borderWidth', 'radius', 'tension'];
 const colors = ['color', 'borderColor', 'backgroundColor'];
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('animation', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.set('animation', {
   delay: undefined,
   duration: 1000,
   easing: 'easeOutQuart',
@@ -947,13 +1059,13 @@ _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('animation', {
   to: undefined,
   type: undefined,
 });
-const animationOptions = Object.keys(_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.animation);
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.describe('animation', {
+const animationOptions = Object.keys(_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.animation);
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.describe('animation', {
   _fallback: false,
   _indexable: false,
   _scriptable: (name) => name !== 'onProgress' && name !== 'onComplete' && name !== 'fn',
 });
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('animations', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.set('animations', {
   colors: {
     type: 'color',
     properties: colors
@@ -963,10 +1075,10 @@ _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('animations', {
     properties: numbers
   },
 });
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.describe('animations', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.describe('animations', {
   _fallback: 'animation',
 });
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('transitions', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.set('transitions', {
   active: {
     animation: {
       duration: 400
@@ -1008,20 +1120,20 @@ class Animations {
     this.configure(config);
   }
   configure(config) {
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(config)) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(config)) {
       return;
     }
     const animatedProps = this._properties;
     Object.getOwnPropertyNames(config).forEach(key => {
       const cfg = config[key];
-      if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(cfg)) {
+      if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(cfg)) {
         return;
       }
       const resolved = {};
       for (const option of animationOptions) {
         resolved[option] = cfg[option];
       }
-      ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(cfg.properties) && cfg.properties || [key]).forEach((prop) => {
+      ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(cfg.properties) && cfg.properties || [key]).forEach((prop) => {
         if (prop === key || !animatedProps.has(prop)) {
           animatedProps.set(prop, resolved);
         }
@@ -1142,7 +1254,7 @@ function defaultClip(xScale, yScale, allowedOverflow) {
 }
 function toClip(value) {
   let t, r, b, l;
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(value)) {
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(value)) {
     t = value.top;
     r = value.right;
     b = value.bottom;
@@ -1183,7 +1295,7 @@ function applyStack(stack, value, dsIndex, options = {}) {
       break;
     }
     otherValue = stack.values[datasetIndex];
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(otherValue) && (singleMode || (value === 0 || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(value) === (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(otherValue)))) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(otherValue) && (singleMode || (value === 0 || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(value) === (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(otherValue)))) {
       value += otherValue;
     }
   }
@@ -1253,7 +1365,7 @@ function getFirstScaleId(chart, axis) {
   return Object.keys(scales).filter(key => scales[key].axis === axis).shift();
 }
 function createDatasetContext(parent, index) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(parent,
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(parent,
     {
       active: false,
       dataset: undefined,
@@ -1265,7 +1377,7 @@ function createDatasetContext(parent, index) {
   );
 }
 function createDataContext(parent, index, element) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
     active: false,
     dataIndex: index,
     parsed: undefined,
@@ -1311,6 +1423,7 @@ class DatasetController {
     this._drawStart = undefined;
     this._drawCount = undefined;
     this.enableOptionSharing = false;
+    this.supportsDecimation = false;
     this.$context = undefined;
     this._syncList = [];
     this.initialize();
@@ -1333,9 +1446,9 @@ class DatasetController {
     const meta = this._cachedMeta;
     const dataset = this.getDataset();
     const chooseId = (axis, x, y, r) => axis === 'x' ? x : axis === 'r' ? r : y;
-    const xid = meta.xAxisID = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(dataset.xAxisID, getFirstScaleId(chart, 'x'));
-    const yid = meta.yAxisID = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(dataset.yAxisID, getFirstScaleId(chart, 'y'));
-    const rid = meta.rAxisID = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(dataset.rAxisID, getFirstScaleId(chart, 'r'));
+    const xid = meta.xAxisID = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(dataset.xAxisID, getFirstScaleId(chart, 'x'));
+    const yid = meta.yAxisID = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(dataset.yAxisID, getFirstScaleId(chart, 'y'));
+    const rid = meta.rAxisID = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(dataset.rAxisID, getFirstScaleId(chart, 'r'));
     const indexAxis = meta.indexAxis;
     const iid = meta.iAxisID = chooseId(indexAxis, xid, yid, rid);
     const vid = meta.vAxisID = chooseId(indexAxis, yid, xid, rid);
@@ -1366,7 +1479,7 @@ class DatasetController {
   _destroy() {
     const meta = this._cachedMeta;
     if (this._data) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.u)(this._data, this);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.u)(this._data, this);
     }
     if (meta._stacked) {
       clearStacks(meta);
@@ -1376,17 +1489,17 @@ class DatasetController {
     const dataset = this.getDataset();
     const data = dataset.data || (dataset.data = []);
     const _data = this._data;
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(data)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(data)) {
       this._data = convertObjectDataToArray(data);
     } else if (_data !== data) {
       if (_data) {
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.u)(_data, this);
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.u)(_data, this);
         const meta = this._cachedMeta;
         clearStacks(meta);
         meta._parsed = [];
       }
       if (data && Object.isExtensible(data)) {
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.l)(data, this);
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.l)(data, this);
       }
       this._syncList = [];
       this._data = data;
@@ -1436,9 +1549,9 @@ class DatasetController {
       meta._sorted = true;
       parsed = data;
     } else {
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(data[start])) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(data[start])) {
         parsed = this.parseArrayData(meta, data, start, count);
-      } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(data[start])) {
+      } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(data[start])) {
         parsed = this.parseObjectData(meta, data, start, count);
       } else {
         parsed = this.parsePrimitiveData(meta, data, start, count);
@@ -1499,8 +1612,8 @@ class DatasetController {
       index = i + start;
       item = data[index];
       parsed[i] = {
-        x: xScale.parse((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.f)(item, xAxisKey), index),
-        y: yScale.parse((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.f)(item, yAxisKey), index)
+        x: xScale.parse((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.f)(item, xAxisKey), index),
+        y: yScale.parse((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.f)(item, yAxisKey), index)
       };
     }
     return parsed;
@@ -1545,7 +1658,7 @@ class DatasetController {
     function _skip() {
       parsed = _parsed[i];
       const otherValue = parsed[otherScale.axis];
-      return !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(parsed[scale.axis]) || otherMin > otherValue || otherMax < otherValue;
+      return !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(parsed[scale.axis]) || otherMin > otherValue || otherMax < otherValue;
     }
     for (i = 0; i < ilen; ++i) {
       if (_skip()) {
@@ -1573,7 +1686,7 @@ class DatasetController {
     let i, ilen, value;
     for (i = 0, ilen = parsed.length; i < ilen; ++i) {
       value = parsed[i][scale.axis];
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(value)) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(value)) {
         values.push(value);
       }
     }
@@ -1595,7 +1708,7 @@ class DatasetController {
   _update(mode) {
     const meta = this._cachedMeta;
     this.update(mode || 'default');
-    meta._clip = toClip((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(this.options.clip, defaultClip(meta.xScale, meta.yScale, this.getMaxOverflow())));
+    meta._clip = toClip((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(this.options.clip, defaultClip(meta.xScale, meta.yScale, this.getMaxOverflow())));
   }
   update(mode) {}
   draw() {
@@ -1664,7 +1777,7 @@ class DatasetController {
     const cache = this._cachedDataOpts;
     const cacheKey = elementType + '-' + mode;
     const cached = cache[cacheKey];
-    const sharing = this.enableOptionSharing && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.j)(index);
+    const sharing = this.enableOptionSharing && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.j)(index);
     if (cached) {
       return cloneIfNotShared(cached, sharing);
     }
@@ -1672,7 +1785,7 @@ class DatasetController {
     const scopeKeys = config.datasetElementScopeKeys(this._type, elementType);
     const prefixes = active ? [`${elementType}Hover`, 'hover', elementType, ''] : [elementType, ''];
     const scopes = config.getOptionScopes(this.getDataset(), scopeKeys);
-    const names = Object.keys(_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.elements[elementType]);
+    const names = Object.keys(_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.elements[elementType]);
     const context = () => this.getContext(index, active);
     const values = config.resolveNamedOptions(scopes, names, context, prefixes);
     if (values.$shared) {
@@ -1710,6 +1823,14 @@ class DatasetController {
   }
   includeOptions(mode, sharedOptions) {
     return !sharedOptions || isDirectUpdateMode(mode) || this.chart._animationsDisabled;
+  }
+  _getSharedOptions(start, mode) {
+    const firstOpts = this.resolveDataElementOptions(start, mode);
+    const previouslySharedOptions = this._sharedOptions;
+    const sharedOptions = this.getSharedOptions(firstOpts);
+    const includeOptions = this.includeOptions(mode, sharedOptions) || (sharedOptions !== previouslySharedOptions);
+    this.updateSharedOptions(sharedOptions, mode, firstOpts);
+    return {sharedOptions, includeOptions};
   }
   updateElement(element, index, properties, mode) {
     if (isDirectUpdateMode(mode)) {
@@ -1844,7 +1965,7 @@ function getAllScaleValues(scale, type) {
     for (let i = 0, ilen = visibleMetas.length; i < ilen; i++) {
       values = values.concat(visibleMetas[i].controller.getAllParsedValues(scale));
     }
-    scale._cache.$bar = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__._)(values.sort((a, b) => a - b));
+    scale._cache.$bar = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__._)(values.sort((a, b) => a - b));
   }
   return scale._cache.$bar;
 }
@@ -1857,7 +1978,7 @@ function computeMinSampleSize(meta) {
     if (curr === 32767 || curr === -32768) {
       return;
     }
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.j)(prev)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.j)(prev)) {
       min = Math.min(min, Math.abs(curr - prev) || min);
     }
     prev = curr;
@@ -1876,7 +1997,7 @@ function computeMinSampleSize(meta) {
 function computeFitCategoryTraits(index, ruler, options, stackCount) {
   const thickness = options.barThickness;
   let size, ratio;
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(thickness)) {
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(thickness)) {
     size = ruler.min * options.categoryPercentage;
     ratio = options.barPercentage;
   } else {
@@ -1931,7 +2052,7 @@ function parseFloatBar(entry, item, vScale, i) {
   };
 }
 function parseValue(entry, item, vScale, i) {
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(entry)) {
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(entry)) {
     parseFloatBar(entry, item, vScale, i);
   } else {
     item[vScale.axis] = vScale.parse(entry, i);
@@ -1958,7 +2079,7 @@ function isFloatBar(custom) {
 }
 function barSign(size, vScale, actualBase) {
   if (size !== 0) {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(size);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(size);
   }
   return (vScale.isHorizontal() ? 1 : -1) * (vScale.min >= actualBase ? 1 : -1);
 }
@@ -1987,6 +2108,10 @@ function setBorderSkipped(properties, options, stack, index) {
   const res = {};
   if (!edge) {
     properties.borderSkipped = res;
+    return;
+  }
+  if (edge === true) {
+    properties.borderSkipped = {top: true, right: true, bottom: true, left: true};
     return;
   }
   const {start, end, reverse, top, bottom} = borderProps(properties);
@@ -2041,8 +2166,8 @@ class BarController extends DatasetController {
     for (i = start, ilen = start + count; i < ilen; ++i) {
       obj = data[i];
       item = {};
-      item[iScale.axis] = iScale.parse((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.f)(obj, iAxisKey), i);
-      parsed.push(parseValue((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.f)(obj, vAxisKey), item, vScale, i));
+      item[iScale.axis] = iScale.parse((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.f)(obj, iAxisKey), i);
+      parsed.push(parseValue((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.f)(obj, vAxisKey), item, vScale, i));
     }
     return parsed;
   }
@@ -2086,13 +2211,10 @@ class BarController extends DatasetController {
     const base = vScale.getBasePixel();
     const horizontal = vScale.isHorizontal();
     const ruler = this._getRuler();
-    const firstOpts = this.resolveDataElementOptions(start, mode);
-    const sharedOptions = this.getSharedOptions(firstOpts);
-    const includeOptions = this.includeOptions(mode, sharedOptions);
-    this.updateSharedOptions(sharedOptions, mode, firstOpts);
+    const {sharedOptions, includeOptions} = this._getSharedOptions(start, mode);
     for (let i = start; i < start + count; i++) {
       const parsed = this.getParsed(i);
-      const vpixels = reset || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(parsed[vScale.axis]) ? {base, head: base} : this._calculateBarValuePixels(i);
+      const vpixels = reset || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(parsed[vScale.axis]) ? {base, head: base} : this._calculateBarValuePixels(i);
       const ipixels = this._calculateBarIndexPixels(i, ruler);
       const stack = (parsed._stacks || {})[vScale.axis];
       const properties = {
@@ -2114,31 +2236,27 @@ class BarController extends DatasetController {
     }
   }
   _getStacks(last, dataIndex) {
-    const meta = this._cachedMeta;
-    const iScale = meta.iScale;
-    const metasets = iScale.getMatchingVisibleMetas(this._type);
+    const {iScale} = this._cachedMeta;
+    const metasets = iScale.getMatchingVisibleMetas(this._type)
+      .filter(meta => meta.controller.options.grouped);
     const stacked = iScale.options.stacked;
-    const ilen = metasets.length;
     const stacks = [];
-    let i, item;
-    for (i = 0; i < ilen; ++i) {
-      item = metasets[i];
-      if (!item.controller.options.grouped) {
+    const skipNull = (meta) => {
+      const parsed = meta.controller.getParsed(dataIndex);
+      const val = parsed && parsed[meta.vScale.axis];
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(val) || isNaN(val)) {
+        return true;
+      }
+    };
+    for (const meta of metasets) {
+      if (dataIndex !== undefined && skipNull(meta)) {
         continue;
       }
-      if (typeof dataIndex !== 'undefined') {
-        const val = item.controller.getParsed(dataIndex)[
-          item.controller._cachedMeta.vScale.axis
-        ];
-        if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(val) || isNaN(val)) {
-          continue;
-        }
+      if (stacked === false || stacks.indexOf(meta.stack) === -1 ||
+				(stacked === undefined && meta.stack === undefined)) {
+        stacks.push(meta.stack);
       }
-      if (stacked === false || stacks.indexOf(item.stack) === -1 ||
-				(stacked === undefined && item.stack === undefined)) {
-        stacks.push(item.stack);
-      }
-      if (item.index === last) {
+      if (meta.index === last) {
         break;
       }
     }
@@ -2198,12 +2316,12 @@ class BarController extends DatasetController {
     if (floating) {
       value = custom.barStart;
       length = custom.barEnd - custom.barStart;
-      if (value !== 0 && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(value) !== (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(custom.barEnd)) {
+      if (value !== 0 && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(value) !== (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(custom.barEnd)) {
         start = 0;
       }
       start += value;
     }
-    const startValue = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(baseValue) && !floating ? baseValue : start;
+    const startValue = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(baseValue) && !floating ? baseValue : start;
     let base = vScale.getPixelForValue(startValue);
     if (this.chart.getDataVisibility(index)) {
       head = vScale.getPixelForValue(start + length);
@@ -2216,10 +2334,15 @@ class BarController extends DatasetController {
       if (value === actualBase) {
         base -= size / 2;
       }
+      const startPixel = vScale.getPixelForDecimal(0);
+      const endPixel = vScale.getPixelForDecimal(1);
+      const min = Math.min(startPixel, endPixel);
+      const max = Math.max(startPixel, endPixel);
+      base = Math.max(Math.min(base, max), min);
       head = base + size;
     }
     if (base === vScale.getPixelForValue(actualBase)) {
-      const halfGrid = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(size) * vScale.getLineWidthForValue(actualBase) / 2;
+      const halfGrid = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(size) * vScale.getLineWidthForValue(actualBase) / 2;
       base += halfGrid;
       size -= halfGrid;
     }
@@ -2234,7 +2357,7 @@ class BarController extends DatasetController {
     const scale = ruler.scale;
     const options = this.options;
     const skipNull = options.skipNull;
-    const maxBarThickness = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(options.maxBarThickness, Infinity);
+    const maxBarThickness = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(options.maxBarThickness, Infinity);
     let center, size;
     if (ruler.grouped) {
       const stackCount = skipNull ? this._getStackCount(index) : ruler.stackCount;
@@ -2314,7 +2437,7 @@ class BubbleController extends DatasetController {
     const parsed = super.parseArrayData(meta, data, start, count);
     for (let i = 0; i < parsed.length; i++) {
       const item = data[start + i];
-      parsed[i]._custom = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(item[2], this.resolveDataElementOptions(i + start).radius);
+      parsed[i]._custom = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(item[2], this.resolveDataElementOptions(i + start).radius);
     }
     return parsed;
   }
@@ -2322,7 +2445,7 @@ class BubbleController extends DatasetController {
     const parsed = super.parseObjectData(meta, data, start, count);
     for (let i = 0; i < parsed.length; i++) {
       const item = data[start + i];
-      parsed[i]._custom = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(item && item.r && +item.r, this.resolveDataElementOptions(i + start).radius);
+      parsed[i]._custom = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(item && item.r && +item.r, this.resolveDataElementOptions(i + start).radius);
     }
     return parsed;
   }
@@ -2353,9 +2476,7 @@ class BubbleController extends DatasetController {
   updateElements(points, start, count, mode) {
     const reset = mode === 'reset';
     const {iScale, vScale} = this._cachedMeta;
-    const firstOpts = this.resolveDataElementOptions(start, mode);
-    const sharedOptions = this.getSharedOptions(firstOpts);
-    const includeOptions = this.includeOptions(mode, sharedOptions);
+    const {sharedOptions, includeOptions} = this._getSharedOptions(start, mode);
     const iAxis = iScale.axis;
     const vAxis = vScale.axis;
     for (let i = start; i < start + count; i++) {
@@ -2366,14 +2487,13 @@ class BubbleController extends DatasetController {
       const vPixel = properties[vAxis] = reset ? vScale.getBasePixel() : vScale.getPixelForValue(parsed[vAxis]);
       properties.skip = isNaN(iPixel) || isNaN(vPixel);
       if (includeOptions) {
-        properties.options = this.resolveDataElementOptions(i, point.active ? 'active' : mode);
+        properties.options = sharedOptions || this.resolveDataElementOptions(i, point.active ? 'active' : mode);
         if (reset) {
           properties.options.radius = 0;
         }
       }
       this.updateElement(point, i, properties, mode);
     }
-    this.updateSharedOptions(sharedOptions, mode, firstOpts);
   }
   resolveDataElementOptions(index, mode) {
     const parsed = this.getParsed(index);
@@ -2385,7 +2505,7 @@ class BubbleController extends DatasetController {
     if (mode !== 'active') {
       values.radius = 0;
     }
-    values.radius += (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(parsed && parsed._custom, radius);
+    values.radius += (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(parsed && parsed._custom, radius);
     return values;
   }
 }
@@ -2425,19 +2545,19 @@ function getRatioAndOffset(rotation, circumference, cutout) {
   let ratioY = 1;
   let offsetX = 0;
   let offsetY = 0;
-  if (circumference < _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T) {
+  if (circumference < _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T) {
     const startAngle = rotation;
     const endAngle = startAngle + circumference;
     const startX = Math.cos(startAngle);
     const startY = Math.sin(startAngle);
     const endX = Math.cos(endAngle);
     const endY = Math.sin(endAngle);
-    const calcMax = (angle, a, b) => (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle, true) ? 1 : Math.max(a, a * cutout, b, b * cutout);
-    const calcMin = (angle, a, b) => (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle, true) ? -1 : Math.min(a, a * cutout, b, b * cutout);
+    const calcMax = (angle, a, b) => (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle, true) ? 1 : Math.max(a, a * cutout, b, b * cutout);
+    const calcMin = (angle, a, b) => (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle, true) ? -1 : Math.min(a, a * cutout, b, b * cutout);
     const maxX = calcMax(0, startX, endX);
-    const maxY = calcMax(_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H, startY, endY);
-    const minX = calcMin(_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P, startX, endX);
-    const minY = calcMin(_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H, startY, endY);
+    const maxY = calcMax(_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H, startY, endY);
+    const minX = calcMin(_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P, startX, endX);
+    const minY = calcMin(_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H, startY, endY);
     ratioX = (maxX - minX) / 2;
     ratioY = (maxY - minY) / 2;
     offsetX = -(maxX + minX) / 2;
@@ -2462,9 +2582,9 @@ class DoughnutController extends DatasetController {
       meta._parsed = data;
     } else {
       let getter = (i) => +data[i];
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(data[start])) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(data[start])) {
         const {key = 'value'} = this._parsing;
-        getter = (i) => +(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.f)(data[i], key);
+        getter = (i) => +(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.f)(data[i], key);
       }
       let i, ilen;
       for (i = start, ilen = start + count; i < ilen; ++i) {
@@ -2473,14 +2593,14 @@ class DoughnutController extends DatasetController {
     }
   }
   _getRotation() {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.options.rotation - 90);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.options.rotation - 90);
   }
   _getCircumference() {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.options.circumference);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.options.circumference);
   }
   _getRotationExtents() {
-    let min = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T;
-    let max = -_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T;
+    let min = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T;
+    let max = -_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T;
     for (let i = 0; i < this.chart.data.datasets.length; ++i) {
       if (this.chart.isDatasetVisible(i)) {
         const controller = this.chart.getDatasetMeta(i).controller;
@@ -2502,14 +2622,14 @@ class DoughnutController extends DatasetController {
     const arcs = meta.data;
     const spacing = this.getMaxBorderWidth() + this.getMaxOffset(arcs) + this.options.spacing;
     const maxSize = Math.max((Math.min(chartArea.width, chartArea.height) - spacing) / 2, 0);
-    const cutout = Math.min((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.m)(this.options.cutout, maxSize), 1);
+    const cutout = Math.min((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.m)(this.options.cutout, maxSize), 1);
     const chartWeight = this._getRingWeight(this.index);
     const {circumference, rotation} = this._getRotationExtents();
     const {ratioX, ratioY, offsetX, offsetY} = getRatioAndOffset(rotation, circumference, cutout);
     const maxWidth = (chartArea.width - spacing) / ratioX;
     const maxHeight = (chartArea.height - spacing) / ratioY;
     const maxRadius = Math.max(Math.min(maxWidth, maxHeight) / 2, 0);
-    const outerRadius = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.n)(this.options.radius, maxRadius);
+    const outerRadius = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.n)(this.options.radius, maxRadius);
     const innerRadius = Math.max(outerRadius * cutout, 0);
     const radiusLength = (outerRadius - innerRadius) / this._getVisibleDatasetWeightTotal();
     this.offsetX = offsetX * outerRadius;
@@ -2526,7 +2646,7 @@ class DoughnutController extends DatasetController {
     if ((reset && opts.animation.animateRotate) || !this.chart.getDataVisibility(i) || meta._parsed[i] === null || meta.data[i].hidden) {
       return 0;
     }
-    return this.calculateCircumference(meta._parsed[i] * circumference / _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T);
+    return this.calculateCircumference(meta._parsed[i] * circumference / _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T);
   }
   updateElements(arcs, start, count, mode) {
     const reset = mode === 'reset';
@@ -2539,9 +2659,7 @@ class DoughnutController extends DatasetController {
     const animateScale = reset && animationOpts.animateScale;
     const innerRadius = animateScale ? 0 : this.innerRadius;
     const outerRadius = animateScale ? 0 : this.outerRadius;
-    const firstOpts = this.resolveDataElementOptions(start, mode);
-    const sharedOptions = this.getSharedOptions(firstOpts);
-    const includeOptions = this.includeOptions(mode, sharedOptions);
+    const {sharedOptions, includeOptions} = this._getSharedOptions(start, mode);
     let startAngle = this._getRotation();
     let i;
     for (i = 0; i < start; ++i) {
@@ -2565,7 +2683,6 @@ class DoughnutController extends DatasetController {
       startAngle += circumference;
       this.updateElement(arc, i, properties, mode);
     }
-    this.updateSharedOptions(sharedOptions, mode, firstOpts);
   }
   calculateTotal() {
     const meta = this._cachedMeta;
@@ -2583,7 +2700,7 @@ class DoughnutController extends DatasetController {
   calculateCircumference(value) {
     const total = this._cachedMeta.total;
     if (total > 0 && !isNaN(value)) {
-      return _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T * (Math.abs(value) / total);
+      return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T * (Math.abs(value) / total);
     }
     return 0;
   }
@@ -2591,7 +2708,7 @@ class DoughnutController extends DatasetController {
     const meta = this._cachedMeta;
     const chart = this.chart;
     const labels = chart.data.labels || [];
-    const value = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.o)(meta._parsed[index], chart.options.locale);
+    const value = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.o)(meta._parsed[index], chart.options.locale);
     return {
       label: labels[index] || '',
       value,
@@ -2640,7 +2757,7 @@ class DoughnutController extends DatasetController {
     return ringWeightOffset;
   }
   _getRingWeight(datasetIndex) {
-    return Math.max((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(this.chart.data.datasets[datasetIndex].weight, 1), 0);
+    return Math.max((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(this.chart.data.datasets[datasetIndex].weight, 1), 0);
   }
   _getVisibleDatasetWeightTotal() {
     return this._getRingWeightOffset(this.chart.data.datasets.length) || 1;
@@ -2710,7 +2827,7 @@ DoughnutController.overrides = {
         label(tooltipItem) {
           let dataLabel = tooltipItem.label;
           const value = ': ' + tooltipItem.formattedValue;
-          if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(dataLabel)) {
+          if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(dataLabel)) {
             dataLabel = dataLabel.slice();
             dataLabel[0] += value;
           } else {
@@ -2726,16 +2843,17 @@ DoughnutController.overrides = {
 class LineController extends DatasetController {
   initialize() {
     this.enableOptionSharing = true;
+    this.supportsDecimation = true;
     super.initialize();
   }
   update(mode) {
     const meta = this._cachedMeta;
     const {dataset: line, data: points = [], _dataset} = meta;
     const animationsDisabled = this.chart._animationsDisabled;
-    let {start, count} = getStartAndCountOfVisiblePoints(meta, points, animationsDisabled);
+    let {start, count} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.q)(meta, points, animationsDisabled);
     this._drawStart = start;
     this._drawCount = count;
-    if (scaleRangesChanged(meta)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.w)(meta)) {
       start = 0;
       count = points.length;
     }
@@ -2757,24 +2875,22 @@ class LineController extends DatasetController {
   updateElements(points, start, count, mode) {
     const reset = mode === 'reset';
     const {iScale, vScale, _stacked, _dataset} = this._cachedMeta;
-    const firstOpts = this.resolveDataElementOptions(start, mode);
-    const sharedOptions = this.getSharedOptions(firstOpts);
-    const includeOptions = this.includeOptions(mode, sharedOptions);
+    const {sharedOptions, includeOptions} = this._getSharedOptions(start, mode);
     const iAxis = iScale.axis;
     const vAxis = vScale.axis;
     const {spanGaps, segment} = this.options;
-    const maxGapLength = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.q)(spanGaps) ? spanGaps : Number.POSITIVE_INFINITY;
+    const maxGapLength = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.x)(spanGaps) ? spanGaps : Number.POSITIVE_INFINITY;
     const directUpdate = this.chart._animationsDisabled || reset || mode === 'none';
     let prevParsed = start > 0 && this.getParsed(start - 1);
     for (let i = start; i < start + count; ++i) {
       const point = points[i];
       const parsed = this.getParsed(i);
       const properties = directUpdate ? point : {};
-      const nullData = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(parsed[vAxis]);
+      const nullData = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(parsed[vAxis]);
       const iPixel = properties[iAxis] = iScale.getPixelForValue(parsed[iAxis], i);
       const vPixel = properties[vAxis] = reset || nullData ? vScale.getBasePixel() : vScale.getPixelForValue(_stacked ? this.applyStack(vScale, parsed, _stacked) : parsed[vAxis], i);
       properties.skip = isNaN(iPixel) || isNaN(vPixel) || nullData;
-      properties.stop = i > 0 && (parsed[iAxis] - prevParsed[iAxis]) > maxGapLength;
+      properties.stop = i > 0 && (Math.abs(parsed[iAxis] - prevParsed[iAxis])) > maxGapLength;
       if (segment) {
         properties.parsed = parsed;
         properties.raw = _dataset.data[i];
@@ -2787,7 +2903,6 @@ class LineController extends DatasetController {
       }
       prevParsed = parsed;
     }
-    this.updateSharedOptions(sharedOptions, mode, firstOpts);
   }
   getMaxOverflow() {
     const meta = this._cachedMeta;
@@ -2824,50 +2939,6 @@ LineController.overrides = {
     },
   }
 };
-function getStartAndCountOfVisiblePoints(meta, points, animationsDisabled) {
-  const pointCount = points.length;
-  let start = 0;
-  let count = pointCount;
-  if (meta._sorted) {
-    const {iScale, _parsed} = meta;
-    const axis = iScale.axis;
-    const {min, max, minDefined, maxDefined} = iScale.getUserBounds();
-    if (minDefined) {
-      start = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(Math.min(
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(_parsed, iScale.axis, min).lo,
-        animationsDisabled ? pointCount : (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(points, axis, iScale.getPixelForValue(min)).lo),
-      0, pointCount - 1);
-    }
-    if (maxDefined) {
-      count = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(Math.max(
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(_parsed, iScale.axis, max).hi + 1,
-        animationsDisabled ? 0 : (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(points, axis, iScale.getPixelForValue(max)).hi + 1),
-      start, pointCount) - start;
-    } else {
-      count = pointCount - start;
-    }
-  }
-  return {start, count};
-}
-function scaleRangesChanged(meta) {
-  const {xScale, yScale, _scaleRanges} = meta;
-  const newRanges = {
-    xmin: xScale.min,
-    xmax: xScale.max,
-    ymin: yScale.min,
-    ymax: yScale.max
-  };
-  if (!_scaleRanges) {
-    meta._scaleRanges = newRanges;
-    return true;
-  }
-  const changed = _scaleRanges.xmin !== xScale.min
-		|| _scaleRanges.xmax !== xScale.max
-		|| _scaleRanges.ymin !== yScale.min
-		|| _scaleRanges.ymax !== yScale.max;
-  Object.assign(_scaleRanges, newRanges);
-  return changed;
-}
 
 class PolarAreaController extends DatasetController {
   constructor(chart, datasetIndex) {
@@ -2879,16 +2950,35 @@ class PolarAreaController extends DatasetController {
     const meta = this._cachedMeta;
     const chart = this.chart;
     const labels = chart.data.labels || [];
-    const value = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.o)(meta._parsed[index].r, chart.options.locale);
+    const value = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.o)(meta._parsed[index].r, chart.options.locale);
     return {
       label: labels[index] || '',
       value,
     };
   }
+  parseObjectData(meta, data, start, count) {
+    return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.y.bind(this)(meta, data, start, count);
+  }
   update(mode) {
     const arcs = this._cachedMeta.data;
     this._updateRadius();
     this.updateElements(arcs, 0, arcs.length, mode);
+  }
+  getMinMax() {
+    const meta = this._cachedMeta;
+    const range = {min: Number.POSITIVE_INFINITY, max: Number.NEGATIVE_INFINITY};
+    meta.data.forEach((element, index) => {
+      const parsed = this.getParsed(index).r;
+      if (!isNaN(parsed) && this.chart.getDataVisibility(index)) {
+        if (parsed < range.min) {
+          range.min = parsed;
+        }
+        if (parsed > range.max) {
+          range.max = parsed;
+        }
+      }
+    });
+    return range;
   }
   _updateRadius() {
     const chart = this.chart;
@@ -2904,13 +2994,12 @@ class PolarAreaController extends DatasetController {
   updateElements(arcs, start, count, mode) {
     const reset = mode === 'reset';
     const chart = this.chart;
-    const dataset = this.getDataset();
     const opts = chart.options;
     const animationOpts = opts.animation;
     const scale = this._cachedMeta.rScale;
     const centerX = scale.xCenter;
     const centerY = scale.yCenter;
-    const datasetStartAngle = scale.getIndexAngle(0) - 0.5 * _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P;
+    const datasetStartAngle = scale.getIndexAngle(0) - 0.5 * _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P;
     let angle = datasetStartAngle;
     let i;
     const defaultAngle = 360 / this.countVisibleElements();
@@ -2921,7 +3010,7 @@ class PolarAreaController extends DatasetController {
       const arc = arcs[i];
       let startAngle = angle;
       let endAngle = angle + this._computeAngle(i, mode, defaultAngle);
-      let outerRadius = chart.getDataVisibility(i) ? scale.getDistanceFromCenterForValue(dataset.data[i]) : 0;
+      let outerRadius = chart.getDataVisibility(i) ? scale.getDistanceFromCenterForValue(this.getParsed(i).r) : 0;
       angle = endAngle;
       if (reset) {
         if (animationOpts.animateScale) {
@@ -2944,11 +3033,10 @@ class PolarAreaController extends DatasetController {
     }
   }
   countVisibleElements() {
-    const dataset = this.getDataset();
     const meta = this._cachedMeta;
     let count = 0;
     meta.data.forEach((element, index) => {
-      if (!isNaN(dataset.data[index]) && this.chart.getDataVisibility(index)) {
+      if (!isNaN(this.getParsed(index).r) && this.chart.getDataVisibility(index)) {
         count++;
       }
     });
@@ -2956,7 +3044,7 @@ class PolarAreaController extends DatasetController {
   }
   _computeAngle(index, mode, defaultAngle) {
     return this.chart.getDataVisibility(index)
-      ? (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.resolveDataElementOptions(index, mode).angle || defaultAngle)
+      ? (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.resolveDataElementOptions(index, mode).angle || defaultAngle)
       : 0;
   }
 }
@@ -3055,6 +3143,9 @@ class RadarController extends DatasetController {
       value: '' + vScale.getLabelForValue(parsed[vScale.axis])
     };
   }
+  parseObjectData(meta, data, start, count) {
+    return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.y.bind(this)(meta, data, start, count);
+  }
   update(mode) {
     const meta = this._cachedMeta;
     const line = meta.dataset;
@@ -3076,13 +3167,12 @@ class RadarController extends DatasetController {
     this.updateElements(points, 0, points.length, mode);
   }
   updateElements(points, start, count, mode) {
-    const dataset = this.getDataset();
     const scale = this._cachedMeta.rScale;
     const reset = mode === 'reset';
     for (let i = start; i < start + count; i++) {
       const point = points[i];
       const options = this.resolveDataElementOptions(i, point.active ? 'active' : mode);
-      const pointPosition = scale.getPointPositionForValue(i, dataset.data[i]);
+      const pointPosition = scale.getPointPositionForValue(i, this.getParsed(i).r);
       const x = reset ? scale.xCenter : pointPosition.x;
       const y = reset ? scale.yCenter : pointPosition.y;
       const properties = {
@@ -3117,881 +3207,6 @@ RadarController.overrides = {
   }
 };
 
-class ScatterController extends LineController {
-}
-ScatterController.id = 'scatter';
-ScatterController.defaults = {
-  showLine: false,
-  fill: false
-};
-ScatterController.overrides = {
-  interaction: {
-    mode: 'point'
-  },
-  plugins: {
-    tooltip: {
-      callbacks: {
-        title() {
-          return '';
-        },
-        label(item) {
-          return '(' + item.label + ', ' + item.formattedValue + ')';
-        }
-      }
-    }
-  },
-  scales: {
-    x: {
-      type: 'linear'
-    },
-    y: {
-      type: 'linear'
-    }
-  }
-};
-
-var controllers = /*#__PURE__*/Object.freeze({
-__proto__: null,
-BarController: BarController,
-BubbleController: BubbleController,
-DoughnutController: DoughnutController,
-LineController: LineController,
-PolarAreaController: PolarAreaController,
-PieController: PieController,
-RadarController: RadarController,
-ScatterController: ScatterController
-});
-
-function abstract() {
-  throw new Error('This method is not implemented: Check that a complete date adapter is provided.');
-}
-class DateAdapter {
-  constructor(options) {
-    this.options = options || {};
-  }
-  formats() {
-    return abstract();
-  }
-  parse(value, format) {
-    return abstract();
-  }
-  format(timestamp, format) {
-    return abstract();
-  }
-  add(timestamp, amount, unit) {
-    return abstract();
-  }
-  diff(a, b, unit) {
-    return abstract();
-  }
-  startOf(timestamp, unit, weekday) {
-    return abstract();
-  }
-  endOf(timestamp, unit) {
-    return abstract();
-  }
-}
-DateAdapter.override = function(members) {
-  Object.assign(DateAdapter.prototype, members);
-};
-var adapters = {
-  _date: DateAdapter
-};
-
-function getRelativePosition(e, chart) {
-  if ('native' in e) {
-    return {
-      x: e.x,
-      y: e.y
-    };
-  }
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.y)(e, chart);
-}
-function evaluateAllVisibleItems(chart, handler) {
-  const metasets = chart.getSortedVisibleDatasetMetas();
-  let index, data, element;
-  for (let i = 0, ilen = metasets.length; i < ilen; ++i) {
-    ({index, data} = metasets[i]);
-    for (let j = 0, jlen = data.length; j < jlen; ++j) {
-      element = data[j];
-      if (!element.skip) {
-        handler(element, index, j);
-      }
-    }
-  }
-}
-function binarySearch(metaset, axis, value, intersect) {
-  const {controller, data, _sorted} = metaset;
-  const iScale = controller._cachedMeta.iScale;
-  if (iScale && axis === iScale.axis && axis !== 'r' && _sorted && data.length) {
-    const lookupMethod = iScale._reversePixels ? _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.A : _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x;
-    if (!intersect) {
-      return lookupMethod(data, axis, value);
-    } else if (controller._sharedOptions) {
-      const el = data[0];
-      const range = typeof el.getRange === 'function' && el.getRange(axis);
-      if (range) {
-        const start = lookupMethod(data, axis, value - range);
-        const end = lookupMethod(data, axis, value + range);
-        return {lo: start.lo, hi: end.hi};
-      }
-    }
-  }
-  return {lo: 0, hi: data.length - 1};
-}
-function optimizedEvaluateItems(chart, axis, position, handler, intersect) {
-  const metasets = chart.getSortedVisibleDatasetMetas();
-  const value = position[axis];
-  for (let i = 0, ilen = metasets.length; i < ilen; ++i) {
-    const {index, data} = metasets[i];
-    const {lo, hi} = binarySearch(metasets[i], axis, value, intersect);
-    for (let j = lo; j <= hi; ++j) {
-      const element = data[j];
-      if (!element.skip) {
-        handler(element, index, j);
-      }
-    }
-  }
-}
-function getDistanceMetricForAxis(axis) {
-  const useX = axis.indexOf('x') !== -1;
-  const useY = axis.indexOf('y') !== -1;
-  return function(pt1, pt2) {
-    const deltaX = useX ? Math.abs(pt1.x - pt2.x) : 0;
-    const deltaY = useY ? Math.abs(pt1.y - pt2.y) : 0;
-    return Math.sqrt(Math.pow(deltaX, 2) + Math.pow(deltaY, 2));
-  };
-}
-function getIntersectItems(chart, position, axis, useFinalPosition) {
-  const items = [];
-  if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.z)(position, chart.chartArea, chart._minPadding)) {
-    return items;
-  }
-  const evaluationFunc = function(element, datasetIndex, index) {
-    if (element.inRange(position.x, position.y, useFinalPosition)) {
-      items.push({element, datasetIndex, index});
-    }
-  };
-  optimizedEvaluateItems(chart, axis, position, evaluationFunc, true);
-  return items;
-}
-function getNearestRadialItems(chart, position, axis, useFinalPosition) {
-  let items = [];
-  function evaluationFunc(element, datasetIndex, index) {
-    const {startAngle, endAngle} = element.getProps(['startAngle', 'endAngle'], useFinalPosition);
-    const {angle} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.B)(element, {x: position.x, y: position.y});
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle)) {
-      items.push({element, datasetIndex, index});
-    }
-  }
-  optimizedEvaluateItems(chart, axis, position, evaluationFunc);
-  return items;
-}
-function getNearestCartesianItems(chart, position, axis, intersect, useFinalPosition) {
-  let items = [];
-  const distanceMetric = getDistanceMetricForAxis(axis);
-  let minDistance = Number.POSITIVE_INFINITY;
-  function evaluationFunc(element, datasetIndex, index) {
-    const inRange = element.inRange(position.x, position.y, useFinalPosition);
-    if (intersect && !inRange) {
-      return;
-    }
-    const center = element.getCenterPoint(useFinalPosition);
-    const pointInArea = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.z)(center, chart.chartArea, chart._minPadding);
-    if (!pointInArea && !inRange) {
-      return;
-    }
-    const distance = distanceMetric(position, center);
-    if (distance < minDistance) {
-      items = [{element, datasetIndex, index}];
-      minDistance = distance;
-    } else if (distance === minDistance) {
-      items.push({element, datasetIndex, index});
-    }
-  }
-  optimizedEvaluateItems(chart, axis, position, evaluationFunc);
-  return items;
-}
-function getNearestItems(chart, position, axis, intersect, useFinalPosition) {
-  if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.z)(position, chart.chartArea, chart._minPadding)) {
-    return [];
-  }
-  return axis === 'r' && !intersect
-    ? getNearestRadialItems(chart, position, axis, useFinalPosition)
-    : getNearestCartesianItems(chart, position, axis, intersect, useFinalPosition);
-}
-function getAxisItems(chart, e, options, useFinalPosition) {
-  const position = getRelativePosition(e, chart);
-  const items = [];
-  const axis = options.axis;
-  const rangeMethod = axis === 'x' ? 'inXRange' : 'inYRange';
-  let intersectsItem = false;
-  evaluateAllVisibleItems(chart, (element, datasetIndex, index) => {
-    if (element[rangeMethod](position[axis], useFinalPosition)) {
-      items.push({element, datasetIndex, index});
-    }
-    if (element.inRange(position.x, position.y, useFinalPosition)) {
-      intersectsItem = true;
-    }
-  });
-  if (options.intersect && !intersectsItem) {
-    return [];
-  }
-  return items;
-}
-var Interaction = {
-  modes: {
-    index(chart, e, options, useFinalPosition) {
-      const position = getRelativePosition(e, chart);
-      const axis = options.axis || 'x';
-      const items = options.intersect
-        ? getIntersectItems(chart, position, axis, useFinalPosition)
-        : getNearestItems(chart, position, axis, false, useFinalPosition);
-      const elements = [];
-      if (!items.length) {
-        return [];
-      }
-      chart.getSortedVisibleDatasetMetas().forEach((meta) => {
-        const index = items[0].index;
-        const element = meta.data[index];
-        if (element && !element.skip) {
-          elements.push({element, datasetIndex: meta.index, index});
-        }
-      });
-      return elements;
-    },
-    dataset(chart, e, options, useFinalPosition) {
-      const position = getRelativePosition(e, chart);
-      const axis = options.axis || 'xy';
-      let items = options.intersect
-        ? getIntersectItems(chart, position, axis, useFinalPosition) :
-        getNearestItems(chart, position, axis, false, useFinalPosition);
-      if (items.length > 0) {
-        const datasetIndex = items[0].datasetIndex;
-        const data = chart.getDatasetMeta(datasetIndex).data;
-        items = [];
-        for (let i = 0; i < data.length; ++i) {
-          items.push({element: data[i], datasetIndex, index: i});
-        }
-      }
-      return items;
-    },
-    point(chart, e, options, useFinalPosition) {
-      const position = getRelativePosition(e, chart);
-      const axis = options.axis || 'xy';
-      return getIntersectItems(chart, position, axis, useFinalPosition);
-    },
-    nearest(chart, e, options, useFinalPosition) {
-      const position = getRelativePosition(e, chart);
-      const axis = options.axis || 'xy';
-      return getNearestItems(chart, position, axis, options.intersect, useFinalPosition);
-    },
-    x(chart, e, options, useFinalPosition) {
-      return getAxisItems(chart, e, {axis: 'x', intersect: options.intersect}, useFinalPosition);
-    },
-    y(chart, e, options, useFinalPosition) {
-      return getAxisItems(chart, e, {axis: 'y', intersect: options.intersect}, useFinalPosition);
-    }
-  }
-};
-
-const STATIC_POSITIONS = ['left', 'top', 'right', 'bottom'];
-function filterByPosition(array, position) {
-  return array.filter(v => v.pos === position);
-}
-function filterDynamicPositionByAxis(array, axis) {
-  return array.filter(v => STATIC_POSITIONS.indexOf(v.pos) === -1 && v.box.axis === axis);
-}
-function sortByWeight(array, reverse) {
-  return array.sort((a, b) => {
-    const v0 = reverse ? b : a;
-    const v1 = reverse ? a : b;
-    return v0.weight === v1.weight ?
-      v0.index - v1.index :
-      v0.weight - v1.weight;
-  });
-}
-function wrapBoxes(boxes) {
-  const layoutBoxes = [];
-  let i, ilen, box, pos, stack, stackWeight;
-  for (i = 0, ilen = (boxes || []).length; i < ilen; ++i) {
-    box = boxes[i];
-    ({position: pos, options: {stack, stackWeight = 1}} = box);
-    layoutBoxes.push({
-      index: i,
-      box,
-      pos,
-      horizontal: box.isHorizontal(),
-      weight: box.weight,
-      stack: stack && (pos + stack),
-      stackWeight
-    });
-  }
-  return layoutBoxes;
-}
-function buildStacks(layouts) {
-  const stacks = {};
-  for (const wrap of layouts) {
-    const {stack, pos, stackWeight} = wrap;
-    if (!stack || !STATIC_POSITIONS.includes(pos)) {
-      continue;
-    }
-    const _stack = stacks[stack] || (stacks[stack] = {count: 0, placed: 0, weight: 0, size: 0});
-    _stack.count++;
-    _stack.weight += stackWeight;
-  }
-  return stacks;
-}
-function setLayoutDims(layouts, params) {
-  const stacks = buildStacks(layouts);
-  const {vBoxMaxWidth, hBoxMaxHeight} = params;
-  let i, ilen, layout;
-  for (i = 0, ilen = layouts.length; i < ilen; ++i) {
-    layout = layouts[i];
-    const {fullSize} = layout.box;
-    const stack = stacks[layout.stack];
-    const factor = stack && layout.stackWeight / stack.weight;
-    if (layout.horizontal) {
-      layout.width = factor ? factor * vBoxMaxWidth : fullSize && params.availableWidth;
-      layout.height = hBoxMaxHeight;
-    } else {
-      layout.width = vBoxMaxWidth;
-      layout.height = factor ? factor * hBoxMaxHeight : fullSize && params.availableHeight;
-    }
-  }
-  return stacks;
-}
-function buildLayoutBoxes(boxes) {
-  const layoutBoxes = wrapBoxes(boxes);
-  const fullSize = sortByWeight(layoutBoxes.filter(wrap => wrap.box.fullSize), true);
-  const left = sortByWeight(filterByPosition(layoutBoxes, 'left'), true);
-  const right = sortByWeight(filterByPosition(layoutBoxes, 'right'));
-  const top = sortByWeight(filterByPosition(layoutBoxes, 'top'), true);
-  const bottom = sortByWeight(filterByPosition(layoutBoxes, 'bottom'));
-  const centerHorizontal = filterDynamicPositionByAxis(layoutBoxes, 'x');
-  const centerVertical = filterDynamicPositionByAxis(layoutBoxes, 'y');
-  return {
-    fullSize,
-    leftAndTop: left.concat(top),
-    rightAndBottom: right.concat(centerVertical).concat(bottom).concat(centerHorizontal),
-    chartArea: filterByPosition(layoutBoxes, 'chartArea'),
-    vertical: left.concat(right).concat(centerVertical),
-    horizontal: top.concat(bottom).concat(centerHorizontal)
-  };
-}
-function getCombinedMax(maxPadding, chartArea, a, b) {
-  return Math.max(maxPadding[a], chartArea[a]) + Math.max(maxPadding[b], chartArea[b]);
-}
-function updateMaxPadding(maxPadding, boxPadding) {
-  maxPadding.top = Math.max(maxPadding.top, boxPadding.top);
-  maxPadding.left = Math.max(maxPadding.left, boxPadding.left);
-  maxPadding.bottom = Math.max(maxPadding.bottom, boxPadding.bottom);
-  maxPadding.right = Math.max(maxPadding.right, boxPadding.right);
-}
-function updateDims(chartArea, params, layout, stacks) {
-  const {pos, box} = layout;
-  const maxPadding = chartArea.maxPadding;
-  if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(pos)) {
-    if (layout.size) {
-      chartArea[pos] -= layout.size;
-    }
-    const stack = stacks[layout.stack] || {size: 0, count: 1};
-    stack.size = Math.max(stack.size, layout.horizontal ? box.height : box.width);
-    layout.size = stack.size / stack.count;
-    chartArea[pos] += layout.size;
-  }
-  if (box.getPadding) {
-    updateMaxPadding(maxPadding, box.getPadding());
-  }
-  const newWidth = Math.max(0, params.outerWidth - getCombinedMax(maxPadding, chartArea, 'left', 'right'));
-  const newHeight = Math.max(0, params.outerHeight - getCombinedMax(maxPadding, chartArea, 'top', 'bottom'));
-  const widthChanged = newWidth !== chartArea.w;
-  const heightChanged = newHeight !== chartArea.h;
-  chartArea.w = newWidth;
-  chartArea.h = newHeight;
-  return layout.horizontal
-    ? {same: widthChanged, other: heightChanged}
-    : {same: heightChanged, other: widthChanged};
-}
-function handleMaxPadding(chartArea) {
-  const maxPadding = chartArea.maxPadding;
-  function updatePos(pos) {
-    const change = Math.max(maxPadding[pos] - chartArea[pos], 0);
-    chartArea[pos] += change;
-    return change;
-  }
-  chartArea.y += updatePos('top');
-  chartArea.x += updatePos('left');
-  updatePos('right');
-  updatePos('bottom');
-}
-function getMargins(horizontal, chartArea) {
-  const maxPadding = chartArea.maxPadding;
-  function marginForPositions(positions) {
-    const margin = {left: 0, top: 0, right: 0, bottom: 0};
-    positions.forEach((pos) => {
-      margin[pos] = Math.max(chartArea[pos], maxPadding[pos]);
-    });
-    return margin;
-  }
-  return horizontal
-    ? marginForPositions(['left', 'right'])
-    : marginForPositions(['top', 'bottom']);
-}
-function fitBoxes(boxes, chartArea, params, stacks) {
-  const refitBoxes = [];
-  let i, ilen, layout, box, refit, changed;
-  for (i = 0, ilen = boxes.length, refit = 0; i < ilen; ++i) {
-    layout = boxes[i];
-    box = layout.box;
-    box.update(
-      layout.width || chartArea.w,
-      layout.height || chartArea.h,
-      getMargins(layout.horizontal, chartArea)
-    );
-    const {same, other} = updateDims(chartArea, params, layout, stacks);
-    refit |= same && refitBoxes.length;
-    changed = changed || other;
-    if (!box.fullSize) {
-      refitBoxes.push(layout);
-    }
-  }
-  return refit && fitBoxes(refitBoxes, chartArea, params, stacks) || changed;
-}
-function setBoxDims(box, left, top, width, height) {
-  box.top = top;
-  box.left = left;
-  box.right = left + width;
-  box.bottom = top + height;
-  box.width = width;
-  box.height = height;
-}
-function placeBoxes(boxes, chartArea, params, stacks) {
-  const userPadding = params.padding;
-  let {x, y} = chartArea;
-  for (const layout of boxes) {
-    const box = layout.box;
-    const stack = stacks[layout.stack] || {count: 1, placed: 0, weight: 1};
-    const weight = (layout.stackWeight / stack.weight) || 1;
-    if (layout.horizontal) {
-      const width = chartArea.w * weight;
-      const height = stack.size || box.height;
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.j)(stack.start)) {
-        y = stack.start;
-      }
-      if (box.fullSize) {
-        setBoxDims(box, userPadding.left, y, params.outerWidth - userPadding.right - userPadding.left, height);
-      } else {
-        setBoxDims(box, chartArea.left + stack.placed, y, width, height);
-      }
-      stack.start = y;
-      stack.placed += width;
-      y = box.bottom;
-    } else {
-      const height = chartArea.h * weight;
-      const width = stack.size || box.width;
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.j)(stack.start)) {
-        x = stack.start;
-      }
-      if (box.fullSize) {
-        setBoxDims(box, x, userPadding.top, width, params.outerHeight - userPadding.bottom - userPadding.top);
-      } else {
-        setBoxDims(box, x, chartArea.top + stack.placed, width, height);
-      }
-      stack.start = x;
-      stack.placed += height;
-      x = box.right;
-    }
-  }
-  chartArea.x = x;
-  chartArea.y = y;
-}
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('layout', {
-  autoPadding: true,
-  padding: {
-    top: 0,
-    right: 0,
-    bottom: 0,
-    left: 0
-  }
-});
-var layouts = {
-  addBox(chart, item) {
-    if (!chart.boxes) {
-      chart.boxes = [];
-    }
-    item.fullSize = item.fullSize || false;
-    item.position = item.position || 'top';
-    item.weight = item.weight || 0;
-    item._layers = item._layers || function() {
-      return [{
-        z: 0,
-        draw(chartArea) {
-          item.draw(chartArea);
-        }
-      }];
-    };
-    chart.boxes.push(item);
-  },
-  removeBox(chart, layoutItem) {
-    const index = chart.boxes ? chart.boxes.indexOf(layoutItem) : -1;
-    if (index !== -1) {
-      chart.boxes.splice(index, 1);
-    }
-  },
-  configure(chart, item, options) {
-    item.fullSize = options.fullSize;
-    item.position = options.position;
-    item.weight = options.weight;
-  },
-  update(chart, width, height, minPadding) {
-    if (!chart) {
-      return;
-    }
-    const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(chart.options.layout.padding);
-    const availableWidth = Math.max(width - padding.width, 0);
-    const availableHeight = Math.max(height - padding.height, 0);
-    const boxes = buildLayoutBoxes(chart.boxes);
-    const verticalBoxes = boxes.vertical;
-    const horizontalBoxes = boxes.horizontal;
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(chart.boxes, box => {
-      if (typeof box.beforeLayout === 'function') {
-        box.beforeLayout();
-      }
-    });
-    const visibleVerticalBoxCount = verticalBoxes.reduce((total, wrap) =>
-      wrap.box.options && wrap.box.options.display === false ? total : total + 1, 0) || 1;
-    const params = Object.freeze({
-      outerWidth: width,
-      outerHeight: height,
-      padding,
-      availableWidth,
-      availableHeight,
-      vBoxMaxWidth: availableWidth / 2 / visibleVerticalBoxCount,
-      hBoxMaxHeight: availableHeight / 2
-    });
-    const maxPadding = Object.assign({}, padding);
-    updateMaxPadding(maxPadding, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(minPadding));
-    const chartArea = Object.assign({
-      maxPadding,
-      w: availableWidth,
-      h: availableHeight,
-      x: padding.left,
-      y: padding.top
-    }, padding);
-    const stacks = setLayoutDims(verticalBoxes.concat(horizontalBoxes), params);
-    fitBoxes(boxes.fullSize, chartArea, params, stacks);
-    fitBoxes(verticalBoxes, chartArea, params, stacks);
-    if (fitBoxes(horizontalBoxes, chartArea, params, stacks)) {
-      fitBoxes(verticalBoxes, chartArea, params, stacks);
-    }
-    handleMaxPadding(chartArea);
-    placeBoxes(boxes.leftAndTop, chartArea, params, stacks);
-    chartArea.x += chartArea.w;
-    chartArea.y += chartArea.h;
-    placeBoxes(boxes.rightAndBottom, chartArea, params, stacks);
-    chart.chartArea = {
-      left: chartArea.left,
-      top: chartArea.top,
-      right: chartArea.left + chartArea.w,
-      bottom: chartArea.top + chartArea.h,
-      height: chartArea.h,
-      width: chartArea.w,
-    };
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(boxes.chartArea, (layout) => {
-      const box = layout.box;
-      Object.assign(box, chart.chartArea);
-      box.update(chartArea.w, chartArea.h, {left: 0, top: 0, right: 0, bottom: 0});
-    });
-  }
-};
-
-class BasePlatform {
-  acquireContext(canvas, aspectRatio) {}
-  releaseContext(context) {
-    return false;
-  }
-  addEventListener(chart, type, listener) {}
-  removeEventListener(chart, type, listener) {}
-  getDevicePixelRatio() {
-    return 1;
-  }
-  getMaximumSize(element, width, height, aspectRatio) {
-    width = Math.max(0, width || element.width);
-    height = height || element.height;
-    return {
-      width,
-      height: Math.max(0, aspectRatio ? Math.floor(width / aspectRatio) : height)
-    };
-  }
-  isAttached(canvas) {
-    return true;
-  }
-  updateConfig(config) {
-  }
-}
-
-class BasicPlatform extends BasePlatform {
-  acquireContext(item) {
-    return item && item.getContext && item.getContext('2d') || null;
-  }
-  updateConfig(config) {
-    config.options.animation = false;
-  }
-}
-
-const EXPANDO_KEY = '$chartjs';
-const EVENT_TYPES = {
-  touchstart: 'mousedown',
-  touchmove: 'mousemove',
-  touchend: 'mouseup',
-  pointerenter: 'mouseenter',
-  pointerdown: 'mousedown',
-  pointermove: 'mousemove',
-  pointerup: 'mouseup',
-  pointerleave: 'mouseout',
-  pointerout: 'mouseout'
-};
-const isNullOrEmpty = value => value === null || value === '';
-function initCanvas(canvas, aspectRatio) {
-  const style = canvas.style;
-  const renderHeight = canvas.getAttribute('height');
-  const renderWidth = canvas.getAttribute('width');
-  canvas[EXPANDO_KEY] = {
-    initial: {
-      height: renderHeight,
-      width: renderWidth,
-      style: {
-        display: style.display,
-        height: style.height,
-        width: style.width
-      }
-    }
-  };
-  style.display = style.display || 'block';
-  style.boxSizing = style.boxSizing || 'border-box';
-  if (isNullOrEmpty(renderWidth)) {
-    const displayWidth = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.G)(canvas, 'width');
-    if (displayWidth !== undefined) {
-      canvas.width = displayWidth;
-    }
-  }
-  if (isNullOrEmpty(renderHeight)) {
-    if (canvas.style.height === '') {
-      canvas.height = canvas.width / (aspectRatio || 2);
-    } else {
-      const displayHeight = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.G)(canvas, 'height');
-      if (displayHeight !== undefined) {
-        canvas.height = displayHeight;
-      }
-    }
-  }
-  return canvas;
-}
-const eventListenerOptions = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.J ? {passive: true} : false;
-function addListener(node, type, listener) {
-  node.addEventListener(type, listener, eventListenerOptions);
-}
-function removeListener(chart, type, listener) {
-  chart.canvas.removeEventListener(type, listener, eventListenerOptions);
-}
-function fromNativeEvent(event, chart) {
-  const type = EVENT_TYPES[event.type] || event.type;
-  const {x, y} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.y)(event, chart);
-  return {
-    type,
-    chart,
-    native: event,
-    x: x !== undefined ? x : null,
-    y: y !== undefined ? y : null,
-  };
-}
-function nodeListContains(nodeList, canvas) {
-  for (const node of nodeList) {
-    if (node === canvas || node.contains(canvas)) {
-      return true;
-    }
-  }
-}
-function createAttachObserver(chart, type, listener) {
-  const canvas = chart.canvas;
-  const observer = new MutationObserver(entries => {
-    let trigger = false;
-    for (const entry of entries) {
-      trigger = trigger || nodeListContains(entry.addedNodes, canvas);
-      trigger = trigger && !nodeListContains(entry.removedNodes, canvas);
-    }
-    if (trigger) {
-      listener();
-    }
-  });
-  observer.observe(document, {childList: true, subtree: true});
-  return observer;
-}
-function createDetachObserver(chart, type, listener) {
-  const canvas = chart.canvas;
-  const observer = new MutationObserver(entries => {
-    let trigger = false;
-    for (const entry of entries) {
-      trigger = trigger || nodeListContains(entry.removedNodes, canvas);
-      trigger = trigger && !nodeListContains(entry.addedNodes, canvas);
-    }
-    if (trigger) {
-      listener();
-    }
-  });
-  observer.observe(document, {childList: true, subtree: true});
-  return observer;
-}
-const drpListeningCharts = new Map();
-let oldDevicePixelRatio = 0;
-function onWindowResize() {
-  const dpr = window.devicePixelRatio;
-  if (dpr === oldDevicePixelRatio) {
-    return;
-  }
-  oldDevicePixelRatio = dpr;
-  drpListeningCharts.forEach((resize, chart) => {
-    if (chart.currentDevicePixelRatio !== dpr) {
-      resize();
-    }
-  });
-}
-function listenDevicePixelRatioChanges(chart, resize) {
-  if (!drpListeningCharts.size) {
-    window.addEventListener('resize', onWindowResize);
-  }
-  drpListeningCharts.set(chart, resize);
-}
-function unlistenDevicePixelRatioChanges(chart) {
-  drpListeningCharts.delete(chart);
-  if (!drpListeningCharts.size) {
-    window.removeEventListener('resize', onWindowResize);
-  }
-}
-function createResizeObserver(chart, type, listener) {
-  const canvas = chart.canvas;
-  const container = canvas && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.F)(canvas);
-  if (!container) {
-    return;
-  }
-  const resize = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.I)((width, height) => {
-    const w = container.clientWidth;
-    listener(width, height);
-    if (w < container.clientWidth) {
-      listener();
-    }
-  }, window);
-  const observer = new ResizeObserver(entries => {
-    const entry = entries[0];
-    const width = entry.contentRect.width;
-    const height = entry.contentRect.height;
-    if (width === 0 && height === 0) {
-      return;
-    }
-    resize(width, height);
-  });
-  observer.observe(container);
-  listenDevicePixelRatioChanges(chart, resize);
-  return observer;
-}
-function releaseObserver(chart, type, observer) {
-  if (observer) {
-    observer.disconnect();
-  }
-  if (type === 'resize') {
-    unlistenDevicePixelRatioChanges(chart);
-  }
-}
-function createProxyAndListen(chart, type, listener) {
-  const canvas = chart.canvas;
-  const proxy = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.I)((event) => {
-    if (chart.ctx !== null) {
-      listener(fromNativeEvent(event, chart));
-    }
-  }, chart, (args) => {
-    const event = args[0];
-    return [event, event.offsetX, event.offsetY];
-  });
-  addListener(canvas, type, proxy);
-  return proxy;
-}
-class DomPlatform extends BasePlatform {
-  acquireContext(canvas, aspectRatio) {
-    const context = canvas && canvas.getContext && canvas.getContext('2d');
-    if (context && context.canvas === canvas) {
-      initCanvas(canvas, aspectRatio);
-      return context;
-    }
-    return null;
-  }
-  releaseContext(context) {
-    const canvas = context.canvas;
-    if (!canvas[EXPANDO_KEY]) {
-      return false;
-    }
-    const initial = canvas[EXPANDO_KEY].initial;
-    ['height', 'width'].forEach((prop) => {
-      const value = initial[prop];
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(value)) {
-        canvas.removeAttribute(prop);
-      } else {
-        canvas.setAttribute(prop, value);
-      }
-    });
-    const style = initial.style || {};
-    Object.keys(style).forEach((key) => {
-      canvas.style[key] = style[key];
-    });
-    canvas.width = canvas.width;
-    delete canvas[EXPANDO_KEY];
-    return true;
-  }
-  addEventListener(chart, type, listener) {
-    this.removeEventListener(chart, type);
-    const proxies = chart.$proxies || (chart.$proxies = {});
-    const handlers = {
-      attach: createAttachObserver,
-      detach: createDetachObserver,
-      resize: createResizeObserver
-    };
-    const handler = handlers[type] || createProxyAndListen;
-    proxies[type] = handler(chart, type, listener);
-  }
-  removeEventListener(chart, type) {
-    const proxies = chart.$proxies || (chart.$proxies = {});
-    const proxy = proxies[type];
-    if (!proxy) {
-      return;
-    }
-    const handlers = {
-      attach: releaseObserver,
-      detach: releaseObserver,
-      resize: releaseObserver
-    };
-    const handler = handlers[type] || removeListener;
-    handler(chart, type, proxy);
-    proxies[type] = undefined;
-  }
-  getDevicePixelRatio() {
-    return window.devicePixelRatio;
-  }
-  getMaximumSize(canvas, width, height, aspectRatio) {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.E)(canvas, width, height, aspectRatio);
-  }
-  isAttached(canvas) {
-    const container = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.F)(canvas);
-    return !!(container && container.isConnected);
-  }
-}
-
-function _detectPlatform(canvas) {
-  if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.K)() || (typeof OffscreenCanvas !== 'undefined' && canvas instanceof OffscreenCanvas)) {
-    return BasicPlatform;
-  }
-  return DomPlatform;
-}
-
 class Element {
   constructor() {
     this.x = undefined;
@@ -4005,7 +3220,7 @@ class Element {
     return {x, y};
   }
   hasValue() {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.q)(this.x) && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.q)(this.y);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.x)(this.x) && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.x)(this.y);
   }
   getProps(props, final) {
     const anims = this.$animations;
@@ -4024,7 +3239,7 @@ Element.defaultRoutes = undefined;
 
 const formatters = {
   values(value) {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(value) ? value : '' + value;
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(value) ? value : '' + value;
   },
   numeric(tickValue, index, ticks) {
     if (tickValue === 0) {
@@ -4040,17 +3255,17 @@ const formatters = {
       }
       delta = calculateDelta(tickValue, ticks);
     }
-    const logDelta = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(Math.abs(delta));
+    const logDelta = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(Math.abs(delta));
     const numDecimal = Math.max(Math.min(-1 * Math.floor(logDelta), 20), 0);
     const options = {notation, minimumFractionDigits: numDecimal, maximumFractionDigits: numDecimal};
     Object.assign(options, this.options.ticks.format);
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.o)(tickValue, locale, options);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.o)(tickValue, locale, options);
   },
   logarithmic(tickValue, index, ticks) {
     if (tickValue === 0) {
       return '0';
     }
-    const remain = tickValue / (Math.pow(10, Math.floor((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(tickValue))));
+    const remain = tickValue / (Math.pow(10, Math.floor((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(tickValue))));
     if (remain === 1 || remain === 2 || remain === 5) {
       return formatters.numeric.call(this, tickValue, index, ticks);
     }
@@ -4066,7 +3281,7 @@ function calculateDelta(tickValue, ticks) {
 }
 var Ticks = {formatters};
 
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('scale', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.set('scale', {
   display: true,
   offset: false,
   reverse: false,
@@ -4116,19 +3331,19 @@ _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set('scale', {
     backdropPadding: 2,
   }
 });
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.ticks', 'color', '', 'color');
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.grid', 'color', '', 'borderColor');
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.grid', 'borderColor', '', 'borderColor');
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.title', 'color', '', 'color');
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.describe('scale', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.ticks', 'color', '', 'color');
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.grid', 'color', '', 'borderColor');
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.grid', 'borderColor', '', 'borderColor');
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.route('scale.title', 'color', '', 'color');
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.describe('scale', {
   _fallback: false,
   _scriptable: (name) => !name.startsWith('before') && !name.startsWith('after') && name !== 'callback' && name !== 'parser',
   _indexable: (name) => name !== 'borderDash' && name !== 'tickBorderDash',
 });
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.describe('scales', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.describe('scales', {
   _fallback: 'scale',
 });
-_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.describe('scale.ticks', {
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.describe('scale.ticks', {
   _scriptable: (name) => name !== 'backdropPadding' && name !== 'callback',
   _indexable: (name) => name !== 'backdropPadding',
 });
@@ -4149,11 +3364,11 @@ function autoSkip(scale, ticks) {
   if (numMajorIndices > 0) {
     let i, ilen;
     const avgMajorSpacing = numMajorIndices > 1 ? Math.round((last - first) / (numMajorIndices - 1)) : null;
-    skip(ticks, newTicks, spacing, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(avgMajorSpacing) ? 0 : first - avgMajorSpacing, first);
+    skip(ticks, newTicks, spacing, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(avgMajorSpacing) ? 0 : first - avgMajorSpacing, first);
     for (i = 0, ilen = numMajorIndices - 1; i < ilen; i++) {
       skip(ticks, newTicks, spacing, majorIndices[i], majorIndices[i + 1]);
     }
-    skip(ticks, newTicks, spacing, last, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(avgMajorSpacing) ? ticks.length : last + avgMajorSpacing);
+    skip(ticks, newTicks, spacing, last, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(avgMajorSpacing) ? ticks.length : last + avgMajorSpacing);
     return newTicks;
   }
   skip(ticks, newTicks, spacing);
@@ -4172,7 +3387,7 @@ function calculateSpacing(majorIndices, ticks, ticksLimit) {
   if (!evenMajorSpacing) {
     return Math.max(spacing, 1);
   }
-  const factors = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.M)(evenMajorSpacing);
+  const factors = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.A)(evenMajorSpacing);
   for (let i = 0, ilen = factors.length - 1; i < ilen; i++) {
     const factor = factors[i];
     if (factor > spacing) {
@@ -4205,8 +3420,8 @@ function skipMajors(ticks, newTicks, majorIndices, spacing) {
   }
 }
 function skip(ticks, newTicks, spacing, majorStart, majorEnd) {
-  const start = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(majorStart, 0);
-  const end = Math.min((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(majorEnd, ticks.length), ticks.length);
+  const start = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(majorStart, 0);
+  const end = Math.min((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(majorEnd, ticks.length), ticks.length);
   let count = 0;
   let length, i, next;
   spacing = Math.ceil(spacing);
@@ -4277,7 +3492,7 @@ function getPixelForGridLine(scale, index, offsetGridLines) {
   return lineValue;
 }
 function garbageCollect(caches, length) {
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(caches, (cache) => {
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(caches, (cache) => {
     const gc = cache.gc;
     const gcLen = gc.length / 2;
     let i;
@@ -4296,26 +3511,26 @@ function getTitleHeight(options, fallback) {
   if (!options.display) {
     return 0;
   }
-  const font = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.font, fallback);
-  const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(options.padding);
-  const lines = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(options.text) ? options.text.length : 1;
+  const font = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.font, fallback);
+  const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(options.padding);
+  const lines = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(options.text) ? options.text.length : 1;
   return (lines * font.lineHeight) + padding.height;
 }
 function createScaleContext(parent, scale) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
     scale,
     type: 'scale'
   });
 }
 function createTickContext(parent, index, tick) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
     tick,
     index,
     type: 'tick'
   });
 }
 function titleAlign(align, position, reverse) {
-  let ret = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.$)(align);
+  let ret = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.R)(align);
   if ((reverse && position !== 'right') || (!reverse && position === 'right')) {
     ret = reverseAlign(ret);
   }
@@ -4329,8 +3544,8 @@ function titleArgs(scale, offset, position, align) {
   const height = bottom - top;
   const width = right - left;
   if (scale.isHorizontal()) {
-    titleX = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, left, right);
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+    titleX = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, left, right);
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
       const positionAxisID = Object.keys(position)[0];
       const value = position[positionAxisID];
       titleY = scales[positionAxisID].getPixelForValue(value) + height - offset;
@@ -4341,7 +3556,7 @@ function titleArgs(scale, offset, position, align) {
     }
     maxWidth = right - left;
   } else {
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
       const positionAxisID = Object.keys(position)[0];
       const value = position[positionAxisID];
       titleX = scales[positionAxisID].getPixelForValue(value) - width + offset;
@@ -4350,8 +3565,8 @@ function titleArgs(scale, offset, position, align) {
     } else {
       titleX = offsetFromEdge(scale, position, offset);
     }
-    titleY = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, bottom, top);
-    rotation = position === 'left' ? -_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H : _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H;
+    titleY = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, bottom, top);
+    rotation = position === 'left' ? -_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H : _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H;
   }
   return {titleX, titleY, maxWidth, rotation};
 }
@@ -4419,15 +3634,15 @@ class Scale extends Element {
   }
   getUserBounds() {
     let {_userMin, _userMax, _suggestedMin, _suggestedMax} = this;
-    _userMin = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(_userMin, Number.POSITIVE_INFINITY);
-    _userMax = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(_userMax, Number.NEGATIVE_INFINITY);
-    _suggestedMin = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(_suggestedMin, Number.POSITIVE_INFINITY);
-    _suggestedMax = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(_suggestedMax, Number.NEGATIVE_INFINITY);
+    _userMin = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(_userMin, Number.POSITIVE_INFINITY);
+    _userMax = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(_userMax, Number.NEGATIVE_INFINITY);
+    _suggestedMin = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(_suggestedMin, Number.POSITIVE_INFINITY);
+    _suggestedMax = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(_suggestedMax, Number.NEGATIVE_INFINITY);
     return {
-      min: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(_userMin, _suggestedMin),
-      max: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(_userMax, _suggestedMax),
-      minDefined: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(_userMin),
-      maxDefined: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(_userMax)
+      min: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(_userMin, _suggestedMin),
+      max: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(_userMax, _suggestedMax),
+      minDefined: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(_userMin),
+      maxDefined: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(_userMax)
     };
   }
   getMinMax(canStack) {
@@ -4449,8 +3664,8 @@ class Scale extends Element {
     min = maxDefined && min > max ? max : min;
     max = minDefined && min > max ? min : max;
     return {
-      min: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(min, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(max, min)),
-      max: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(max, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(min, max))
+      min: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(min, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(max, min)),
+      max: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(max, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(min, max))
     };
   }
   getPadding() {
@@ -4473,7 +3688,7 @@ class Scale extends Element {
     this._dataLimitsCached = false;
   }
   beforeUpdate() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.beforeUpdate, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.beforeUpdate, [this]);
   }
   update(maxWidth, maxHeight, margins) {
     const {beginAtZero, grace, ticks: tickOpts} = this.options;
@@ -4501,7 +3716,7 @@ class Scale extends Element {
       this.beforeDataLimits();
       this.determineDataLimits();
       this.afterDataLimits();
-      this._range = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Q)(this, grace, beginAtZero);
+      this._range = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.D)(this, grace, beginAtZero);
       this._dataLimitsCached = true;
     }
     this.beforeBuildTicks();
@@ -4516,6 +3731,7 @@ class Scale extends Element {
     if (tickOpts.display && (tickOpts.autoSkip || tickOpts.source === 'auto')) {
       this.ticks = autoSkip(this, this.ticks);
       this._labelSizes = null;
+      this.afterAutoSkip();
     }
     if (samplingEnabled) {
       this._convertTicksToLabels(this.ticks);
@@ -4543,10 +3759,10 @@ class Scale extends Element {
     this._alignToPixels = this.options.alignToPixels;
   }
   afterUpdate() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.afterUpdate, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.afterUpdate, [this]);
   }
   beforeSetDimensions() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.beforeSetDimensions, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.beforeSetDimensions, [this]);
   }
   setDimensions() {
     if (this.isHorizontal()) {
@@ -4564,11 +3780,11 @@ class Scale extends Element {
     this.paddingBottom = 0;
   }
   afterSetDimensions() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.afterSetDimensions, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.afterSetDimensions, [this]);
   }
   _callHooks(name) {
     this.chart.notifyPlugins(name, this.getContext());
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options[name], [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options[name], [this]);
   }
   beforeDataLimits() {
     this._callHooks('beforeDataLimits');
@@ -4587,21 +3803,21 @@ class Scale extends Element {
     this._callHooks('afterBuildTicks');
   }
   beforeTickToLabelConversion() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.beforeTickToLabelConversion, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.beforeTickToLabelConversion, [this]);
   }
   generateTickLabels(ticks) {
     const tickOpts = this.options.ticks;
     let i, ilen, tick;
     for (i = 0, ilen = ticks.length; i < ilen; i++) {
       tick = ticks[i];
-      tick.label = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(tickOpts.callback, [tick.value, i, ticks], this);
+      tick.label = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(tickOpts.callback, [tick.value, i, ticks], this);
     }
   }
   afterTickToLabelConversion() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.afterTickToLabelConversion, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.afterTickToLabelConversion, [this]);
   }
   beforeCalculateLabelRotation() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.beforeCalculateLabelRotation, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.beforeCalculateLabelRotation, [this]);
   }
   calculateLabelRotation() {
     const options = this.options;
@@ -4618,26 +3834,27 @@ class Scale extends Element {
     const labelSizes = this._getLabelSizes();
     const maxLabelWidth = labelSizes.widest.width;
     const maxLabelHeight = labelSizes.highest.height;
-    const maxWidth = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(this.chart.width - maxLabelWidth, 0, this.maxWidth);
+    const maxWidth = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(this.chart.width - maxLabelWidth, 0, this.maxWidth);
     tickWidth = options.offset ? this.maxWidth / numTicks : maxWidth / (numTicks - 1);
     if (maxLabelWidth + 6 > tickWidth) {
       tickWidth = maxWidth / (numTicks - (options.offset ? 0.5 : 1));
       maxHeight = this.maxHeight - getTickMarkLength(options.grid)
 				- tickOpts.padding - getTitleHeight(options.title, this.chart.options.font);
       maxLabelDiagonal = Math.sqrt(maxLabelWidth * maxLabelWidth + maxLabelHeight * maxLabelHeight);
-      labelRotation = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.R)(Math.min(
-        Math.asin((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)((labelSizes.highest.height + 6) / tickWidth, -1, 1)),
-        Math.asin((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(maxHeight / maxLabelDiagonal, -1, 1)) - Math.asin((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(maxLabelHeight / maxLabelDiagonal, -1, 1))
+      labelRotation = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.F)(Math.min(
+        Math.asin((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)((labelSizes.highest.height + 6) / tickWidth, -1, 1)),
+        Math.asin((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(maxHeight / maxLabelDiagonal, -1, 1)) - Math.asin((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(maxLabelHeight / maxLabelDiagonal, -1, 1))
       ));
       labelRotation = Math.max(minRotation, Math.min(maxRotation, labelRotation));
     }
     this.labelRotation = labelRotation;
   }
   afterCalculateLabelRotation() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.afterCalculateLabelRotation, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.afterCalculateLabelRotation, [this]);
   }
+  afterAutoSkip() {}
   beforeFit() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.beforeFit, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.beforeFit, [this]);
   }
   fit() {
     const minSize = {
@@ -4659,7 +3876,7 @@ class Scale extends Element {
       if (tickOpts.display && this.ticks.length) {
         const {first, last, widest, highest} = this._getLabelSizes();
         const tickPadding = tickOpts.padding * 2;
-        const angleRadians = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
+        const angleRadians = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
         const cos = Math.cos(angleRadians);
         const sin = Math.sin(angleRadians);
         if (isHorizontal) {
@@ -4702,7 +3919,7 @@ class Scale extends Element {
         paddingRight = last.width;
       } else if (align === 'end') {
         paddingLeft = first.width;
-      } else {
+      } else if (align !== 'inner') {
         paddingLeft = first.width / 2;
         paddingRight = last.width / 2;
       }
@@ -4731,7 +3948,7 @@ class Scale extends Element {
     }
   }
   afterFit() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.afterFit, [this]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.afterFit, [this]);
   }
   isHorizontal() {
     const {axis, position} = this.options;
@@ -4745,7 +3962,7 @@ class Scale extends Element {
     this.generateTickLabels(ticks);
     let i, ilen;
     for (i = 0, ilen = ticks.length; i < ilen; i++) {
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(ticks[i].label)) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(ticks[i].label)) {
         ticks.splice(i, 1);
         ilen--;
         i--;
@@ -4779,14 +3996,14 @@ class Scale extends Element {
       cache = caches[fontString] = caches[fontString] || {data: {}, gc: []};
       lineHeight = tickFont.lineHeight;
       width = height = 0;
-      if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(label) && !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(label)) {
-        width = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.S)(ctx, cache.data, cache.gc, width, label);
+      if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(label) && !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(label)) {
+        width = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.G)(ctx, cache.data, cache.gc, width, label);
         height = lineHeight;
-      } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(label)) {
+      } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(label)) {
         for (j = 0, jlen = label.length; j < jlen; ++j) {
           nestedLabel = label[j];
-          if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(nestedLabel) && !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(nestedLabel)) {
-            width = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.S)(ctx, cache.data, cache.gc, width, nestedLabel);
+          if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(nestedLabel) && !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(nestedLabel)) {
+            width = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.G)(ctx, cache.data, cache.gc, width, nestedLabel);
             height += lineHeight;
           }
         }
@@ -4828,7 +4045,7 @@ class Scale extends Element {
       decimal = 1 - decimal;
     }
     const pixel = this._startPixel + decimal * this._length;
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.U)(this._alignToPixels ? (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(this.chart, pixel, 0) : pixel);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.I)(this._alignToPixels ? (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(this.chart, pixel, 0) : pixel);
   }
   getDecimalForPixel(pixel) {
     const decimal = (pixel - this._startPixel) / this._length;
@@ -4855,7 +4072,7 @@ class Scale extends Element {
   }
   _tickSize() {
     const optionTicks = this.options.ticks;
-    const rot = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
+    const rot = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
     const cos = Math.abs(Math.cos(rot));
     const sin = Math.abs(Math.sin(rot));
     const labelSizes = this._getLabelSizes();
@@ -4888,7 +4105,7 @@ class Scale extends Element {
     const axisWidth = borderOpts.drawBorder ? borderOpts.borderWidth : 0;
     const axisHalfWidth = axisWidth / 2;
     const alignBorderValue = function(pixel) {
-      return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(chart, pixel, axisWidth);
+      return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(chart, pixel, axisWidth);
     };
     let borderValue, i, lineValue, alignedLineValue;
     let tx1, ty1, tx2, ty2, x1, y1, x2, y2;
@@ -4919,7 +4136,7 @@ class Scale extends Element {
     } else if (axis === 'x') {
       if (position === 'center') {
         borderValue = alignBorderValue((chartArea.top + chartArea.bottom) / 2 + 0.5);
-      } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+      } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
         const positionAxisID = Object.keys(position)[0];
         const value = position[positionAxisID];
         borderValue = alignBorderValue(this.chart.scales[positionAxisID].getPixelForValue(value));
@@ -4931,7 +4148,7 @@ class Scale extends Element {
     } else if (axis === 'y') {
       if (position === 'center') {
         borderValue = alignBorderValue((chartArea.left + chartArea.right) / 2);
-      } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+      } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
         const positionAxisID = Object.keys(position)[0];
         const value = position[positionAxisID];
         borderValue = alignBorderValue(this.chart.scales[positionAxisID].getPixelForValue(value));
@@ -4941,13 +4158,13 @@ class Scale extends Element {
       x1 = chartArea.left;
       x2 = chartArea.right;
     }
-    const limit = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(options.ticks.maxTicksLimit, ticksLength);
+    const limit = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(options.ticks.maxTicksLimit, ticksLength);
     const step = Math.max(1, Math.ceil(ticksLength / limit));
     for (i = 0; i < ticksLength; i += step) {
       const optsAtIndex = grid.setContext(this.getContext(i));
       const lineWidth = optsAtIndex.lineWidth;
       const lineColor = optsAtIndex.color;
-      const borderDash = grid.borderDash || [];
+      const borderDash = optsAtIndex.borderDash || [];
       const borderDashOffset = optsAtIndex.borderDashOffset;
       const tickWidth = optsAtIndex.tickWidth;
       const tickColor = optsAtIndex.tickColor;
@@ -4957,7 +4174,7 @@ class Scale extends Element {
       if (lineValue === undefined) {
         continue;
       }
-      alignedLineValue = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(chart, lineValue, lineWidth);
+      alignedLineValue = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(chart, lineValue, lineWidth);
       if (isHorizontal) {
         tx1 = tx2 = x1 = x2 = alignedLineValue;
       } else {
@@ -4996,7 +4213,7 @@ class Scale extends Element {
     const tl = getTickMarkLength(options.grid);
     const tickAndPadding = tl + padding;
     const hTickAndPadding = mirror ? -padding : tickAndPadding;
-    const rotation = -(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
+    const rotation = -(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
     const items = [];
     let i, ilen, tick, label, x, y, textAlign, pixel, font, lineHeight, lineCount, textOffset;
     let textBaseline = 'middle';
@@ -5017,7 +4234,7 @@ class Scale extends Element {
     } else if (axis === 'x') {
       if (position === 'center') {
         y = ((chartArea.top + chartArea.bottom) / 2) + tickAndPadding;
-      } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+      } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
         const positionAxisID = Object.keys(position)[0];
         const value = position[positionAxisID];
         y = this.chart.scales[positionAxisID].getPixelForValue(value) + tickAndPadding;
@@ -5026,7 +4243,7 @@ class Scale extends Element {
     } else if (axis === 'y') {
       if (position === 'center') {
         x = ((chartArea.left + chartArea.right) / 2) - tickAndPadding;
-      } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+      } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
         const positionAxisID = Object.keys(position)[0];
         const value = position[positionAxisID];
         x = this.chart.scales[positionAxisID].getPixelForValue(value);
@@ -5048,13 +4265,23 @@ class Scale extends Element {
       pixel = this.getPixelForTick(i) + optionTicks.labelOffset;
       font = this._resolveTickFontOptions(i);
       lineHeight = font.lineHeight;
-      lineCount = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(label) ? label.length : 1;
+      lineCount = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(label) ? label.length : 1;
       const halfCount = lineCount / 2;
       const color = optsAtIndex.color;
       const strokeColor = optsAtIndex.textStrokeColor;
       const strokeWidth = optsAtIndex.textStrokeWidth;
+      let tickTextAlign = textAlign;
       if (isHorizontal) {
         x = pixel;
+        if (textAlign === 'inner') {
+          if (i === ilen - 1) {
+            tickTextAlign = !this.options.reverse ? 'right' : 'left';
+          } else if (i === 0) {
+            tickTextAlign = !this.options.reverse ? 'left' : 'right';
+          } else {
+            tickTextAlign = 'center';
+          }
+        }
         if (position === 'top') {
           if (crossAlign === 'near' || rotation !== 0) {
             textOffset = -lineCount * lineHeight + lineHeight / 2;
@@ -5081,7 +4308,7 @@ class Scale extends Element {
       }
       let backdrop;
       if (optsAtIndex.showLabelBackdrop) {
-        const labelPadding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(optsAtIndex.backdropPadding);
+        const labelPadding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(optsAtIndex.backdropPadding);
         const height = labelSizes.heights[i];
         const width = labelSizes.widths[i];
         let top = y + textOffset - labelPadding.top;
@@ -5118,7 +4345,7 @@ class Scale extends Element {
         strokeColor,
         strokeWidth,
         textOffset,
-        textAlign,
+        textAlign: tickTextAlign,
         textBaseline,
         translation: [x, y],
         backdrop,
@@ -5128,7 +4355,7 @@ class Scale extends Element {
   }
   _getXAxisLabelAlignment() {
     const {position, ticks} = this.options;
-    const rotation = -(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
+    const rotation = -(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.labelRotation);
     if (rotation) {
       return position === 'top' ? 'left' : 'right';
     }
@@ -5137,6 +4364,8 @@ class Scale extends Element {
       align = 'left';
     } else if (ticks.align === 'end') {
       align = 'right';
+    } else if (ticks.align === 'inner') {
+      align = 'inner';
     }
     return align;
   }
@@ -5290,12 +4519,12 @@ class Scale extends Element {
     const borderValue = this._borderValue;
     let x1, x2, y1, y2;
     if (this.isHorizontal()) {
-      x1 = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(chart, this.left, axisWidth) - axisWidth / 2;
-      x2 = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(chart, this.right, lastLineWidth) + lastLineWidth / 2;
+      x1 = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(chart, this.left, axisWidth) - axisWidth / 2;
+      x2 = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(chart, this.right, lastLineWidth) + lastLineWidth / 2;
       y1 = y2 = borderValue;
     } else {
-      y1 = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(chart, this.top, axisWidth) - axisWidth / 2;
-      y2 = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.V)(chart, this.bottom, lastLineWidth) + lastLineWidth / 2;
+      y1 = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(chart, this.top, axisWidth) - axisWidth / 2;
+      y2 = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.J)(chart, this.bottom, lastLineWidth) + lastLineWidth / 2;
       x1 = x2 = borderValue;
     }
     ctx.save();
@@ -5315,7 +4544,7 @@ class Scale extends Element {
     const ctx = this.ctx;
     const area = this._computeLabelArea();
     if (area) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.W)(ctx, area);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.L)(ctx, area);
     }
     const items = this._labelItems || (this._labelItems = this._computeLabelItems(chartArea));
     let i, ilen;
@@ -5328,10 +4557,10 @@ class Scale extends Element {
         ctx.fillRect(item.backdrop.left, item.backdrop.top, item.backdrop.width, item.backdrop.height);
       }
       let y = item.textOffset;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(ctx, label, 0, y, tickFont, item);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(ctx, label, 0, y, tickFont, item);
     }
     if (area) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Y)(ctx);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.N)(ctx);
     }
   }
   drawTitle() {
@@ -5339,20 +4568,20 @@ class Scale extends Element {
     if (!title.display) {
       return;
     }
-    const font = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(title.font);
-    const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(title.padding);
+    const font = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(title.font);
+    const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(title.padding);
     const align = title.align;
     let offset = font.lineHeight / 2;
-    if (position === 'bottom' || position === 'center' || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
+    if (position === 'bottom' || position === 'center' || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(position)) {
       offset += padding.bottom;
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(title.text)) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(title.text)) {
         offset += font.lineHeight * (title.text.length - 1);
       }
     } else {
       offset += padding.top;
     }
     const {titleX, titleY, maxWidth, rotation} = titleArgs(this, offset, position, align);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(ctx, title.text, 0, 0, font, {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(ctx, title.text, 0, 0, font, {
       color: title.color,
       maxWidth,
       rotation,
@@ -5374,7 +4603,7 @@ class Scale extends Element {
   _layers() {
     const opts = this.options;
     const tz = opts.ticks && opts.ticks.z || 0;
-    const gz = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(opts.grid && opts.grid.z, -1);
+    const gz = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(opts.grid && opts.grid.z, -1);
     if (!this._isVisible() || this.draw !== Scale.prototype.draw) {
       return [{
         z: tz,
@@ -5417,7 +4646,7 @@ class Scale extends Element {
   }
   _resolveTickFontOptions(index) {
     const opts = this.options.ticks.setContext(this.getContext(index));
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(opts.font);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(opts.font);
   }
   _maxDigits() {
     const fontSize = this._resolveTickFontOptions(0).lineHeight;
@@ -5453,7 +4682,7 @@ class TypedRegistry {
     items[id] = item;
     registerDefaults(item, scope, parentScope);
     if (this.override) {
-      _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.override(item.id, item.overrides);
+      _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.override(item.id, item.overrides);
     }
     return scope;
   }
@@ -5467,26 +4696,26 @@ class TypedRegistry {
     if (id in items) {
       delete items[id];
     }
-    if (scope && id in _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d[scope]) {
-      delete _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d[scope][id];
+    if (scope && id in _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d[scope]) {
+      delete _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d[scope][id];
       if (this.override) {
-        delete _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a1[id];
+        delete _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.U[id];
       }
     }
   }
 }
 function registerDefaults(item, scope, parentScope) {
-  const itemDefaults = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a2)(Object.create(null), [
-    parentScope ? _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.get(parentScope) : {},
-    _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.get(scope),
+  const itemDefaults = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.V)(Object.create(null), [
+    parentScope ? _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.get(parentScope) : {},
+    _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.get(scope),
     item.defaults
   ]);
-  _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.set(scope, itemDefaults);
+  _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.set(scope, itemDefaults);
   if (item.defaultRoutes) {
     routeDefaults(scope, item.defaultRoutes);
   }
   if (item.descriptors) {
-    _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.describe(scope, item.descriptors);
+    _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.describe(scope, item.descriptors);
   }
 }
 function routeDefaults(scope, routes) {
@@ -5497,7 +4726,7 @@ function routeDefaults(scope, routes) {
     const parts = routes[property].split('.');
     const targetName = parts.pop();
     const targetScope = parts.join('.');
-    _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.route(sourceScope, sourceName, targetScope, targetName);
+    _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.route(sourceScope, sourceName, targetScope, targetName);
   });
 }
 function isIChartComponent(proto) {
@@ -5560,7 +4789,7 @@ class Registry {
       if (typedRegistry || reg.isForType(arg) || (reg === this.plugins && arg.id)) {
         this._exec(method, reg, arg);
       } else {
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(arg, item => {
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(arg, item => {
           const itemReg = typedRegistry || this._getRegistryForType(item);
           this._exec(method, itemReg, item);
         });
@@ -5568,10 +4797,10 @@ class Registry {
     });
   }
   _exec(method, registry, component) {
-    const camelMethod = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a3)(method);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(component['before' + camelMethod], [], component);
+    const camelMethod = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.W)(method);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(component['before' + camelMethod], [], component);
     registry[method](component);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(component['after' + camelMethod], [], component);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(component['after' + camelMethod], [], component);
   }
   _getRegistryForType(type) {
     for (let i = 0; i < this._typedRegistries.length; i++) {
@@ -5591,6 +4820,955 @@ class Registry {
   }
 }
 var registry = new Registry();
+
+class ScatterController extends DatasetController {
+  update(mode) {
+    const meta = this._cachedMeta;
+    const {data: points = []} = meta;
+    const animationsDisabled = this.chart._animationsDisabled;
+    let {start, count} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.q)(meta, points, animationsDisabled);
+    this._drawStart = start;
+    this._drawCount = count;
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.w)(meta)) {
+      start = 0;
+      count = points.length;
+    }
+    if (this.options.showLine) {
+      const {dataset: line, _dataset} = meta;
+      line._chart = this.chart;
+      line._datasetIndex = this.index;
+      line._decimated = !!_dataset._decimated;
+      line.points = points;
+      const options = this.resolveDatasetElementOptions(mode);
+      options.segment = this.options.segment;
+      this.updateElement(line, undefined, {
+        animated: !animationsDisabled,
+        options
+      }, mode);
+    }
+    this.updateElements(points, start, count, mode);
+  }
+  addElements() {
+    const {showLine} = this.options;
+    if (!this.datasetElementType && showLine) {
+      this.datasetElementType = registry.getElement('line');
+    }
+    super.addElements();
+  }
+  updateElements(points, start, count, mode) {
+    const reset = mode === 'reset';
+    const {iScale, vScale, _stacked, _dataset} = this._cachedMeta;
+    const firstOpts = this.resolveDataElementOptions(start, mode);
+    const sharedOptions = this.getSharedOptions(firstOpts);
+    const includeOptions = this.includeOptions(mode, sharedOptions);
+    const iAxis = iScale.axis;
+    const vAxis = vScale.axis;
+    const {spanGaps, segment} = this.options;
+    const maxGapLength = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.x)(spanGaps) ? spanGaps : Number.POSITIVE_INFINITY;
+    const directUpdate = this.chart._animationsDisabled || reset || mode === 'none';
+    let prevParsed = start > 0 && this.getParsed(start - 1);
+    for (let i = start; i < start + count; ++i) {
+      const point = points[i];
+      const parsed = this.getParsed(i);
+      const properties = directUpdate ? point : {};
+      const nullData = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(parsed[vAxis]);
+      const iPixel = properties[iAxis] = iScale.getPixelForValue(parsed[iAxis], i);
+      const vPixel = properties[vAxis] = reset || nullData ? vScale.getBasePixel() : vScale.getPixelForValue(_stacked ? this.applyStack(vScale, parsed, _stacked) : parsed[vAxis], i);
+      properties.skip = isNaN(iPixel) || isNaN(vPixel) || nullData;
+      properties.stop = i > 0 && (Math.abs(parsed[iAxis] - prevParsed[iAxis])) > maxGapLength;
+      if (segment) {
+        properties.parsed = parsed;
+        properties.raw = _dataset.data[i];
+      }
+      if (includeOptions) {
+        properties.options = sharedOptions || this.resolveDataElementOptions(i, point.active ? 'active' : mode);
+      }
+      if (!directUpdate) {
+        this.updateElement(point, i, properties, mode);
+      }
+      prevParsed = parsed;
+    }
+    this.updateSharedOptions(sharedOptions, mode, firstOpts);
+  }
+  getMaxOverflow() {
+    const meta = this._cachedMeta;
+    const data = meta.data || [];
+    if (!this.options.showLine) {
+      let max = 0;
+      for (let i = data.length - 1; i >= 0; --i) {
+        max = Math.max(max, data[i].size(this.resolveDataElementOptions(i)) / 2);
+      }
+      return max > 0 && max;
+    }
+    const dataset = meta.dataset;
+    const border = dataset.options && dataset.options.borderWidth || 0;
+    if (!data.length) {
+      return border;
+    }
+    const firstPoint = data[0].size(this.resolveDataElementOptions(0));
+    const lastPoint = data[data.length - 1].size(this.resolveDataElementOptions(data.length - 1));
+    return Math.max(border, firstPoint, lastPoint) / 2;
+  }
+}
+ScatterController.id = 'scatter';
+ScatterController.defaults = {
+  datasetElementType: false,
+  dataElementType: 'point',
+  showLine: false,
+  fill: false
+};
+ScatterController.overrides = {
+  interaction: {
+    mode: 'point'
+  },
+  plugins: {
+    tooltip: {
+      callbacks: {
+        title() {
+          return '';
+        },
+        label(item) {
+          return '(' + item.label + ', ' + item.formattedValue + ')';
+        }
+      }
+    }
+  },
+  scales: {
+    x: {
+      type: 'linear'
+    },
+    y: {
+      type: 'linear'
+    }
+  }
+};
+
+var controllers = /*#__PURE__*/Object.freeze({
+__proto__: null,
+BarController: BarController,
+BubbleController: BubbleController,
+DoughnutController: DoughnutController,
+LineController: LineController,
+PolarAreaController: PolarAreaController,
+PieController: PieController,
+RadarController: RadarController,
+ScatterController: ScatterController
+});
+
+function abstract() {
+  throw new Error('This method is not implemented: Check that a complete date adapter is provided.');
+}
+class DateAdapter {
+  constructor(options) {
+    this.options = options || {};
+  }
+  init(chartOptions) {}
+  formats() {
+    return abstract();
+  }
+  parse(value, format) {
+    return abstract();
+  }
+  format(timestamp, format) {
+    return abstract();
+  }
+  add(timestamp, amount, unit) {
+    return abstract();
+  }
+  diff(a, b, unit) {
+    return abstract();
+  }
+  startOf(timestamp, unit, weekday) {
+    return abstract();
+  }
+  endOf(timestamp, unit) {
+    return abstract();
+  }
+}
+DateAdapter.override = function(members) {
+  Object.assign(DateAdapter.prototype, members);
+};
+var adapters = {
+  _date: DateAdapter
+};
+
+function binarySearch(metaset, axis, value, intersect) {
+  const {controller, data, _sorted} = metaset;
+  const iScale = controller._cachedMeta.iScale;
+  if (iScale && axis === iScale.axis && axis !== 'r' && _sorted && data.length) {
+    const lookupMethod = iScale._reversePixels ? _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Y : _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Z;
+    if (!intersect) {
+      return lookupMethod(data, axis, value);
+    } else if (controller._sharedOptions) {
+      const el = data[0];
+      const range = typeof el.getRange === 'function' && el.getRange(axis);
+      if (range) {
+        const start = lookupMethod(data, axis, value - range);
+        const end = lookupMethod(data, axis, value + range);
+        return {lo: start.lo, hi: end.hi};
+      }
+    }
+  }
+  return {lo: 0, hi: data.length - 1};
+}
+function evaluateInteractionItems(chart, axis, position, handler, intersect) {
+  const metasets = chart.getSortedVisibleDatasetMetas();
+  const value = position[axis];
+  for (let i = 0, ilen = metasets.length; i < ilen; ++i) {
+    const {index, data} = metasets[i];
+    const {lo, hi} = binarySearch(metasets[i], axis, value, intersect);
+    for (let j = lo; j <= hi; ++j) {
+      const element = data[j];
+      if (!element.skip) {
+        handler(element, index, j);
+      }
+    }
+  }
+}
+function getDistanceMetricForAxis(axis) {
+  const useX = axis.indexOf('x') !== -1;
+  const useY = axis.indexOf('y') !== -1;
+  return function(pt1, pt2) {
+    const deltaX = useX ? Math.abs(pt1.x - pt2.x) : 0;
+    const deltaY = useY ? Math.abs(pt1.y - pt2.y) : 0;
+    return Math.sqrt(Math.pow(deltaX, 2) + Math.pow(deltaY, 2));
+  };
+}
+function getIntersectItems(chart, position, axis, useFinalPosition, includeInvisible) {
+  const items = [];
+  if (!includeInvisible && !chart.isPointInArea(position)) {
+    return items;
+  }
+  const evaluationFunc = function(element, datasetIndex, index) {
+    if (!includeInvisible && !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.$)(element, chart.chartArea, 0)) {
+      return;
+    }
+    if (element.inRange(position.x, position.y, useFinalPosition)) {
+      items.push({element, datasetIndex, index});
+    }
+  };
+  evaluateInteractionItems(chart, axis, position, evaluationFunc, true);
+  return items;
+}
+function getNearestRadialItems(chart, position, axis, useFinalPosition) {
+  let items = [];
+  function evaluationFunc(element, datasetIndex, index) {
+    const {startAngle, endAngle} = element.getProps(['startAngle', 'endAngle'], useFinalPosition);
+    const {angle} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a0)(element, {x: position.x, y: position.y});
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle)) {
+      items.push({element, datasetIndex, index});
+    }
+  }
+  evaluateInteractionItems(chart, axis, position, evaluationFunc);
+  return items;
+}
+function getNearestCartesianItems(chart, position, axis, intersect, useFinalPosition, includeInvisible) {
+  let items = [];
+  const distanceMetric = getDistanceMetricForAxis(axis);
+  let minDistance = Number.POSITIVE_INFINITY;
+  function evaluationFunc(element, datasetIndex, index) {
+    const inRange = element.inRange(position.x, position.y, useFinalPosition);
+    if (intersect && !inRange) {
+      return;
+    }
+    const center = element.getCenterPoint(useFinalPosition);
+    const pointInArea = !!includeInvisible || chart.isPointInArea(center);
+    if (!pointInArea && !inRange) {
+      return;
+    }
+    const distance = distanceMetric(position, center);
+    if (distance < minDistance) {
+      items = [{element, datasetIndex, index}];
+      minDistance = distance;
+    } else if (distance === minDistance) {
+      items.push({element, datasetIndex, index});
+    }
+  }
+  evaluateInteractionItems(chart, axis, position, evaluationFunc);
+  return items;
+}
+function getNearestItems(chart, position, axis, intersect, useFinalPosition, includeInvisible) {
+  if (!includeInvisible && !chart.isPointInArea(position)) {
+    return [];
+  }
+  return axis === 'r' && !intersect
+    ? getNearestRadialItems(chart, position, axis, useFinalPosition)
+    : getNearestCartesianItems(chart, position, axis, intersect, useFinalPosition, includeInvisible);
+}
+function getAxisItems(chart, position, axis, intersect, useFinalPosition) {
+  const items = [];
+  const rangeMethod = axis === 'x' ? 'inXRange' : 'inYRange';
+  let intersectsItem = false;
+  evaluateInteractionItems(chart, axis, position, (element, datasetIndex, index) => {
+    if (element[rangeMethod](position[axis], useFinalPosition)) {
+      items.push({element, datasetIndex, index});
+      intersectsItem = intersectsItem || element.inRange(position.x, position.y, useFinalPosition);
+    }
+  });
+  if (intersect && !intersectsItem) {
+    return [];
+  }
+  return items;
+}
+var Interaction = {
+  evaluateInteractionItems,
+  modes: {
+    index(chart, e, options, useFinalPosition) {
+      const position = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(e, chart);
+      const axis = options.axis || 'x';
+      const includeInvisible = options.includeInvisible || false;
+      const items = options.intersect
+        ? getIntersectItems(chart, position, axis, useFinalPosition, includeInvisible)
+        : getNearestItems(chart, position, axis, false, useFinalPosition, includeInvisible);
+      const elements = [];
+      if (!items.length) {
+        return [];
+      }
+      chart.getSortedVisibleDatasetMetas().forEach((meta) => {
+        const index = items[0].index;
+        const element = meta.data[index];
+        if (element && !element.skip) {
+          elements.push({element, datasetIndex: meta.index, index});
+        }
+      });
+      return elements;
+    },
+    dataset(chart, e, options, useFinalPosition) {
+      const position = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(e, chart);
+      const axis = options.axis || 'xy';
+      const includeInvisible = options.includeInvisible || false;
+      let items = options.intersect
+        ? getIntersectItems(chart, position, axis, useFinalPosition, includeInvisible) :
+        getNearestItems(chart, position, axis, false, useFinalPosition, includeInvisible);
+      if (items.length > 0) {
+        const datasetIndex = items[0].datasetIndex;
+        const data = chart.getDatasetMeta(datasetIndex).data;
+        items = [];
+        for (let i = 0; i < data.length; ++i) {
+          items.push({element: data[i], datasetIndex, index: i});
+        }
+      }
+      return items;
+    },
+    point(chart, e, options, useFinalPosition) {
+      const position = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(e, chart);
+      const axis = options.axis || 'xy';
+      const includeInvisible = options.includeInvisible || false;
+      return getIntersectItems(chart, position, axis, useFinalPosition, includeInvisible);
+    },
+    nearest(chart, e, options, useFinalPosition) {
+      const position = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(e, chart);
+      const axis = options.axis || 'xy';
+      const includeInvisible = options.includeInvisible || false;
+      return getNearestItems(chart, position, axis, options.intersect, useFinalPosition, includeInvisible);
+    },
+    x(chart, e, options, useFinalPosition) {
+      const position = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(e, chart);
+      return getAxisItems(chart, position, 'x', options.intersect, useFinalPosition);
+    },
+    y(chart, e, options, useFinalPosition) {
+      const position = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(e, chart);
+      return getAxisItems(chart, position, 'y', options.intersect, useFinalPosition);
+    }
+  }
+};
+
+const STATIC_POSITIONS = ['left', 'top', 'right', 'bottom'];
+function filterByPosition(array, position) {
+  return array.filter(v => v.pos === position);
+}
+function filterDynamicPositionByAxis(array, axis) {
+  return array.filter(v => STATIC_POSITIONS.indexOf(v.pos) === -1 && v.box.axis === axis);
+}
+function sortByWeight(array, reverse) {
+  return array.sort((a, b) => {
+    const v0 = reverse ? b : a;
+    const v1 = reverse ? a : b;
+    return v0.weight === v1.weight ?
+      v0.index - v1.index :
+      v0.weight - v1.weight;
+  });
+}
+function wrapBoxes(boxes) {
+  const layoutBoxes = [];
+  let i, ilen, box, pos, stack, stackWeight;
+  for (i = 0, ilen = (boxes || []).length; i < ilen; ++i) {
+    box = boxes[i];
+    ({position: pos, options: {stack, stackWeight = 1}} = box);
+    layoutBoxes.push({
+      index: i,
+      box,
+      pos,
+      horizontal: box.isHorizontal(),
+      weight: box.weight,
+      stack: stack && (pos + stack),
+      stackWeight
+    });
+  }
+  return layoutBoxes;
+}
+function buildStacks(layouts) {
+  const stacks = {};
+  for (const wrap of layouts) {
+    const {stack, pos, stackWeight} = wrap;
+    if (!stack || !STATIC_POSITIONS.includes(pos)) {
+      continue;
+    }
+    const _stack = stacks[stack] || (stacks[stack] = {count: 0, placed: 0, weight: 0, size: 0});
+    _stack.count++;
+    _stack.weight += stackWeight;
+  }
+  return stacks;
+}
+function setLayoutDims(layouts, params) {
+  const stacks = buildStacks(layouts);
+  const {vBoxMaxWidth, hBoxMaxHeight} = params;
+  let i, ilen, layout;
+  for (i = 0, ilen = layouts.length; i < ilen; ++i) {
+    layout = layouts[i];
+    const {fullSize} = layout.box;
+    const stack = stacks[layout.stack];
+    const factor = stack && layout.stackWeight / stack.weight;
+    if (layout.horizontal) {
+      layout.width = factor ? factor * vBoxMaxWidth : fullSize && params.availableWidth;
+      layout.height = hBoxMaxHeight;
+    } else {
+      layout.width = vBoxMaxWidth;
+      layout.height = factor ? factor * hBoxMaxHeight : fullSize && params.availableHeight;
+    }
+  }
+  return stacks;
+}
+function buildLayoutBoxes(boxes) {
+  const layoutBoxes = wrapBoxes(boxes);
+  const fullSize = sortByWeight(layoutBoxes.filter(wrap => wrap.box.fullSize), true);
+  const left = sortByWeight(filterByPosition(layoutBoxes, 'left'), true);
+  const right = sortByWeight(filterByPosition(layoutBoxes, 'right'));
+  const top = sortByWeight(filterByPosition(layoutBoxes, 'top'), true);
+  const bottom = sortByWeight(filterByPosition(layoutBoxes, 'bottom'));
+  const centerHorizontal = filterDynamicPositionByAxis(layoutBoxes, 'x');
+  const centerVertical = filterDynamicPositionByAxis(layoutBoxes, 'y');
+  return {
+    fullSize,
+    leftAndTop: left.concat(top),
+    rightAndBottom: right.concat(centerVertical).concat(bottom).concat(centerHorizontal),
+    chartArea: filterByPosition(layoutBoxes, 'chartArea'),
+    vertical: left.concat(right).concat(centerVertical),
+    horizontal: top.concat(bottom).concat(centerHorizontal)
+  };
+}
+function getCombinedMax(maxPadding, chartArea, a, b) {
+  return Math.max(maxPadding[a], chartArea[a]) + Math.max(maxPadding[b], chartArea[b]);
+}
+function updateMaxPadding(maxPadding, boxPadding) {
+  maxPadding.top = Math.max(maxPadding.top, boxPadding.top);
+  maxPadding.left = Math.max(maxPadding.left, boxPadding.left);
+  maxPadding.bottom = Math.max(maxPadding.bottom, boxPadding.bottom);
+  maxPadding.right = Math.max(maxPadding.right, boxPadding.right);
+}
+function updateDims(chartArea, params, layout, stacks) {
+  const {pos, box} = layout;
+  const maxPadding = chartArea.maxPadding;
+  if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(pos)) {
+    if (layout.size) {
+      chartArea[pos] -= layout.size;
+    }
+    const stack = stacks[layout.stack] || {size: 0, count: 1};
+    stack.size = Math.max(stack.size, layout.horizontal ? box.height : box.width);
+    layout.size = stack.size / stack.count;
+    chartArea[pos] += layout.size;
+  }
+  if (box.getPadding) {
+    updateMaxPadding(maxPadding, box.getPadding());
+  }
+  const newWidth = Math.max(0, params.outerWidth - getCombinedMax(maxPadding, chartArea, 'left', 'right'));
+  const newHeight = Math.max(0, params.outerHeight - getCombinedMax(maxPadding, chartArea, 'top', 'bottom'));
+  const widthChanged = newWidth !== chartArea.w;
+  const heightChanged = newHeight !== chartArea.h;
+  chartArea.w = newWidth;
+  chartArea.h = newHeight;
+  return layout.horizontal
+    ? {same: widthChanged, other: heightChanged}
+    : {same: heightChanged, other: widthChanged};
+}
+function handleMaxPadding(chartArea) {
+  const maxPadding = chartArea.maxPadding;
+  function updatePos(pos) {
+    const change = Math.max(maxPadding[pos] - chartArea[pos], 0);
+    chartArea[pos] += change;
+    return change;
+  }
+  chartArea.y += updatePos('top');
+  chartArea.x += updatePos('left');
+  updatePos('right');
+  updatePos('bottom');
+}
+function getMargins(horizontal, chartArea) {
+  const maxPadding = chartArea.maxPadding;
+  function marginForPositions(positions) {
+    const margin = {left: 0, top: 0, right: 0, bottom: 0};
+    positions.forEach((pos) => {
+      margin[pos] = Math.max(chartArea[pos], maxPadding[pos]);
+    });
+    return margin;
+  }
+  return horizontal
+    ? marginForPositions(['left', 'right'])
+    : marginForPositions(['top', 'bottom']);
+}
+function fitBoxes(boxes, chartArea, params, stacks) {
+  const refitBoxes = [];
+  let i, ilen, layout, box, refit, changed;
+  for (i = 0, ilen = boxes.length, refit = 0; i < ilen; ++i) {
+    layout = boxes[i];
+    box = layout.box;
+    box.update(
+      layout.width || chartArea.w,
+      layout.height || chartArea.h,
+      getMargins(layout.horizontal, chartArea)
+    );
+    const {same, other} = updateDims(chartArea, params, layout, stacks);
+    refit |= same && refitBoxes.length;
+    changed = changed || other;
+    if (!box.fullSize) {
+      refitBoxes.push(layout);
+    }
+  }
+  return refit && fitBoxes(refitBoxes, chartArea, params, stacks) || changed;
+}
+function setBoxDims(box, left, top, width, height) {
+  box.top = top;
+  box.left = left;
+  box.right = left + width;
+  box.bottom = top + height;
+  box.width = width;
+  box.height = height;
+}
+function placeBoxes(boxes, chartArea, params, stacks) {
+  const userPadding = params.padding;
+  let {x, y} = chartArea;
+  for (const layout of boxes) {
+    const box = layout.box;
+    const stack = stacks[layout.stack] || {count: 1, placed: 0, weight: 1};
+    const weight = (layout.stackWeight / stack.weight) || 1;
+    if (layout.horizontal) {
+      const width = chartArea.w * weight;
+      const height = stack.size || box.height;
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.j)(stack.start)) {
+        y = stack.start;
+      }
+      if (box.fullSize) {
+        setBoxDims(box, userPadding.left, y, params.outerWidth - userPadding.right - userPadding.left, height);
+      } else {
+        setBoxDims(box, chartArea.left + stack.placed, y, width, height);
+      }
+      stack.start = y;
+      stack.placed += width;
+      y = box.bottom;
+    } else {
+      const height = chartArea.h * weight;
+      const width = stack.size || box.width;
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.j)(stack.start)) {
+        x = stack.start;
+      }
+      if (box.fullSize) {
+        setBoxDims(box, x, userPadding.top, width, params.outerHeight - userPadding.bottom - userPadding.top);
+      } else {
+        setBoxDims(box, x, chartArea.top + stack.placed, width, height);
+      }
+      stack.start = x;
+      stack.placed += height;
+      x = box.right;
+    }
+  }
+  chartArea.x = x;
+  chartArea.y = y;
+}
+_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.set('layout', {
+  autoPadding: true,
+  padding: {
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0
+  }
+});
+var layouts = {
+  addBox(chart, item) {
+    if (!chart.boxes) {
+      chart.boxes = [];
+    }
+    item.fullSize = item.fullSize || false;
+    item.position = item.position || 'top';
+    item.weight = item.weight || 0;
+    item._layers = item._layers || function() {
+      return [{
+        z: 0,
+        draw(chartArea) {
+          item.draw(chartArea);
+        }
+      }];
+    };
+    chart.boxes.push(item);
+  },
+  removeBox(chart, layoutItem) {
+    const index = chart.boxes ? chart.boxes.indexOf(layoutItem) : -1;
+    if (index !== -1) {
+      chart.boxes.splice(index, 1);
+    }
+  },
+  configure(chart, item, options) {
+    item.fullSize = options.fullSize;
+    item.position = options.position;
+    item.weight = options.weight;
+  },
+  update(chart, width, height, minPadding) {
+    if (!chart) {
+      return;
+    }
+    const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(chart.options.layout.padding);
+    const availableWidth = Math.max(width - padding.width, 0);
+    const availableHeight = Math.max(height - padding.height, 0);
+    const boxes = buildLayoutBoxes(chart.boxes);
+    const verticalBoxes = boxes.vertical;
+    const horizontalBoxes = boxes.horizontal;
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(chart.boxes, box => {
+      if (typeof box.beforeLayout === 'function') {
+        box.beforeLayout();
+      }
+    });
+    const visibleVerticalBoxCount = verticalBoxes.reduce((total, wrap) =>
+      wrap.box.options && wrap.box.options.display === false ? total : total + 1, 0) || 1;
+    const params = Object.freeze({
+      outerWidth: width,
+      outerHeight: height,
+      padding,
+      availableWidth,
+      availableHeight,
+      vBoxMaxWidth: availableWidth / 2 / visibleVerticalBoxCount,
+      hBoxMaxHeight: availableHeight / 2
+    });
+    const maxPadding = Object.assign({}, padding);
+    updateMaxPadding(maxPadding, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(minPadding));
+    const chartArea = Object.assign({
+      maxPadding,
+      w: availableWidth,
+      h: availableHeight,
+      x: padding.left,
+      y: padding.top
+    }, padding);
+    const stacks = setLayoutDims(verticalBoxes.concat(horizontalBoxes), params);
+    fitBoxes(boxes.fullSize, chartArea, params, stacks);
+    fitBoxes(verticalBoxes, chartArea, params, stacks);
+    if (fitBoxes(horizontalBoxes, chartArea, params, stacks)) {
+      fitBoxes(verticalBoxes, chartArea, params, stacks);
+    }
+    handleMaxPadding(chartArea);
+    placeBoxes(boxes.leftAndTop, chartArea, params, stacks);
+    chartArea.x += chartArea.w;
+    chartArea.y += chartArea.h;
+    placeBoxes(boxes.rightAndBottom, chartArea, params, stacks);
+    chart.chartArea = {
+      left: chartArea.left,
+      top: chartArea.top,
+      right: chartArea.left + chartArea.w,
+      bottom: chartArea.top + chartArea.h,
+      height: chartArea.h,
+      width: chartArea.w,
+    };
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(boxes.chartArea, (layout) => {
+      const box = layout.box;
+      Object.assign(box, chart.chartArea);
+      box.update(chartArea.w, chartArea.h, {left: 0, top: 0, right: 0, bottom: 0});
+    });
+  }
+};
+
+class BasePlatform {
+  acquireContext(canvas, aspectRatio) {}
+  releaseContext(context) {
+    return false;
+  }
+  addEventListener(chart, type, listener) {}
+  removeEventListener(chart, type, listener) {}
+  getDevicePixelRatio() {
+    return 1;
+  }
+  getMaximumSize(element, width, height, aspectRatio) {
+    width = Math.max(0, width || element.width);
+    height = height || element.height;
+    return {
+      width,
+      height: Math.max(0, aspectRatio ? Math.floor(width / aspectRatio) : height)
+    };
+  }
+  isAttached(canvas) {
+    return true;
+  }
+  updateConfig(config) {
+  }
+}
+
+class BasicPlatform extends BasePlatform {
+  acquireContext(item) {
+    return item && item.getContext && item.getContext('2d') || null;
+  }
+  updateConfig(config) {
+    config.options.animation = false;
+  }
+}
+
+const EXPANDO_KEY = '$chartjs';
+const EVENT_TYPES = {
+  touchstart: 'mousedown',
+  touchmove: 'mousemove',
+  touchend: 'mouseup',
+  pointerenter: 'mouseenter',
+  pointerdown: 'mousedown',
+  pointermove: 'mousemove',
+  pointerup: 'mouseup',
+  pointerleave: 'mouseout',
+  pointerout: 'mouseout'
+};
+const isNullOrEmpty = value => value === null || value === '';
+function initCanvas(canvas, aspectRatio) {
+  const style = canvas.style;
+  const renderHeight = canvas.getAttribute('height');
+  const renderWidth = canvas.getAttribute('width');
+  canvas[EXPANDO_KEY] = {
+    initial: {
+      height: renderHeight,
+      width: renderWidth,
+      style: {
+        display: style.display,
+        height: style.height,
+        width: style.width
+      }
+    }
+  };
+  style.display = style.display || 'block';
+  style.boxSizing = style.boxSizing || 'border-box';
+  if (isNullOrEmpty(renderWidth)) {
+    const displayWidth = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a3)(canvas, 'width');
+    if (displayWidth !== undefined) {
+      canvas.width = displayWidth;
+    }
+  }
+  if (isNullOrEmpty(renderHeight)) {
+    if (canvas.style.height === '') {
+      canvas.height = canvas.width / (aspectRatio || 2);
+    } else {
+      const displayHeight = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a3)(canvas, 'height');
+      if (displayHeight !== undefined) {
+        canvas.height = displayHeight;
+      }
+    }
+  }
+  return canvas;
+}
+const eventListenerOptions = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a5 ? {passive: true} : false;
+function addListener(node, type, listener) {
+  node.addEventListener(type, listener, eventListenerOptions);
+}
+function removeListener(chart, type, listener) {
+  chart.canvas.removeEventListener(type, listener, eventListenerOptions);
+}
+function fromNativeEvent(event, chart) {
+  const type = EVENT_TYPES[event.type] || event.type;
+  const {x, y} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.X)(event, chart);
+  return {
+    type,
+    chart,
+    native: event,
+    x: x !== undefined ? x : null,
+    y: y !== undefined ? y : null,
+  };
+}
+function nodeListContains(nodeList, canvas) {
+  for (const node of nodeList) {
+    if (node === canvas || node.contains(canvas)) {
+      return true;
+    }
+  }
+}
+function createAttachObserver(chart, type, listener) {
+  const canvas = chart.canvas;
+  const observer = new MutationObserver(entries => {
+    let trigger = false;
+    for (const entry of entries) {
+      trigger = trigger || nodeListContains(entry.addedNodes, canvas);
+      trigger = trigger && !nodeListContains(entry.removedNodes, canvas);
+    }
+    if (trigger) {
+      listener();
+    }
+  });
+  observer.observe(document, {childList: true, subtree: true});
+  return observer;
+}
+function createDetachObserver(chart, type, listener) {
+  const canvas = chart.canvas;
+  const observer = new MutationObserver(entries => {
+    let trigger = false;
+    for (const entry of entries) {
+      trigger = trigger || nodeListContains(entry.removedNodes, canvas);
+      trigger = trigger && !nodeListContains(entry.addedNodes, canvas);
+    }
+    if (trigger) {
+      listener();
+    }
+  });
+  observer.observe(document, {childList: true, subtree: true});
+  return observer;
+}
+const drpListeningCharts = new Map();
+let oldDevicePixelRatio = 0;
+function onWindowResize() {
+  const dpr = window.devicePixelRatio;
+  if (dpr === oldDevicePixelRatio) {
+    return;
+  }
+  oldDevicePixelRatio = dpr;
+  drpListeningCharts.forEach((resize, chart) => {
+    if (chart.currentDevicePixelRatio !== dpr) {
+      resize();
+    }
+  });
+}
+function listenDevicePixelRatioChanges(chart, resize) {
+  if (!drpListeningCharts.size) {
+    window.addEventListener('resize', onWindowResize);
+  }
+  drpListeningCharts.set(chart, resize);
+}
+function unlistenDevicePixelRatioChanges(chart) {
+  drpListeningCharts.delete(chart);
+  if (!drpListeningCharts.size) {
+    window.removeEventListener('resize', onWindowResize);
+  }
+}
+function createResizeObserver(chart, type, listener) {
+  const canvas = chart.canvas;
+  const container = canvas && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a2)(canvas);
+  if (!container) {
+    return;
+  }
+  const resize = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a4)((width, height) => {
+    const w = container.clientWidth;
+    listener(width, height);
+    if (w < container.clientWidth) {
+      listener();
+    }
+  }, window);
+  const observer = new ResizeObserver(entries => {
+    const entry = entries[0];
+    const width = entry.contentRect.width;
+    const height = entry.contentRect.height;
+    if (width === 0 && height === 0) {
+      return;
+    }
+    resize(width, height);
+  });
+  observer.observe(container);
+  listenDevicePixelRatioChanges(chart, resize);
+  return observer;
+}
+function releaseObserver(chart, type, observer) {
+  if (observer) {
+    observer.disconnect();
+  }
+  if (type === 'resize') {
+    unlistenDevicePixelRatioChanges(chart);
+  }
+}
+function createProxyAndListen(chart, type, listener) {
+  const canvas = chart.canvas;
+  const proxy = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a4)((event) => {
+    if (chart.ctx !== null) {
+      listener(fromNativeEvent(event, chart));
+    }
+  }, chart, (args) => {
+    const event = args[0];
+    return [event, event.offsetX, event.offsetY];
+  });
+  addListener(canvas, type, proxy);
+  return proxy;
+}
+class DomPlatform extends BasePlatform {
+  acquireContext(canvas, aspectRatio) {
+    const context = canvas && canvas.getContext && canvas.getContext('2d');
+    if (context && context.canvas === canvas) {
+      initCanvas(canvas, aspectRatio);
+      return context;
+    }
+    return null;
+  }
+  releaseContext(context) {
+    const canvas = context.canvas;
+    if (!canvas[EXPANDO_KEY]) {
+      return false;
+    }
+    const initial = canvas[EXPANDO_KEY].initial;
+    ['height', 'width'].forEach((prop) => {
+      const value = initial[prop];
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(value)) {
+        canvas.removeAttribute(prop);
+      } else {
+        canvas.setAttribute(prop, value);
+      }
+    });
+    const style = initial.style || {};
+    Object.keys(style).forEach((key) => {
+      canvas.style[key] = style[key];
+    });
+    canvas.width = canvas.width;
+    delete canvas[EXPANDO_KEY];
+    return true;
+  }
+  addEventListener(chart, type, listener) {
+    this.removeEventListener(chart, type);
+    const proxies = chart.$proxies || (chart.$proxies = {});
+    const handlers = {
+      attach: createAttachObserver,
+      detach: createDetachObserver,
+      resize: createResizeObserver
+    };
+    const handler = handlers[type] || createProxyAndListen;
+    proxies[type] = handler(chart, type, listener);
+  }
+  removeEventListener(chart, type) {
+    const proxies = chart.$proxies || (chart.$proxies = {});
+    const proxy = proxies[type];
+    if (!proxy) {
+      return;
+    }
+    const handlers = {
+      attach: releaseObserver,
+      detach: releaseObserver,
+      resize: releaseObserver
+    };
+    const handler = handlers[type] || removeListener;
+    handler(chart, type, proxy);
+    proxies[type] = undefined;
+  }
+  getDevicePixelRatio() {
+    return window.devicePixelRatio;
+  }
+  getMaximumSize(canvas, width, height, aspectRatio) {
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a1)(canvas, width, height, aspectRatio);
+  }
+  isAttached(canvas) {
+    const container = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a2)(canvas);
+    return !!(container && container.isConnected);
+  }
+}
+
+function _detectPlatform(canvas) {
+  if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a6)() || (typeof OffscreenCanvas !== 'undefined' && canvas instanceof OffscreenCanvas)) {
+    return BasicPlatform;
+  }
+  return DomPlatform;
+}
 
 class PluginService {
   constructor() {
@@ -5615,14 +5793,14 @@ class PluginService {
       const plugin = descriptor.plugin;
       const method = plugin[hook];
       const params = [chart, args, descriptor.options];
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(method, params, plugin) === false && args.cancelable) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(method, params, plugin) === false && args.cancelable) {
         return false;
       }
     }
     return true;
   }
   invalidate() {
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(this._cache)) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(this._cache)) {
       this._oldCache = this._cache;
       this._cache = undefined;
     }
@@ -5637,7 +5815,7 @@ class PluginService {
   }
   _createDescriptors(chart, all) {
     const config = chart && chart.config;
-    const options = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(config.options && config.options.plugins, {});
+    const options = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(config.options && config.options.plugins, {});
     const plugins = allPlugins(config);
     return options === false && !all ? [] : createDescriptors(chart, plugins, options, all);
   }
@@ -5650,6 +5828,7 @@ class PluginService {
   }
 }
 function allPlugins(config) {
+  const localIds = {};
   const plugins = [];
   const keys = Object.keys(registry.plugins.items);
   for (let i = 0; i < keys.length; i++) {
@@ -5660,9 +5839,10 @@ function allPlugins(config) {
     const plugin = local[i];
     if (plugins.indexOf(plugin) === -1) {
       plugins.push(plugin);
+      localIds[plugin.id] = true;
     }
   }
-  return plugins;
+  return {plugins, localIds};
 }
 function getOpts(options, all) {
   if (!all && options === false) {
@@ -5673,11 +5853,10 @@ function getOpts(options, all) {
   }
   return options;
 }
-function createDescriptors(chart, plugins, options, all) {
+function createDescriptors(chart, {plugins, localIds}, options, all) {
   const result = [];
   const context = chart.getContext();
-  for (let i = 0; i < plugins.length; i++) {
-    const plugin = plugins[i];
+  for (const plugin of plugins) {
     const id = plugin.id;
     const opts = getOpts(options[id], all);
     if (opts === null) {
@@ -5685,19 +5864,26 @@ function createDescriptors(chart, plugins, options, all) {
     }
     result.push({
       plugin,
-      options: pluginOpts(chart.config, plugin, opts, context)
+      options: pluginOpts(chart.config, {plugin, local: localIds[id]}, opts, context)
     });
   }
   return result;
 }
-function pluginOpts(config, plugin, opts, context) {
+function pluginOpts(config, {plugin, local}, opts, context) {
   const keys = config.pluginScopeKeys(plugin);
   const scopes = config.getOptionScopes(opts, keys);
-  return config.createResolver(scopes, context, [''], {scriptable: false, indexable: false, allKeys: true});
+  if (local && plugin.defaults) {
+    scopes.push(plugin.defaults);
+  }
+  return config.createResolver(scopes, context, [''], {
+    scriptable: false,
+    indexable: false,
+    allKeys: true
+  });
 }
 
 function getIndexAxis(type, options) {
-  const datasetDefaults = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.datasets[type] || {};
+  const datasetDefaults = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.datasets[type] || {};
   const datasetOptions = (options.datasets || {})[type] || {};
   return datasetOptions.indexAxis || options.indexAxis || datasetDefaults.indexAxis || 'x';
 }
@@ -5728,14 +5914,14 @@ function determineAxis(id, scaleOptions) {
   return scaleOptions.axis || axisFromPosition(scaleOptions.position) || id.charAt(0).toLowerCase();
 }
 function mergeScaleConfig(config, options) {
-  const chartDefaults = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a1[config.type] || {scales: {}};
+  const chartDefaults = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.U[config.type] || {scales: {}};
   const configScales = options.scales || {};
   const chartIndexAxis = getIndexAxis(config.type, options);
   const firstIDs = Object.create(null);
   const scales = Object.create(null);
   Object.keys(configScales).forEach(id => {
     const scaleConf = configScales[id];
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(scaleConf)) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(scaleConf)) {
       return console.error(`Invalid scale configuration for scale: ${id}`);
     }
     if (scaleConf._proxy) {
@@ -5745,29 +5931,29 @@ function mergeScaleConfig(config, options) {
     const defaultId = getDefaultScaleIDFromAxis(axis, chartIndexAxis);
     const defaultScaleOptions = chartDefaults.scales || {};
     firstIDs[axis] = firstIDs[axis] || id;
-    scales[id] = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a9)(Object.create(null), [{axis}, scaleConf, defaultScaleOptions[axis], defaultScaleOptions[defaultId]]);
+    scales[id] = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ac)(Object.create(null), [{axis}, scaleConf, defaultScaleOptions[axis], defaultScaleOptions[defaultId]]);
   });
   config.data.datasets.forEach(dataset => {
     const type = dataset.type || config.type;
     const indexAxis = dataset.indexAxis || getIndexAxis(type, options);
-    const datasetDefaults = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a1[type] || {};
+    const datasetDefaults = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.U[type] || {};
     const defaultScaleOptions = datasetDefaults.scales || {};
     Object.keys(defaultScaleOptions).forEach(defaultID => {
       const axis = getAxisFromDefaultScaleID(defaultID, indexAxis);
       const id = dataset[axis + 'AxisID'] || firstIDs[axis] || axis;
       scales[id] = scales[id] || Object.create(null);
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a9)(scales[id], [{axis}, configScales[id], defaultScaleOptions[defaultID]]);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ac)(scales[id], [{axis}, configScales[id], defaultScaleOptions[defaultID]]);
     });
   });
   Object.keys(scales).forEach(key => {
     const scale = scales[key];
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a9)(scale, [_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.scales[scale.type], _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.scale]);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ac)(scale, [_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.scales[scale.type], _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.scale]);
   });
   return scales;
 }
 function initOptions(config) {
   const options = config.options || (config.options = {});
-  options.plugins = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(options.plugins, {});
+  options.plugins = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(options.plugins, {});
   options.scales = mergeScaleConfig(config, options);
 }
 function initData(data) {
@@ -5794,7 +5980,7 @@ function cachedKeys(cacheKey, generate) {
   return keys;
 }
 const addIfFound = (set, obj, key) => {
-  const opts = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.f)(obj, key);
+  const opts = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.f)(obj, key);
   if (opts !== undefined) {
     set.add(opts);
   }
@@ -5899,9 +6085,9 @@ class Config {
         keys.forEach(key => addIfFound(scopes, mainScope, key));
       }
       keys.forEach(key => addIfFound(scopes, options, key));
-      keys.forEach(key => addIfFound(scopes, _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a1[type] || {}, key));
-      keys.forEach(key => addIfFound(scopes, _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d, key));
-      keys.forEach(key => addIfFound(scopes, _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a4, key));
+      keys.forEach(key => addIfFound(scopes, _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.U[type] || {}, key));
+      keys.forEach(key => addIfFound(scopes, _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d, key));
+      keys.forEach(key => addIfFound(scopes, _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a7, key));
     });
     const array = Array.from(scopes);
     if (array.length === 0) {
@@ -5916,11 +6102,11 @@ class Config {
     const {options, type} = this;
     return [
       options,
-      _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a1[type] || {},
-      _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.datasets[type] || {},
+      _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.U[type] || {},
+      _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.datasets[type] || {},
       {type},
-      _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d,
-      _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a4
+      _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d,
+      _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a7
     ];
   }
   resolveNamedOptions(scopes, names, context, prefixes = ['']) {
@@ -5929,9 +6115,9 @@ class Config {
     let options = resolver;
     if (needContext(resolver, names)) {
       result.$shared = false;
-      context = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a5)(context) ? context() : context;
+      context = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a8)(context) ? context() : context;
       const subResolver = this.createResolver(scopes, context, subPrefixes);
-      options = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a6)(resolver, context, subResolver);
+      options = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a9)(resolver, context, subResolver);
     }
     for (const prop of names) {
       result[prop] = options[prop];
@@ -5940,8 +6126,8 @@ class Config {
   }
   createResolver(scopes, context, prefixes = [''], descriptorDefaults) {
     const {resolver} = getResolver(this._resolverCache, scopes, prefixes);
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(context)
-      ? (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a6)(resolver, context, undefined, descriptorDefaults)
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(context)
+      ? (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a9)(resolver, context, undefined, descriptorDefaults)
       : resolver;
   }
 }
@@ -5954,7 +6140,7 @@ function getResolver(resolverCache, scopes, prefixes) {
   const cacheKey = prefixes.join();
   let cached = cache.get(cacheKey);
   if (!cached) {
-    const resolver = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a7)(scopes, prefixes);
+    const resolver = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aa)(scopes, prefixes);
     cached = {
       resolver,
       subPrefixes: prefixes.filter(p => !p.toLowerCase().includes('hover'))
@@ -5963,23 +6149,23 @@ function getResolver(resolverCache, scopes, prefixes) {
   }
   return cached;
 }
-const hasFunction = value => (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(value)
-  && Object.getOwnPropertyNames(value).reduce((acc, key) => acc || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a5)(value[key]), false);
+const hasFunction = value => (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(value)
+  && Object.getOwnPropertyNames(value).reduce((acc, key) => acc || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a8)(value[key]), false);
 function needContext(proxy, names) {
-  const {isScriptable, isIndexable} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a8)(proxy);
+  const {isScriptable, isIndexable} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ab)(proxy);
   for (const prop of names) {
     const scriptable = isScriptable(prop);
     const indexable = isIndexable(prop);
     const value = (indexable || scriptable) && proxy[prop];
-    if ((scriptable && ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a5)(value) || hasFunction(value)))
-      || (indexable && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(value))) {
+    if ((scriptable && ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a8)(value) || hasFunction(value)))
+      || (indexable && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(value))) {
       return true;
     }
   }
   return false;
 }
 
-var version = "3.7.1";
+var version = "3.9.1";
 
 const KNOWN_POSITIONS = ['top', 'bottom', 'left', 'right', 'chartArea'];
 function positionIsHorizontal(position, axis) {
@@ -5996,15 +6182,15 @@ function onAnimationsComplete(context) {
   const chart = context.chart;
   const animationOptions = chart.options.animation;
   chart.notifyPlugins('afterRender');
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(animationOptions && animationOptions.onComplete, [context], chart);
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(animationOptions && animationOptions.onComplete, [context], chart);
 }
 function onAnimationProgress(context) {
   const chart = context.chart;
   const animationOptions = chart.options.animation;
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(animationOptions && animationOptions.onProgress, [context], chart);
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(animationOptions && animationOptions.onProgress, [context], chart);
 }
 function getCanvas(item) {
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.K)() && typeof item === 'string') {
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a6)() && typeof item === 'string') {
     item = document.getElementById(item);
   } else if (item && item.length) {
     item = item[0];
@@ -6049,7 +6235,7 @@ class Chart {
     if (existingChart) {
       throw new Error(
         'Canvas is already in use. Chart with ID \'' + existingChart.id + '\'' +
-				' must be destroyed before the canvas can be reused.'
+				' must be destroyed before the canvas with ID \'' + existingChart.canvas.id + '\' can be reused.'
       );
     }
     const options = config.createResolver(config.chartOptionScopes(), this.getContext());
@@ -6059,7 +6245,7 @@ class Chart {
     const canvas = context && context.canvas;
     const height = canvas && canvas.height;
     const width = canvas && canvas.width;
-    this.id = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aa)();
+    this.id = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ad)();
     this.ctx = context;
     this.canvas = canvas;
     this.width = width;
@@ -6084,7 +6270,7 @@ class Chart {
     this.attached = false;
     this._animationsDisabled = undefined;
     this.$context = undefined;
-    this._doResize = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ab)(mode => this.update(mode), options.resizeDelay || 0);
+    this._doResize = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ae)(mode => this.update(mode), options.resizeDelay || 0);
     this._dataChanges = [];
     instances[this.id] = this;
     if (!context || !canvas) {
@@ -6100,7 +6286,7 @@ class Chart {
   }
   get aspectRatio() {
     const {options: {aspectRatio, maintainAspectRatio}, width, height, _aspectRatio} = this;
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(aspectRatio)) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(aspectRatio)) {
       return aspectRatio;
     }
     if (maintainAspectRatio && _aspectRatio) {
@@ -6125,14 +6311,14 @@ class Chart {
     if (this.options.responsive) {
       this.resize();
     } else {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ac)(this, this.options.devicePixelRatio);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.af)(this, this.options.devicePixelRatio);
     }
     this.bindEvents();
     this.notifyPlugins('afterInit');
     return this;
   }
   clear() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ad)(this.canvas, this.ctx);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ag)(this.canvas, this.ctx);
     return this;
   }
   stop() {
@@ -6156,11 +6342,11 @@ class Chart {
     this.width = newSize.width;
     this.height = newSize.height;
     this._aspectRatio = this.aspectRatio;
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ac)(this, newRatio, true)) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.af)(this, newRatio, true)) {
       return;
     }
     this.notifyPlugins('resize', {size: newSize});
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(options.onResize, [this, newSize], this);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(options.onResize, [this, newSize], this);
     if (this.attached) {
       if (this._doResize(mode)) {
         this.render();
@@ -6170,7 +6356,7 @@ class Chart {
   ensureScalesHaveIDs() {
     const options = this.options;
     const scalesOptions = options.scales || {};
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(scalesOptions, (axisOptions, axisID) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(scalesOptions, (axisOptions, axisID) => {
       axisOptions.id = axisID;
     });
   }
@@ -6198,11 +6384,11 @@ class Chart {
         })
       );
     }
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(items, (item) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(items, (item) => {
       const scaleOptions = item.options;
       const id = scaleOptions.id;
       const axis = determineAxis(id, scaleOptions);
-      const scaleType = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(scaleOptions.type, item.dtype);
+      const scaleType = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(scaleOptions.type, item.dtype);
       if (scaleOptions.position === undefined || positionIsHorizontal(scaleOptions.position, axis) !== positionIsHorizontal(item.dposition)) {
         scaleOptions.position = item.dposition;
       }
@@ -6222,12 +6408,12 @@ class Chart {
       }
       scale.init(scaleOptions, options);
     });
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(updated, (hasUpdated, id) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(updated, (hasUpdated, id) => {
       if (!hasUpdated) {
         delete scales[id];
       }
     });
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(scales, (scale) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(scales, (scale) => {
       layouts.configure(this, scale, scale.options);
       layouts.addBox(this, scale);
     });
@@ -6280,7 +6466,7 @@ class Chart {
         meta.controller.linkScales();
       } else {
         const ControllerClass = registry.getController(type);
-        const {datasetElementType, dataElementType} = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.datasets[type];
+        const {datasetElementType, dataElementType} = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.datasets[type];
         Object.assign(ControllerClass.prototype, {
           dataElementType: registry.getElement(dataElementType),
           datasetElementType: datasetElementType && registry.getElement(datasetElementType)
@@ -6293,7 +6479,7 @@ class Chart {
     return newControllers;
   }
   _resetElements() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this.data.datasets, (dataset, datasetIndex) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this.data.datasets, (dataset, datasetIndex) => {
       this.getDatasetMeta(datasetIndex).controller.reset();
     }, this);
   }
@@ -6325,7 +6511,7 @@ class Chart {
     minPadding = this._minPadding = options.layout.autoPadding ? minPadding : 0;
     this._updateLayout(minPadding);
     if (!animsDisabled) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(newControllers, (controller) => {
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(newControllers, (controller) => {
         controller.reset();
       });
     }
@@ -6341,7 +6527,7 @@ class Chart {
     this.render();
   }
   _updateScales() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this.scales, (scale) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this.scales, (scale) => {
       layouts.removeBox(this, scale);
     });
     this.ensureScalesHaveIDs();
@@ -6351,7 +6537,7 @@ class Chart {
     const options = this.options;
     const existingEvents = new Set(Object.keys(this._listeners));
     const newEvents = new Set(options.events);
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ae)(existingEvents, newEvents) || !!this._responsiveListeners !== options.responsive) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ah)(existingEvents, newEvents) || !!this._responsiveListeners !== options.responsive) {
       this.unbindEvents();
       this.bindEvents();
     }
@@ -6378,7 +6564,7 @@ class Chart {
     );
     const changeSet = makeSet(0);
     for (let i = 1; i < datasetCount; i++) {
-      if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ae)(changeSet, makeSet(i))) {
+      if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ah)(changeSet, makeSet(i))) {
         return;
       }
     }
@@ -6394,7 +6580,7 @@ class Chart {
     const area = this.chartArea;
     const noArea = area.width <= 0 || area.height <= 0;
     this._layers = [];
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this.boxes, (box) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this.boxes, (box) => {
       if (noArea && box.position === 'chartArea') {
         return;
       }
@@ -6416,7 +6602,7 @@ class Chart {
       this.getDatasetMeta(i).controller.configure();
     }
     for (let i = 0, ilen = this.data.datasets.length; i < ilen; ++i) {
-      this._updateDataset(i, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a5)(mode) ? mode({datasetIndex: i}) : mode);
+      this._updateDataset(i, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a8)(mode) ? mode({datasetIndex: i}) : mode);
     }
     this.notifyPlugins('afterDatasetsUpdate', {mode});
   }
@@ -6506,7 +6692,7 @@ class Chart {
       return;
     }
     if (useClip) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.W)(ctx, {
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.L)(ctx, {
         left: clip.left === false ? 0 : area.left - clip.left,
         right: clip.right === false ? this.width : area.right + clip.right,
         top: clip.top === false ? 0 : area.top - clip.top,
@@ -6515,10 +6701,13 @@ class Chart {
     }
     meta.controller.draw();
     if (useClip) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Y)(ctx);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.N)(ctx);
     }
     args.cancelable = false;
     this.notifyPlugins('afterDatasetDraw', args);
+  }
+  isPointInArea(point) {
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.$)(point, this.chartArea, this._minPadding);
   }
   getElementsAtEventForMode(e, mode, options, useFinalPosition) {
     const method = Interaction.modes[mode];
@@ -6551,7 +6740,7 @@ class Chart {
     return meta;
   }
   getContext() {
-    return this.$context || (this.$context = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(null, {chart: this, type: 'chart'}));
+    return this.$context || (this.$context = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(null, {chart: this, type: 'chart'}));
   }
   getVisibleDatasetCount() {
     return this.getSortedVisibleDatasetMetas().length;
@@ -6578,7 +6767,7 @@ class Chart {
     const mode = visible ? 'show' : 'hide';
     const meta = this.getDatasetMeta(datasetIndex);
     const anims = meta.controller._resolveAnimations(undefined, mode);
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.j)(dataIndex)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.j)(dataIndex)) {
       meta.data[dataIndex].hidden = !visible;
       this.update();
     } else {
@@ -6615,7 +6804,7 @@ class Chart {
     this.config.clearCache();
     if (canvas) {
       this.unbindEvents();
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ad)(canvas, ctx);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ag)(canvas, ctx);
       this.platform.releaseContext(ctx);
       this.canvas = null;
       this.ctx = null;
@@ -6647,7 +6836,7 @@ class Chart {
       e.offsetY = y;
       this._eventHandler(e);
     };
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this.options.events, (type) => _add(type, listener));
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this.options.events, (type) => _add(type, listener));
   }
   bindResponsiveEvents() {
     if (!this._responsiveListeners) {
@@ -6692,11 +6881,11 @@ class Chart {
     }
   }
   unbindEvents() {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this._listeners, (listener, type) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this._listeners, (listener, type) => {
       this.platform.removeEventListener(this, type, listener);
     });
     this._listeners = {};
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this._responsiveListeners, (listener, type) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this._responsiveListeners, (listener, type) => {
       this.platform.removeEventListener(this, type, listener);
     });
     this._responsiveListeners = undefined;
@@ -6732,7 +6921,7 @@ class Chart {
         index,
       };
     });
-    const changed = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.af)(active, lastActive);
+    const changed = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ai)(active, lastActive);
     if (changed) {
       this._active = active;
       this._lastEvent = null;
@@ -6759,7 +6948,7 @@ class Chart {
       event: e,
       replay,
       cancelable: true,
-      inChartArea: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.z)(e, this.chartArea, this._minPadding)
+      inChartArea: this.isPointInArea(e)
     };
     const eventFilter = (plugin) => (plugin.options.events || this.options.events).includes(e.native.type);
     if (this.notifyPlugins('beforeEvent', args, eventFilter) === false) {
@@ -6777,16 +6966,16 @@ class Chart {
     const {_active: lastActive = [], options} = this;
     const useFinalPosition = replay;
     const active = this._getActiveElements(e, lastActive, inChartArea, useFinalPosition);
-    const isClick = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ag)(e);
+    const isClick = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aj)(e);
     const lastEvent = determineLastEvent(e, this._lastEvent, inChartArea, isClick);
     if (inChartArea) {
       this._lastEvent = null;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(options.onHover, [e, active, this], this);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(options.onHover, [e, active, this], this);
       if (isClick) {
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(options.onClick, [e, active, this], this);
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(options.onClick, [e, active, this], this);
       }
     }
-    const changed = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.af)(active, lastActive);
+    const changed = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ai)(active, lastActive);
     if (changed || replay) {
       this._active = active;
       this._updateHoverStyles(active, lastActive, replay);
@@ -6805,12 +6994,12 @@ class Chart {
     return this.getElementsAtEventForMode(e, hoverOptions.mode, hoverOptions, useFinalPosition);
   }
 }
-const invalidatePlugins = () => (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(Chart.instances, (chart) => chart._plugins.invalidate());
+const invalidatePlugins = () => (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(Chart.instances, (chart) => chart._plugins.invalidate());
 const enumerable = true;
 Object.defineProperties(Chart, {
   defaults: {
     enumerable,
-    value: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d
+    value: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d
   },
   instances: {
     enumerable,
@@ -6818,7 +7007,7 @@ Object.defineProperties(Chart, {
   },
   overrides: {
     enumerable,
-    value: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a1
+    value: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.U
   },
   registry: {
     enumerable,
@@ -6857,13 +7046,13 @@ function clipArc(ctx, element, endAngle) {
     angleMargin = pixelMargin / innerRadius;
     ctx.arc(x, y, innerRadius, endAngle + angleMargin, startAngle - angleMargin, true);
   } else {
-    ctx.arc(x, y, pixelMargin, endAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H, startAngle - _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H);
+    ctx.arc(x, y, pixelMargin, endAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H, startAngle - _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H);
   }
   ctx.closePath();
   ctx.clip();
 }
 function toRadiusCorners(value) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ai)(value, ['outerStart', 'outerEnd', 'innerStart', 'innerEnd']);
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.al)(value, ['outerStart', 'outerEnd', 'innerStart', 'innerEnd']);
 }
 function parseBorderRadius$1(arc, innerRadius, outerRadius, angleDelta) {
   const o = toRadiusCorners(arc.options.borderRadius);
@@ -6871,13 +7060,13 @@ function parseBorderRadius$1(arc, innerRadius, outerRadius, angleDelta) {
   const innerLimit = Math.min(halfThickness, angleDelta * innerRadius / 2);
   const computeOuterLimit = (val) => {
     const outerArcLimit = (outerRadius - Math.min(halfThickness, val)) * angleDelta / 2;
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(val, 0, Math.min(halfThickness, outerArcLimit));
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(val, 0, Math.min(halfThickness, outerArcLimit));
   };
   return {
     outerStart: computeOuterLimit(o.outerStart),
     outerEnd: computeOuterLimit(o.outerEnd),
-    innerStart: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(o.innerStart, 0, innerLimit),
-    innerEnd: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(o.innerEnd, 0, innerLimit),
+    innerStart: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(o.innerStart, 0, innerLimit),
+    innerEnd: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(o.innerEnd, 0, innerLimit),
   };
 }
 function rThetaToXY(r, theta, x, y) {
@@ -6886,7 +7075,7 @@ function rThetaToXY(r, theta, x, y) {
     y: y + r * Math.sin(theta),
   };
 }
-function pathArc(ctx, element, offset, spacing, end) {
+function pathArc(ctx, element, offset, spacing, end, circular) {
   const {x, y, startAngle: start, pixelMargin, innerRadius: innerR} = element;
   const outerRadius = Math.max(element.outerRadius + spacing + offset - pixelMargin, 0);
   const innerRadius = innerR > 0 ? innerR + spacing + offset + pixelMargin : 0;
@@ -6899,7 +7088,7 @@ function pathArc(ctx, element, offset, spacing, end) {
     const adjustedAngle = avNogSpacingRadius !== 0 ? (alpha * avNogSpacingRadius) / (avNogSpacingRadius + spacing) : alpha;
     spacingOffset = (alpha - adjustedAngle) / 2;
   }
-  const beta = Math.max(0.001, alpha * outerRadius - offset / _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P) / outerRadius;
+  const beta = Math.max(0.001, alpha * outerRadius - offset / _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P) / outerRadius;
   const angleOffset = (alpha - beta) / 2;
   const startAngle = start + angleOffset + spacingOffset;
   const endAngle = end - angleOffset - spacingOffset;
@@ -6913,46 +7102,56 @@ function pathArc(ctx, element, offset, spacing, end) {
   const innerStartAdjustedAngle = startAngle + innerStart / innerStartAdjustedRadius;
   const innerEndAdjustedAngle = endAngle - innerEnd / innerEndAdjustedRadius;
   ctx.beginPath();
-  ctx.arc(x, y, outerRadius, outerStartAdjustedAngle, outerEndAdjustedAngle);
-  if (outerEnd > 0) {
-    const pCenter = rThetaToXY(outerEndAdjustedRadius, outerEndAdjustedAngle, x, y);
-    ctx.arc(pCenter.x, pCenter.y, outerEnd, outerEndAdjustedAngle, endAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H);
-  }
-  const p4 = rThetaToXY(innerEndAdjustedRadius, endAngle, x, y);
-  ctx.lineTo(p4.x, p4.y);
-  if (innerEnd > 0) {
-    const pCenter = rThetaToXY(innerEndAdjustedRadius, innerEndAdjustedAngle, x, y);
-    ctx.arc(pCenter.x, pCenter.y, innerEnd, endAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H, innerEndAdjustedAngle + Math.PI);
-  }
-  ctx.arc(x, y, innerRadius, endAngle - (innerEnd / innerRadius), startAngle + (innerStart / innerRadius), true);
-  if (innerStart > 0) {
-    const pCenter = rThetaToXY(innerStartAdjustedRadius, innerStartAdjustedAngle, x, y);
-    ctx.arc(pCenter.x, pCenter.y, innerStart, innerStartAdjustedAngle + Math.PI, startAngle - _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H);
-  }
-  const p8 = rThetaToXY(outerStartAdjustedRadius, startAngle, x, y);
-  ctx.lineTo(p8.x, p8.y);
-  if (outerStart > 0) {
-    const pCenter = rThetaToXY(outerStartAdjustedRadius, outerStartAdjustedAngle, x, y);
-    ctx.arc(pCenter.x, pCenter.y, outerStart, startAngle - _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H, outerStartAdjustedAngle);
+  if (circular) {
+    ctx.arc(x, y, outerRadius, outerStartAdjustedAngle, outerEndAdjustedAngle);
+    if (outerEnd > 0) {
+      const pCenter = rThetaToXY(outerEndAdjustedRadius, outerEndAdjustedAngle, x, y);
+      ctx.arc(pCenter.x, pCenter.y, outerEnd, outerEndAdjustedAngle, endAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H);
+    }
+    const p4 = rThetaToXY(innerEndAdjustedRadius, endAngle, x, y);
+    ctx.lineTo(p4.x, p4.y);
+    if (innerEnd > 0) {
+      const pCenter = rThetaToXY(innerEndAdjustedRadius, innerEndAdjustedAngle, x, y);
+      ctx.arc(pCenter.x, pCenter.y, innerEnd, endAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H, innerEndAdjustedAngle + Math.PI);
+    }
+    ctx.arc(x, y, innerRadius, endAngle - (innerEnd / innerRadius), startAngle + (innerStart / innerRadius), true);
+    if (innerStart > 0) {
+      const pCenter = rThetaToXY(innerStartAdjustedRadius, innerStartAdjustedAngle, x, y);
+      ctx.arc(pCenter.x, pCenter.y, innerStart, innerStartAdjustedAngle + Math.PI, startAngle - _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H);
+    }
+    const p8 = rThetaToXY(outerStartAdjustedRadius, startAngle, x, y);
+    ctx.lineTo(p8.x, p8.y);
+    if (outerStart > 0) {
+      const pCenter = rThetaToXY(outerStartAdjustedRadius, outerStartAdjustedAngle, x, y);
+      ctx.arc(pCenter.x, pCenter.y, outerStart, startAngle - _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H, outerStartAdjustedAngle);
+    }
+  } else {
+    ctx.moveTo(x, y);
+    const outerStartX = Math.cos(outerStartAdjustedAngle) * outerRadius + x;
+    const outerStartY = Math.sin(outerStartAdjustedAngle) * outerRadius + y;
+    ctx.lineTo(outerStartX, outerStartY);
+    const outerEndX = Math.cos(outerEndAdjustedAngle) * outerRadius + x;
+    const outerEndY = Math.sin(outerEndAdjustedAngle) * outerRadius + y;
+    ctx.lineTo(outerEndX, outerEndY);
   }
   ctx.closePath();
 }
-function drawArc(ctx, element, offset, spacing) {
+function drawArc(ctx, element, offset, spacing, circular) {
   const {fullCircles, startAngle, circumference} = element;
   let endAngle = element.endAngle;
   if (fullCircles) {
-    pathArc(ctx, element, offset, spacing, startAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T);
+    pathArc(ctx, element, offset, spacing, startAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T, circular);
     for (let i = 0; i < fullCircles; ++i) {
       ctx.fill();
     }
     if (!isNaN(circumference)) {
-      endAngle = startAngle + circumference % _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T;
-      if (circumference % _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T === 0) {
-        endAngle += _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T;
+      endAngle = startAngle + circumference % _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T;
+      if (circumference % _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T === 0) {
+        endAngle += _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T;
       }
     }
   }
-  pathArc(ctx, element, offset, spacing, endAngle);
+  pathArc(ctx, element, offset, spacing, endAngle, circular);
   ctx.fill();
   return endAngle;
 }
@@ -6962,20 +7161,20 @@ function drawFullCircleBorders(ctx, element, inner) {
   const innerRadius = element.innerRadius + pixelMargin;
   let i;
   if (inner) {
-    clipArc(ctx, element, startAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T);
+    clipArc(ctx, element, startAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T);
   }
   ctx.beginPath();
-  ctx.arc(x, y, innerRadius, startAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T, startAngle, true);
+  ctx.arc(x, y, innerRadius, startAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T, startAngle, true);
   for (i = 0; i < fullCircles; ++i) {
     ctx.stroke();
   }
   ctx.beginPath();
-  ctx.arc(x, y, outerRadius, startAngle, startAngle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T);
+  ctx.arc(x, y, outerRadius, startAngle, startAngle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T);
   for (i = 0; i < fullCircles; ++i) {
     ctx.stroke();
   }
 }
-function drawBorder(ctx, element, offset, spacing, endAngle) {
+function drawBorder(ctx, element, offset, spacing, endAngle, circular) {
   const {options} = element;
   const {borderWidth, borderJoinStyle} = options;
   const inner = options.borderAlign === 'inner';
@@ -6995,7 +7194,7 @@ function drawBorder(ctx, element, offset, spacing, endAngle) {
   if (inner) {
     clipArc(ctx, element, endAngle);
   }
-  pathArc(ctx, element, offset, spacing, endAngle);
+  pathArc(ctx, element, offset, spacing, endAngle, circular);
   ctx.stroke();
 }
 class ArcElement extends Element {
@@ -7015,7 +7214,7 @@ class ArcElement extends Element {
   }
   inRange(chartX, chartY, useFinalPosition) {
     const point = this.getProps(['x', 'y'], useFinalPosition);
-    const {angle, distance} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.B)(point, {x: chartX, y: chartY});
+    const {angle, distance} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a0)(point, {x: chartX, y: chartY});
     const {startAngle, endAngle, innerRadius, outerRadius, circumference} = this.getProps([
       'startAngle',
       'endAngle',
@@ -7024,9 +7223,9 @@ class ArcElement extends Element {
       'circumference'
     ], useFinalPosition);
     const rAdjust = this.options.spacing / 2;
-    const _circumference = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(circumference, endAngle - startAngle);
-    const betweenAngles = _circumference >= _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle);
-    const withinRadius = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(distance, innerRadius + rAdjust, outerRadius + rAdjust);
+    const _circumference = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(circumference, endAngle - startAngle);
+    const betweenAngles = _circumference >= _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.p)(angle, startAngle, endAngle);
+    const withinRadius = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(distance, innerRadius + rAdjust, outerRadius + rAdjust);
     return (betweenAngles && withinRadius);
   }
   getCenterPoint(useFinalPosition) {
@@ -7054,8 +7253,9 @@ class ArcElement extends Element {
     const {options, circumference} = this;
     const offset = (options.offset || 0) / 2;
     const spacing = (options.spacing || 0) / 2;
+    const circular = options.circular;
     this.pixelMargin = (options.borderAlign === 'inner') ? 0.33 : 0;
-    this.fullCircles = circumference > _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T ? Math.floor(circumference / _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T) : 0;
+    this.fullCircles = circumference > _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T ? Math.floor(circumference / _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T) : 0;
     if (circumference === 0 || this.innerRadius < 0 || this.outerRadius < 0) {
       return;
     }
@@ -7065,14 +7265,14 @@ class ArcElement extends Element {
       radiusOffset = offset / 2;
       const halfAngle = (this.startAngle + this.endAngle) / 2;
       ctx.translate(Math.cos(halfAngle) * radiusOffset, Math.sin(halfAngle) * radiusOffset);
-      if (this.circumference >= _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P) {
+      if (this.circumference >= _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P) {
         radiusOffset = offset;
       }
     }
     ctx.fillStyle = options.backgroundColor;
     ctx.strokeStyle = options.borderColor;
-    const endAngle = drawArc(ctx, this, radiusOffset, spacing);
-    drawBorder(ctx, this, radiusOffset, spacing, endAngle);
+    const endAngle = drawArc(ctx, this, radiusOffset, spacing, circular);
+    drawBorder(ctx, this, radiusOffset, spacing, endAngle, circular);
     ctx.restore();
   }
 }
@@ -7086,28 +7286,29 @@ ArcElement.defaults = {
   offset: 0,
   spacing: 0,
   angle: undefined,
+  circular: true,
 };
 ArcElement.defaultRoutes = {
   backgroundColor: 'backgroundColor'
 };
 
 function setStyle(ctx, options, style = options) {
-  ctx.lineCap = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderCapStyle, options.borderCapStyle);
-  ctx.setLineDash((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderDash, options.borderDash));
-  ctx.lineDashOffset = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderDashOffset, options.borderDashOffset);
-  ctx.lineJoin = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderJoinStyle, options.borderJoinStyle);
-  ctx.lineWidth = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderWidth, options.borderWidth);
-  ctx.strokeStyle = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderColor, options.borderColor);
+  ctx.lineCap = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderCapStyle, options.borderCapStyle);
+  ctx.setLineDash((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderDash, options.borderDash));
+  ctx.lineDashOffset = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderDashOffset, options.borderDashOffset);
+  ctx.lineJoin = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderJoinStyle, options.borderJoinStyle);
+  ctx.lineWidth = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderWidth, options.borderWidth);
+  ctx.strokeStyle = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(style.borderColor, options.borderColor);
 }
 function lineTo(ctx, previous, target) {
   ctx.lineTo(target.x, target.y);
 }
 function getLineMethod(options) {
   if (options.stepped) {
-    return _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ap;
+    return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.as;
   }
   if (options.tension || options.cubicInterpolationMode === 'monotone') {
-    return _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aq;
+    return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.at;
   }
   return lineTo;
 }
@@ -7202,12 +7403,12 @@ function _getSegmentMethod(line) {
 }
 function _getInterpolationMethod(options) {
   if (options.stepped) {
-    return _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.am;
+    return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ap;
   }
   if (options.tension || options.cubicInterpolationMode === 'monotone') {
-    return _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.an;
+    return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aq;
   }
-  return _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ao;
+  return _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ar;
 }
 function strokePathWithCache(ctx, line, start, count) {
   let path = line._path;
@@ -7262,7 +7463,7 @@ class LineElement extends Element {
     const options = this.options;
     if ((options.tension || options.cubicInterpolationMode === 'monotone') && !options.stepped && !this._pointsUpdated) {
       const loop = options.spanGaps ? this._loop : this._fullLoop;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aj)(this._points, options, chartArea, loop, indexAxis);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.am)(this._points, options, chartArea, loop, indexAxis);
       this._pointsUpdated = true;
     }
   }
@@ -7276,7 +7477,7 @@ class LineElement extends Element {
     return this._points;
   }
   get segments() {
-    return this._segments || (this._segments = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ak)(this, this.options.segment));
+    return this._segments || (this._segments = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.an)(this, this.options.segment));
   }
   first() {
     const segments = this.segments;
@@ -7293,7 +7494,7 @@ class LineElement extends Element {
     const options = this.options;
     const value = point[property];
     const points = this.points;
-    const segments = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.al)(this, {property, start: value, end: value});
+    const segments = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ao)(this, {property, start: value, end: value});
     if (!segments.length) {
       return;
     }
@@ -7407,13 +7608,13 @@ class PointElement extends Element {
   }
   draw(ctx, area) {
     const options = this.options;
-    if (this.skip || options.radius < 0.1 || !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.z)(this, area, this.size(options) / 2)) {
+    if (this.skip || options.radius < 0.1 || !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.$)(this, area, this.size(options) / 2)) {
       return;
     }
     ctx.strokeStyle = options.borderColor;
     ctx.lineWidth = options.borderWidth;
     ctx.fillStyle = options.backgroundColor;
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ar)(ctx, options, this.x, this.y);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.au)(ctx, options, this.x, this.y);
   }
   getRange() {
     const options = this.options || {};
@@ -7454,12 +7655,12 @@ function getBarBounds(bar, useFinalPosition) {
   return {left, top, right, bottom};
 }
 function skipOrLimit(skip, value, min, max) {
-  return skip ? 0 : (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(value, min, max);
+  return skip ? 0 : (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(value, min, max);
 }
 function parseBorderWidth(bar, maxW, maxH) {
   const value = bar.options.borderWidth;
   const skip = bar.borderSkipped;
-  const o = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.at)(value);
+  const o = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aw)(value);
   return {
     t: skipOrLimit(skip.top, o.top, 0, maxH),
     r: skipOrLimit(skip.right, o.right, 0, maxW),
@@ -7470,10 +7671,10 @@ function parseBorderWidth(bar, maxW, maxH) {
 function parseBorderRadius(bar, maxW, maxH) {
   const {enableBorderRadius} = bar.getProps(['enableBorderRadius']);
   const value = bar.options.borderRadius;
-  const o = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.au)(value);
+  const o = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(value);
   const maxR = Math.min(maxW, maxH);
   const skip = bar.borderSkipped;
-  const enableBorder = enableBorderRadius || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(value);
+  const enableBorder = enableBorderRadius || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(value);
   return {
     topLeft: skipOrLimit(!enableBorder || skip.top || skip.left, o.topLeft, 0, maxR),
     topRight: skipOrLimit(!enableBorder || skip.top || skip.right, o.topRight, 0, maxR),
@@ -7515,8 +7716,8 @@ function inRange(bar, x, y, useFinalPosition) {
   const skipBoth = skipX && skipY;
   const bounds = bar && !skipBoth && getBarBounds(bar, useFinalPosition);
   return bounds
-		&& (skipX || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(x, bounds.left, bounds.right))
-		&& (skipY || (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(y, bounds.top, bounds.bottom));
+		&& (skipX || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(x, bounds.left, bounds.right))
+		&& (skipY || (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(y, bounds.top, bounds.bottom));
 }
 function hasRadius(radius) {
   return radius.topLeft || radius.topRight || radius.bottomLeft || radius.bottomRight;
@@ -7553,7 +7754,7 @@ class BarElement extends Element {
   draw(ctx) {
     const {inflateAmount, options: {borderColor, backgroundColor}} = this;
     const {inner, outer} = boundingRects(this);
-    const addRectPath = hasRadius(outer.radius) ? _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.as : addNormalRectPath;
+    const addRectPath = hasRadius(outer.radius) ? _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.av : addNormalRectPath;
     ctx.save();
     if (outer.w !== inner.w || outer.h !== inner.h) {
       ctx.beginPath();
@@ -7681,7 +7882,7 @@ function minMaxDecimation(data, start, count, availableWidth) {
       avgX = (countX * avgX + point.x) / ++countX;
     } else {
       const lastIndex = i - 1;
-      if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(minIndex) && !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(maxIndex)) {
+      if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(minIndex) && !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(maxIndex)) {
         const intermediateIndex1 = Math.min(minIndex, maxIndex);
         const intermediateIndex2 = Math.max(minIndex, maxIndex);
         if (intermediateIndex1 !== startIndex && intermediateIndex1 !== lastIndex) {
@@ -7729,10 +7930,10 @@ function getStartAndCountOfVisiblePointsSimplified(meta, points) {
   const {iScale} = meta;
   const {min, max, minDefined, maxDefined} = iScale.getUserBounds();
   if (minDefined) {
-    start = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(points, iScale.axis, min).lo, 0, pointCount - 1);
+    start = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Z)(points, iScale.axis, min).lo, 0, pointCount - 1);
   }
   if (maxDefined) {
-    count = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(points, iScale.axis, max).hi + 1, start, pointCount) - start;
+    count = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Z)(points, iScale.axis, max).hi + 1, start, pointCount) - start;
   } else {
     count = pointCount - start;
   }
@@ -7754,10 +7955,10 @@ var plugin_decimation = {
       const {_data, indexAxis} = dataset;
       const meta = chart.getDatasetMeta(datasetIndex);
       const data = _data || dataset.data;
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a)([indexAxis, chart.options.indexAxis]) === 'y') {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.a)([indexAxis, chart.options.indexAxis]) === 'y') {
         return;
       }
-      if (meta.type !== 'line') {
+      if (!meta.controller.supportsDecimation) {
         return;
       }
       const xAxis = chart.scales[meta.xAxisID];
@@ -7773,7 +7974,7 @@ var plugin_decimation = {
         cleanDecimatedDataset(dataset);
         return;
       }
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(_data)) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(_data)) {
         dataset._data = data;
         delete dataset.data;
         Object.defineProperty(dataset, 'data', {
@@ -7806,139 +8007,62 @@ var plugin_decimation = {
   }
 };
 
-function getLineByIndex(chart, index) {
-  const meta = chart.getDatasetMeta(index);
-  const visible = meta && chart.isDatasetVisible(index);
-  return visible ? meta.dataset : null;
-}
-function parseFillOption(line) {
-  const options = line.options;
-  const fillOption = options.fill;
-  let fill = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(fillOption && fillOption.target, fillOption);
-  if (fill === undefined) {
-    fill = !!options.backgroundColor;
-  }
-  if (fill === false || fill === null) {
-    return false;
-  }
-  if (fill === true) {
-    return 'origin';
-  }
-  return fill;
-}
-function decodeFill(line, index, count) {
-  const fill = parseFillOption(line);
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(fill)) {
-    return isNaN(fill.value) ? false : fill;
-  }
-  let target = parseFloat(fill);
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(target) && Math.floor(target) === target) {
-    if (fill[0] === '-' || fill[0] === '+') {
-      target = index + target;
+function _segments(line, target, property) {
+  const segments = line.segments;
+  const points = line.points;
+  const tpoints = target.points;
+  const parts = [];
+  for (const segment of segments) {
+    let {start, end} = segment;
+    end = _findSegmentEnd(start, end, points);
+    const bounds = _getBounds(property, points[start], points[end], segment.loop);
+    if (!target.segments) {
+      parts.push({
+        source: segment,
+        target: bounds,
+        start: points[start],
+        end: points[end]
+      });
+      continue;
     }
-    if (target === index || target < 0 || target >= count) {
-      return false;
-    }
-    return target;
-  }
-  return ['origin', 'start', 'end', 'stack', 'shape'].indexOf(fill) >= 0 && fill;
-}
-function computeLinearBoundary(source) {
-  const {scale = {}, fill} = source;
-  let target = null;
-  let horizontal;
-  if (fill === 'start') {
-    target = scale.bottom;
-  } else if (fill === 'end') {
-    target = scale.top;
-  } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(fill)) {
-    target = scale.getPixelForValue(fill.value);
-  } else if (scale.getBasePixel) {
-    target = scale.getBasePixel();
-  }
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(target)) {
-    horizontal = scale.isHorizontal();
-    return {
-      x: horizontal ? target : null,
-      y: horizontal ? null : target
-    };
-  }
-  return null;
-}
-class simpleArc {
-  constructor(opts) {
-    this.x = opts.x;
-    this.y = opts.y;
-    this.radius = opts.radius;
-  }
-  pathSegment(ctx, bounds, opts) {
-    const {x, y, radius} = this;
-    bounds = bounds || {start: 0, end: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T};
-    ctx.arc(x, y, radius, bounds.end, bounds.start, true);
-    return !opts.bounds;
-  }
-  interpolate(point) {
-    const {x, y, radius} = this;
-    const angle = point.angle;
-    return {
-      x: x + Math.cos(angle) * radius,
-      y: y + Math.sin(angle) * radius,
-      angle
-    };
-  }
-}
-function computeCircularBoundary(source) {
-  const {scale, fill} = source;
-  const options = scale.options;
-  const length = scale.getLabels().length;
-  const target = [];
-  const start = options.reverse ? scale.max : scale.min;
-  const end = options.reverse ? scale.min : scale.max;
-  let i, center, value;
-  if (fill === 'start') {
-    value = start;
-  } else if (fill === 'end') {
-    value = end;
-  } else if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.i)(fill)) {
-    value = fill.value;
-  } else {
-    value = scale.getBaseValue();
-  }
-  if (options.grid.circular) {
-    center = scale.getPointPositionForValue(0, start);
-    return new simpleArc({
-      x: center.x,
-      y: center.y,
-      radius: scale.getDistanceFromCenterForValue(value)
-    });
-  }
-  for (i = 0; i < length; ++i) {
-    target.push(scale.getPointPositionForValue(i, value));
-  }
-  return target;
-}
-function computeBoundary(source) {
-  const scale = source.scale || {};
-  if (scale.getPointPositionForValue) {
-    return computeCircularBoundary(source);
-  }
-  return computeLinearBoundary(source);
-}
-function findSegmentEnd(start, end, points) {
-  for (;end > start; end--) {
-    const point = points[end];
-    if (!isNaN(point.x) && !isNaN(point.y)) {
-      break;
+    const targetSegments = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ao)(target, bounds);
+    for (const tgt of targetSegments) {
+      const subBounds = _getBounds(property, tpoints[tgt.start], tpoints[tgt.end], tgt.loop);
+      const fillSources = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ay)(segment, points, subBounds);
+      for (const fillSource of fillSources) {
+        parts.push({
+          source: fillSource,
+          target: tgt,
+          start: {
+            [property]: _getEdge(bounds, subBounds, 'start', Math.max)
+          },
+          end: {
+            [property]: _getEdge(bounds, subBounds, 'end', Math.min)
+          }
+        });
+      }
     }
   }
-  return end;
+  return parts;
 }
-function pointsFromSegments(boundary, line) {
+function _getBounds(property, first, last, loop) {
+  if (loop) {
+    return;
+  }
+  let start = first[property];
+  let end = last[property];
+  if (property === 'angle') {
+    start = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.az)(start);
+    end = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.az)(end);
+  }
+  return {property, start, end};
+}
+function _pointsFromSegments(boundary, line) {
   const {x = null, y = null} = boundary || {};
   const linePoints = line.points;
   const points = [];
   line.segments.forEach(({start, end}) => {
-    end = findSegmentEnd(start, end, linePoints);
+    end = _findSegmentEnd(start, end, linePoints);
     const first = linePoints[start];
     const last = linePoints[end];
     if (y !== null) {
@@ -7951,13 +8075,135 @@ function pointsFromSegments(boundary, line) {
   });
   return points;
 }
-function buildStackLine(source) {
+function _findSegmentEnd(start, end, points) {
+  for (;end > start; end--) {
+    const point = points[end];
+    if (!isNaN(point.x) && !isNaN(point.y)) {
+      break;
+    }
+  }
+  return end;
+}
+function _getEdge(a, b, prop, fn) {
+  if (a && b) {
+    return fn(a[prop], b[prop]);
+  }
+  return a ? a[prop] : b ? b[prop] : 0;
+}
+
+function _createBoundaryLine(boundary, line) {
+  let points = [];
+  let _loop = false;
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(boundary)) {
+    _loop = true;
+    points = boundary;
+  } else {
+    points = _pointsFromSegments(boundary, line);
+  }
+  return points.length ? new LineElement({
+    points,
+    options: {tension: 0},
+    _loop,
+    _fullLoop: _loop
+  }) : null;
+}
+function _shouldApplyFill(source) {
+  return source && source.fill !== false;
+}
+
+function _resolveTarget(sources, index, propagate) {
+  const source = sources[index];
+  let fill = source.fill;
+  const visited = [index];
+  let target;
+  if (!propagate) {
+    return fill;
+  }
+  while (fill !== false && visited.indexOf(fill) === -1) {
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(fill)) {
+      return fill;
+    }
+    target = sources[fill];
+    if (!target) {
+      return false;
+    }
+    if (target.visible) {
+      return fill;
+    }
+    visited.push(fill);
+    fill = target.fill;
+  }
+  return false;
+}
+function _decodeFill(line, index, count) {
+  const fill = parseFillOption(line);
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(fill)) {
+    return isNaN(fill.value) ? false : fill;
+  }
+  let target = parseFloat(fill);
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(target) && Math.floor(target) === target) {
+    return decodeTargetIndex(fill[0], index, target, count);
+  }
+  return ['origin', 'start', 'end', 'stack', 'shape'].indexOf(fill) >= 0 && fill;
+}
+function decodeTargetIndex(firstCh, index, target, count) {
+  if (firstCh === '-' || firstCh === '+') {
+    target = index + target;
+  }
+  if (target === index || target < 0 || target >= count) {
+    return false;
+  }
+  return target;
+}
+function _getTargetPixel(fill, scale) {
+  let pixel = null;
+  if (fill === 'start') {
+    pixel = scale.bottom;
+  } else if (fill === 'end') {
+    pixel = scale.top;
+  } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(fill)) {
+    pixel = scale.getPixelForValue(fill.value);
+  } else if (scale.getBasePixel) {
+    pixel = scale.getBasePixel();
+  }
+  return pixel;
+}
+function _getTargetValue(fill, scale, startValue) {
+  let value;
+  if (fill === 'start') {
+    value = startValue;
+  } else if (fill === 'end') {
+    value = scale.options.reverse ? scale.min : scale.max;
+  } else if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(fill)) {
+    value = fill.value;
+  } else {
+    value = scale.getBaseValue();
+  }
+  return value;
+}
+function parseFillOption(line) {
+  const options = line.options;
+  const fillOption = options.fill;
+  let fill = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(fillOption && fillOption.target, fillOption);
+  if (fill === undefined) {
+    fill = !!options.backgroundColor;
+  }
+  if (fill === false || fill === null) {
+    return false;
+  }
+  if (fill === true) {
+    return 'origin';
+  }
+  return fill;
+}
+
+function _buildStackLine(source) {
   const {scale, index, line} = source;
   const points = [];
   const segments = line.segments;
   const sourcePoints = line.points;
   const linesBelow = getLinesBelow(scale, index);
-  linesBelow.push(createBoundaryLine({x: null, y: scale.bottom}, line));
+  linesBelow.push(_createBoundaryLine({x: null, y: scale.bottom}, line));
   for (let i = 0; i < segments.length; i++) {
     const segment = segments[i];
     for (let j = segment.start; j <= segment.end; j++) {
@@ -8013,7 +8259,7 @@ function findPoint(line, sourcePoint, property) {
     const segment = segments[i];
     const firstValue = linePoints[segment.start][property];
     const lastValue = linePoints[segment.end][property];
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(pointValue, firstValue, lastValue)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(pointValue, firstValue, lastValue)) {
       first = pointValue === firstValue;
       last = pointValue === lastValue;
       break;
@@ -8021,13 +8267,37 @@ function findPoint(line, sourcePoint, property) {
   }
   return {first, last, point};
 }
-function getTarget(source) {
+
+class simpleArc {
+  constructor(opts) {
+    this.x = opts.x;
+    this.y = opts.y;
+    this.radius = opts.radius;
+  }
+  pathSegment(ctx, bounds, opts) {
+    const {x, y, radius} = this;
+    bounds = bounds || {start: 0, end: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T};
+    ctx.arc(x, y, radius, bounds.end, bounds.start, true);
+    return !opts.bounds;
+  }
+  interpolate(point) {
+    const {x, y, radius} = this;
+    const angle = point.angle;
+    return {
+      x: x + Math.cos(angle) * radius,
+      y: y + Math.sin(angle) * radius,
+      angle
+    };
+  }
+}
+
+function _getTarget(source) {
   const {chart, fill, line} = source;
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(fill)) {
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(fill)) {
     return getLineByIndex(chart, fill);
   }
   if (fill === 'stack') {
-    return buildStackLine(source);
+    return _buildStackLine(source);
   }
   if (fill === 'shape') {
     return true;
@@ -8036,49 +8306,81 @@ function getTarget(source) {
   if (boundary instanceof simpleArc) {
     return boundary;
   }
-  return createBoundaryLine(boundary, line);
+  return _createBoundaryLine(boundary, line);
 }
-function createBoundaryLine(boundary, line) {
-  let points = [];
-  let _loop = false;
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(boundary)) {
-    _loop = true;
-    points = boundary;
-  } else {
-    points = pointsFromSegments(boundary, line);
-  }
-  return points.length ? new LineElement({
-    points,
-    options: {tension: 0},
-    _loop,
-    _fullLoop: _loop
-  }) : null;
+function getLineByIndex(chart, index) {
+  const meta = chart.getDatasetMeta(index);
+  const visible = meta && chart.isDatasetVisible(index);
+  return visible ? meta.dataset : null;
 }
-function resolveTarget(sources, index, propagate) {
-  const source = sources[index];
-  let fill = source.fill;
-  const visited = [index];
-  let target;
-  if (!propagate) {
-    return fill;
+function computeBoundary(source) {
+  const scale = source.scale || {};
+  if (scale.getPointPositionForValue) {
+    return computeCircularBoundary(source);
   }
-  while (fill !== false && visited.indexOf(fill) === -1) {
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(fill)) {
-      return fill;
-    }
-    target = sources[fill];
-    if (!target) {
-      return false;
-    }
-    if (target.visible) {
-      return fill;
-    }
-    visited.push(fill);
-    fill = target.fill;
-  }
-  return false;
+  return computeLinearBoundary(source);
 }
-function _clip(ctx, target, clipY) {
+function computeLinearBoundary(source) {
+  const {scale = {}, fill} = source;
+  const pixel = _getTargetPixel(fill, scale);
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(pixel)) {
+    const horizontal = scale.isHorizontal();
+    return {
+      x: horizontal ? pixel : null,
+      y: horizontal ? null : pixel
+    };
+  }
+  return null;
+}
+function computeCircularBoundary(source) {
+  const {scale, fill} = source;
+  const options = scale.options;
+  const length = scale.getLabels().length;
+  const start = options.reverse ? scale.max : scale.min;
+  const value = _getTargetValue(fill, scale, start);
+  const target = [];
+  if (options.grid.circular) {
+    const center = scale.getPointPositionForValue(0, start);
+    return new simpleArc({
+      x: center.x,
+      y: center.y,
+      radius: scale.getDistanceFromCenterForValue(value)
+    });
+  }
+  for (let i = 0; i < length; ++i) {
+    target.push(scale.getPointPositionForValue(i, value));
+  }
+  return target;
+}
+
+function _drawfill(ctx, source, area) {
+  const target = _getTarget(source);
+  const {line, scale, axis} = source;
+  const lineOpts = line.options;
+  const fillOption = lineOpts.fill;
+  const color = lineOpts.backgroundColor;
+  const {above = color, below = color} = fillOption || {};
+  if (target && line.points.length) {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.L)(ctx, area);
+    doFill(ctx, {line, target, above, below, area, scale, axis});
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.N)(ctx);
+  }
+}
+function doFill(ctx, cfg) {
+  const {line, target, above, below, area, scale} = cfg;
+  const property = line._loop ? 'angle' : cfg.axis;
+  ctx.save();
+  if (property === 'x' && below !== above) {
+    clipVertical(ctx, target, area.top);
+    fill(ctx, {line, target, color: above, scale, property});
+    ctx.restore();
+    ctx.save();
+    clipVertical(ctx, target, area.bottom);
+  }
+  fill(ctx, {line, target, color: below, scale, property});
+  ctx.restore();
+}
+function clipVertical(ctx, target, clipY) {
   const {segments, points} = target;
   let first = true;
   let lineLoop = false;
@@ -8086,7 +8388,7 @@ function _clip(ctx, target, clipY) {
   for (const segment of segments) {
     const {start, end} = segment;
     const firstPoint = points[start];
-    const lastPoint = points[findSegmentEnd(start, end, points)];
+    const lastPoint = points[_findSegmentEnd(start, end, points)];
     if (first) {
       ctx.moveTo(firstPoint.x, firstPoint.y);
       first = false;
@@ -8105,78 +8407,7 @@ function _clip(ctx, target, clipY) {
   ctx.closePath();
   ctx.clip();
 }
-function getBounds(property, first, last, loop) {
-  if (loop) {
-    return;
-  }
-  let start = first[property];
-  let end = last[property];
-  if (property === 'angle') {
-    start = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aw)(start);
-    end = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aw)(end);
-  }
-  return {property, start, end};
-}
-function _getEdge(a, b, prop, fn) {
-  if (a && b) {
-    return fn(a[prop], b[prop]);
-  }
-  return a ? a[prop] : b ? b[prop] : 0;
-}
-function _segments(line, target, property) {
-  const segments = line.segments;
-  const points = line.points;
-  const tpoints = target.points;
-  const parts = [];
-  for (const segment of segments) {
-    let {start, end} = segment;
-    end = findSegmentEnd(start, end, points);
-    const bounds = getBounds(property, points[start], points[end], segment.loop);
-    if (!target.segments) {
-      parts.push({
-        source: segment,
-        target: bounds,
-        start: points[start],
-        end: points[end]
-      });
-      continue;
-    }
-    const targetSegments = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.al)(target, bounds);
-    for (const tgt of targetSegments) {
-      const subBounds = getBounds(property, tpoints[tgt.start], tpoints[tgt.end], tgt.loop);
-      const fillSources = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.av)(segment, points, subBounds);
-      for (const fillSource of fillSources) {
-        parts.push({
-          source: fillSource,
-          target: tgt,
-          start: {
-            [property]: _getEdge(bounds, subBounds, 'start', Math.max)
-          },
-          end: {
-            [property]: _getEdge(bounds, subBounds, 'end', Math.min)
-          }
-        });
-      }
-    }
-  }
-  return parts;
-}
-function clipBounds(ctx, scale, bounds) {
-  const {top, bottom} = scale.chart.chartArea;
-  const {property, start, end} = bounds || {};
-  if (property === 'x') {
-    ctx.beginPath();
-    ctx.rect(start, top, end - start, bottom - top);
-    ctx.clip();
-  }
-}
-function interpolatedLineTo(ctx, target, point, property) {
-  const interpolatedPoint = target.interpolate(point, property);
-  if (interpolatedPoint) {
-    ctx.lineTo(interpolatedPoint.x, interpolatedPoint.y);
-  }
-}
-function _fill(ctx, cfg) {
+function fill(ctx, cfg) {
   const {line, target, property, color, scale} = cfg;
   const segments = _segments(line, target, property);
   for (const {source: src, target: tgt, start, end} of segments) {
@@ -8184,7 +8415,7 @@ function _fill(ctx, cfg) {
     const notShape = target !== true;
     ctx.save();
     ctx.fillStyle = backgroundColor;
-    clipBounds(ctx, scale, notShape && getBounds(property, start, end));
+    clipBounds(ctx, scale, notShape && _getBounds(property, start, end));
     ctx.beginPath();
     const lineLoop = !!line.pathSegment(ctx, src);
     let loop;
@@ -8205,34 +8436,23 @@ function _fill(ctx, cfg) {
     ctx.restore();
   }
 }
-function doFill(ctx, cfg) {
-  const {line, target, above, below, area, scale} = cfg;
-  const property = line._loop ? 'angle' : cfg.axis;
-  ctx.save();
-  if (property === 'x' && below !== above) {
-    _clip(ctx, target, area.top);
-    _fill(ctx, {line, target, color: above, scale, property});
-    ctx.restore();
-    ctx.save();
-    _clip(ctx, target, area.bottom);
-  }
-  _fill(ctx, {line, target, color: below, scale, property});
-  ctx.restore();
-}
-function drawfill(ctx, source, area) {
-  const target = getTarget(source);
-  const {line, scale, axis} = source;
-  const lineOpts = line.options;
-  const fillOption = lineOpts.fill;
-  const color = lineOpts.backgroundColor;
-  const {above = color, below = color} = fillOption || {};
-  if (target && line.points.length) {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.W)(ctx, area);
-    doFill(ctx, {line, target, above, below, area, scale, axis});
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Y)(ctx);
+function clipBounds(ctx, scale, bounds) {
+  const {top, bottom} = scale.chart.chartArea;
+  const {property, start, end} = bounds || {};
+  if (property === 'x') {
+    ctx.beginPath();
+    ctx.rect(start, top, end - start, bottom - top);
+    ctx.clip();
   }
 }
-var plugin_filler = {
+function interpolatedLineTo(ctx, target, point, property) {
+  const interpolatedPoint = target.interpolate(point, property);
+  if (interpolatedPoint) {
+    ctx.lineTo(interpolatedPoint.x, interpolatedPoint.y);
+  }
+}
+
+var index = {
   id: 'filler',
   afterDatasetsUpdate(chart, _args, options) {
     const count = (chart.data.datasets || []).length;
@@ -8246,7 +8466,7 @@ var plugin_filler = {
         source = {
           visible: chart.isDatasetVisible(i),
           index: i,
-          fill: decodeFill(line, i, count),
+          fill: _decodeFill(line, i, count),
           chart,
           axis: meta.controller.options.indexAxis,
           scale: meta.vScale,
@@ -8261,7 +8481,7 @@ var plugin_filler = {
       if (!source || source.fill === false) {
         continue;
       }
-      source.fill = resolveTarget(sources, i, options.propagate);
+      source.fill = _resolveTarget(sources, i, options.propagate);
     }
   },
   beforeDraw(chart, _args, options) {
@@ -8274,8 +8494,8 @@ var plugin_filler = {
         continue;
       }
       source.line.updateControlPoints(area, source.axis);
-      if (draw) {
-        drawfill(chart.ctx, source, area);
+      if (draw && source.fill) {
+        _drawfill(chart.ctx, source, area);
       }
     }
   },
@@ -8286,17 +8506,17 @@ var plugin_filler = {
     const metasets = chart.getSortedVisibleDatasetMetas();
     for (let i = metasets.length - 1; i >= 0; --i) {
       const source = metasets[i].$filler;
-      if (source) {
-        drawfill(chart.ctx, source, chart.chartArea);
+      if (_shouldApplyFill(source)) {
+        _drawfill(chart.ctx, source, chart.chartArea);
       }
     }
   },
   beforeDatasetDraw(chart, args, options) {
     const source = args.meta.$filler;
-    if (!source || source.fill === false || options.drawTime !== 'beforeDatasetDraw') {
+    if (!_shouldApplyFill(source) || options.drawTime !== 'beforeDatasetDraw') {
       return;
     }
-    drawfill(chart.ctx, source, chart.chartArea);
+    _drawfill(chart.ctx, source, chart.chartArea);
   },
   defaults: {
     propagate: true,
@@ -8308,7 +8528,7 @@ const getBoxSize = (labelOpts, fontSize) => {
   let {boxHeight = fontSize, boxWidth = fontSize} = labelOpts;
   if (labelOpts.usePointStyle) {
     boxHeight = Math.min(boxHeight, fontSize);
-    boxWidth = Math.min(boxWidth, fontSize);
+    boxWidth = labelOpts.pointStyleWidth || Math.min(boxWidth, fontSize);
   }
   return {
     boxWidth,
@@ -8364,7 +8584,7 @@ class Legend extends Element {
   }
   buildLabels() {
     const labelOpts = this.options.labels || {};
-    let legendItems = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(labelOpts.generateLabels, [this.chart], this) || [];
+    let legendItems = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(labelOpts.generateLabels, [this.chart], this) || [];
     if (labelOpts.filter) {
       legendItems = legendItems.filter((item) => labelOpts.filter(item, this.chart.data));
     }
@@ -8383,7 +8603,7 @@ class Legend extends Element {
       return;
     }
     const labelOpts = options.labels;
-    const labelFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(labelOpts.font);
+    const labelFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(labelOpts.font);
     const fontSize = labelFont.size;
     const titleHeight = this._computeTitleHeight();
     const {boxWidth, itemHeight} = getBoxSize(labelOpts, fontSize);
@@ -8455,14 +8675,14 @@ class Legend extends Element {
     }
     const titleHeight = this._computeTitleHeight();
     const {legendHitBoxes: hitboxes, options: {align, labels: {padding}, rtl}} = this;
-    const rtlHelper = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ax)(rtl, this.left, this.width);
+    const rtlHelper = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aA)(rtl, this.left, this.width);
     if (this.isHorizontal()) {
       let row = 0;
-      let left = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.left + padding, this.right - this.lineWidths[row]);
+      let left = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.left + padding, this.right - this.lineWidths[row]);
       for (const hitbox of hitboxes) {
         if (row !== hitbox.row) {
           row = hitbox.row;
-          left = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.left + padding, this.right - this.lineWidths[row]);
+          left = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.left + padding, this.right - this.lineWidths[row]);
         }
         hitbox.top += this.top + titleHeight + padding;
         hitbox.left = rtlHelper.leftForLtr(rtlHelper.x(left), hitbox.width);
@@ -8470,11 +8690,11 @@ class Legend extends Element {
       }
     } else {
       let col = 0;
-      let top = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.top + titleHeight + padding, this.bottom - this.columnSizes[col].height);
+      let top = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.top + titleHeight + padding, this.bottom - this.columnSizes[col].height);
       for (const hitbox of hitboxes) {
         if (hitbox.col !== col) {
           col = hitbox.col;
-          top = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.top + titleHeight + padding, this.bottom - this.columnSizes[col].height);
+          top = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.top + titleHeight + padding, this.bottom - this.columnSizes[col].height);
         }
         hitbox.top = top;
         hitbox.left += this.left + padding;
@@ -8489,17 +8709,17 @@ class Legend extends Element {
   draw() {
     if (this.options.display) {
       const ctx = this.ctx;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.W)(ctx, this);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.L)(ctx, this);
       this._draw();
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Y)(ctx);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.N)(ctx);
     }
   }
   _draw() {
     const {options: opts, columnSizes, lineWidths, ctx} = this;
     const {align, labels: labelOpts} = opts;
-    const defaultColor = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.color;
-    const rtlHelper = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ax)(opts.rtl, this.left, this.width);
-    const labelFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(labelOpts.font);
+    const defaultColor = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.color;
+    const rtlHelper = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aA)(opts.rtl, this.left, this.width);
+    const labelFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(labelOpts.font);
     const {color: fontColor, padding} = labelOpts;
     const fontSize = labelFont.size;
     const halfFontSize = fontSize / 2;
@@ -8515,31 +8735,31 @@ class Legend extends Element {
         return;
       }
       ctx.save();
-      const lineWidth = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineWidth, 1);
-      ctx.fillStyle = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.fillStyle, defaultColor);
-      ctx.lineCap = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineCap, 'butt');
-      ctx.lineDashOffset = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineDashOffset, 0);
-      ctx.lineJoin = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineJoin, 'miter');
+      const lineWidth = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineWidth, 1);
+      ctx.fillStyle = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.fillStyle, defaultColor);
+      ctx.lineCap = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineCap, 'butt');
+      ctx.lineDashOffset = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineDashOffset, 0);
+      ctx.lineJoin = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineJoin, 'miter');
       ctx.lineWidth = lineWidth;
-      ctx.strokeStyle = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.strokeStyle, defaultColor);
-      ctx.setLineDash((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineDash, []));
+      ctx.strokeStyle = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.strokeStyle, defaultColor);
+      ctx.setLineDash((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(legendItem.lineDash, []));
       if (labelOpts.usePointStyle) {
         const drawOptions = {
-          radius: boxWidth * Math.SQRT2 / 2,
+          radius: boxHeight * Math.SQRT2 / 2,
           pointStyle: legendItem.pointStyle,
           rotation: legendItem.rotation,
           borderWidth: lineWidth
         };
         const centerX = rtlHelper.xPlus(x, boxWidth / 2);
         const centerY = y + halfFontSize;
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ar)(ctx, drawOptions, centerX, centerY);
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aE)(ctx, drawOptions, centerX, centerY, labelOpts.pointStyleWidth && boxWidth);
       } else {
         const yBoxTop = y + Math.max((fontSize - boxHeight) / 2, 0);
         const xBoxLeft = rtlHelper.leftForLtr(x, boxWidth);
-        const borderRadius = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.au)(legendItem.borderRadius);
+        const borderRadius = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(legendItem.borderRadius);
         ctx.beginPath();
         if (Object.values(borderRadius).some(v => v !== 0)) {
-          (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.as)(ctx, {
+          (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.av)(ctx, {
             x: xBoxLeft,
             y: yBoxTop,
             w: boxWidth,
@@ -8557,7 +8777,7 @@ class Legend extends Element {
       ctx.restore();
     };
     const fillText = function(x, y, legendItem) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(ctx, legendItem.text, x, y + (itemHeight / 2), labelFont, {
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(ctx, legendItem.text, x, y + (itemHeight / 2), labelFont, {
         strikethrough: legendItem.hidden,
         textAlign: rtlHelper.textAlign(legendItem.textAlign)
       });
@@ -8566,18 +8786,18 @@ class Legend extends Element {
     const titleHeight = this._computeTitleHeight();
     if (isHorizontal) {
       cursor = {
-        x: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.left + padding, this.right - lineWidths[0]),
+        x: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.left + padding, this.right - lineWidths[0]),
         y: this.top + padding + titleHeight,
         line: 0
       };
     } else {
       cursor = {
         x: this.left + padding,
-        y: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.top + titleHeight + padding, this.bottom - columnSizes[0].height),
+        y: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.top + titleHeight + padding, this.bottom - columnSizes[0].height),
         line: 0
       };
     }
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ay)(this.ctx, opts.textDirection);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aB)(this.ctx, opts.textDirection);
     const lineHeight = itemHeight + padding;
     this.legendItems.forEach((legendItem, i) => {
       ctx.strokeStyle = legendItem.fontColor || fontColor;
@@ -8592,16 +8812,16 @@ class Legend extends Element {
         if (i > 0 && x + width + padding > this.right) {
           y = cursor.y += lineHeight;
           cursor.line++;
-          x = cursor.x = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.left + padding, this.right - lineWidths[cursor.line]);
+          x = cursor.x = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.left + padding, this.right - lineWidths[cursor.line]);
         }
       } else if (i > 0 && y + lineHeight > this.bottom) {
         x = cursor.x = x + columnSizes[cursor.line].width + padding;
         cursor.line++;
-        y = cursor.y = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, this.top + titleHeight + padding, this.bottom - columnSizes[cursor.line].height);
+        y = cursor.y = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, this.top + titleHeight + padding, this.bottom - columnSizes[cursor.line].height);
       }
       const realX = rtlHelper.x(x);
       drawLegendBox(realX, y, legendItem);
-      x = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.az)(textAlign, x + boxWidth + halfFontSize, isHorizontal ? x + width : this.right, opts.rtl);
+      x = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aC)(textAlign, x + boxWidth + halfFontSize, isHorizontal ? x + width : this.right, opts.rtl);
       fillText(rtlHelper.x(x), y, legendItem);
       if (isHorizontal) {
         cursor.x += width + padding;
@@ -8609,17 +8829,17 @@ class Legend extends Element {
         cursor.y += lineHeight;
       }
     });
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aA)(this.ctx, opts.textDirection);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aD)(this.ctx, opts.textDirection);
   }
   drawTitle() {
     const opts = this.options;
     const titleOpts = opts.title;
-    const titleFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(titleOpts.font);
-    const titlePadding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(titleOpts.padding);
+    const titleFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(titleOpts.font);
+    const titlePadding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(titleOpts.padding);
     if (!titleOpts.display) {
       return;
     }
-    const rtlHelper = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ax)(opts.rtl, this.left, this.width);
+    const rtlHelper = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aA)(opts.rtl, this.left, this.width);
     const ctx = this.ctx;
     const position = titleOpts.position;
     const halfFontSize = titleFont.size / 2;
@@ -8630,34 +8850,34 @@ class Legend extends Element {
     if (this.isHorizontal()) {
       maxWidth = Math.max(...this.lineWidths);
       y = this.top + topPaddingPlusHalfFontSize;
-      left = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(opts.align, left, this.right - maxWidth);
+      left = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(opts.align, left, this.right - maxWidth);
     } else {
       const maxHeight = this.columnSizes.reduce((acc, size) => Math.max(acc, size.height), 0);
-      y = topPaddingPlusHalfFontSize + (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(opts.align, this.top, this.bottom - maxHeight - opts.labels.padding - this._computeTitleHeight());
+      y = topPaddingPlusHalfFontSize + (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(opts.align, this.top, this.bottom - maxHeight - opts.labels.padding - this._computeTitleHeight());
     }
-    const x = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(position, left, left + maxWidth);
-    ctx.textAlign = rtlHelper.textAlign((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.$)(position));
+    const x = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(position, left, left + maxWidth);
+    ctx.textAlign = rtlHelper.textAlign((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.R)(position));
     ctx.textBaseline = 'middle';
     ctx.strokeStyle = titleOpts.color;
     ctx.fillStyle = titleOpts.color;
     ctx.font = titleFont.string;
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(ctx, titleOpts.text, x, y, titleFont);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(ctx, titleOpts.text, x, y, titleFont);
   }
   _computeTitleHeight() {
     const titleOpts = this.options.title;
-    const titleFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(titleOpts.font);
-    const titlePadding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(titleOpts.padding);
+    const titleFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(titleOpts.font);
+    const titlePadding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(titleOpts.padding);
     return titleOpts.display ? titleFont.lineHeight + titlePadding.height : 0;
   }
   _getLegendItemAt(x, y) {
     let i, hitBox, lh;
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(x, this.left, this.right)
-      && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(y, this.top, this.bottom)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(x, this.left, this.right)
+      && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(y, this.top, this.bottom)) {
       lh = this.legendHitBoxes;
       for (i = 0; i < lh.length; ++i) {
         hitBox = lh[i];
-        if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(x, hitBox.left, hitBox.left + hitBox.width)
-          && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ah)(y, hitBox.top, hitBox.top + hitBox.height)) {
+        if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(x, hitBox.left, hitBox.left + hitBox.width)
+          && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ak)(y, hitBox.top, hitBox.top + hitBox.height)) {
           return this.legendItems[i];
         }
       }
@@ -8670,23 +8890,23 @@ class Legend extends Element {
       return;
     }
     const hoveredItem = this._getLegendItemAt(e.x, e.y);
-    if (e.type === 'mousemove') {
+    if (e.type === 'mousemove' || e.type === 'mouseout') {
       const previous = this._hoveredItem;
       const sameItem = itemsEqual(previous, hoveredItem);
       if (previous && !sameItem) {
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(opts.onLeave, [e, previous, this], this);
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(opts.onLeave, [e, previous, this], this);
       }
       this._hoveredItem = hoveredItem;
       if (hoveredItem && !sameItem) {
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(opts.onHover, [e, hoveredItem, this], this);
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(opts.onHover, [e, hoveredItem, this], this);
       }
     } else if (hoveredItem) {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(opts.onClick, [e, hoveredItem, this], this);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(opts.onClick, [e, hoveredItem, this], this);
     }
   }
 }
 function isListened(type, opts) {
-  if (type === 'mousemove' && (opts.onHover || opts.onLeave)) {
+  if ((type === 'mousemove' || type === 'mouseout') && (opts.onHover || opts.onLeave)) {
     return true;
   }
   if (opts.onClick && (type === 'click' || type === 'mouseup')) {
@@ -8750,7 +8970,7 @@ var plugin_legend = {
         const {labels: {usePointStyle, pointStyle, textAlign, color}} = chart.legend.options;
         return chart._getSortedDatasetMetas().map((meta) => {
           const style = meta.controller.getStyle(usePointStyle ? 0 : undefined);
-          const borderWidth = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(style.borderWidth);
+          const borderWidth = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(style.borderWidth);
           return {
             text: datasets[meta.index].label,
             fillStyle: style.backgroundColor,
@@ -8813,9 +9033,9 @@ class Title extends Element {
     }
     this.width = this.right = maxWidth;
     this.height = this.bottom = maxHeight;
-    const lineCount = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(opts.text) ? opts.text.length : 1;
-    this._padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(opts.padding);
-    const textSize = lineCount * (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(opts.font).lineHeight + this._padding.height;
+    const lineCount = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(opts.text) ? opts.text.length : 1;
+    this._padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(opts.padding);
+    const textSize = lineCount * (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(opts.font).lineHeight + this._padding.height;
     if (this.isHorizontal()) {
       this.height = textSize;
     } else {
@@ -8832,18 +9052,18 @@ class Title extends Element {
     let rotation = 0;
     let maxWidth, titleX, titleY;
     if (this.isHorizontal()) {
-      titleX = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, left, right);
+      titleX = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, left, right);
       titleY = top + offset;
       maxWidth = right - left;
     } else {
       if (options.position === 'left') {
         titleX = left + offset;
-        titleY = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, bottom, top);
-        rotation = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P * -0.5;
+        titleY = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, bottom, top);
+        rotation = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P * -0.5;
       } else {
         titleX = right - offset;
-        titleY = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a0)(align, top, bottom);
-        rotation = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P * 0.5;
+        titleY = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.S)(align, top, bottom);
+        rotation = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P * 0.5;
       }
       maxWidth = bottom - top;
     }
@@ -8855,15 +9075,15 @@ class Title extends Element {
     if (!opts.display) {
       return;
     }
-    const fontOpts = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(opts.font);
+    const fontOpts = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(opts.font);
     const lineHeight = fontOpts.lineHeight;
     const offset = lineHeight / 2 + this._padding.top;
     const {titleX, titleY, maxWidth, rotation} = this._drawArgs(offset);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(ctx, opts.text, 0, 0, fontOpts, {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(ctx, opts.text, 0, 0, fontOpts, {
       color: opts.color,
       maxWidth,
       rotation,
-      textAlign: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.$)(opts.align),
+      textAlign: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.R)(opts.align),
       textBaseline: 'middle',
       translation: [titleX, titleY],
     });
@@ -8994,7 +9214,7 @@ const positioners = {
       const el = items[i].element;
       if (el && el.hasValue()) {
         const center = el.getCenterPoint();
-        const d = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aC)(eventPosition, center);
+        const d = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aG)(eventPosition, center);
         if (d < minDistance) {
           minDistance = d;
           nearestElement = el;
@@ -9014,7 +9234,7 @@ const positioners = {
 };
 function pushOrConcat(base, toPush) {
   if (toPush) {
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(toPush)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(toPush)) {
       Array.prototype.push.apply(base, toPush);
     } else {
       base.push(toPush);
@@ -9048,13 +9268,13 @@ function getTooltipSize(tooltip, options) {
   const ctx = tooltip.chart.ctx;
   const {body, footer, title} = tooltip;
   const {boxWidth, boxHeight} = options;
-  const bodyFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.bodyFont);
-  const titleFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.titleFont);
-  const footerFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.footerFont);
+  const bodyFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.bodyFont);
+  const titleFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.titleFont);
+  const footerFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.footerFont);
   const titleLineCount = title.length;
   const footerLineCount = footer.length;
   const bodyLineItemCount = body.length;
-  const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(options.padding);
+  const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(options.padding);
   let height = padding.height;
   let width = 0;
   let combinedBodyLength = body.reduce((count, bodyItem) => count + bodyItem.before.length + bodyItem.lines.length + bodyItem.after.length, 0);
@@ -9081,18 +9301,18 @@ function getTooltipSize(tooltip, options) {
   };
   ctx.save();
   ctx.font = titleFont.string;
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(tooltip.title, maxLineWidth);
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(tooltip.title, maxLineWidth);
   ctx.font = bodyFont.string;
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(tooltip.beforeBody.concat(tooltip.afterBody), maxLineWidth);
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(tooltip.beforeBody.concat(tooltip.afterBody), maxLineWidth);
   widthPadding = options.displayColors ? (boxWidth + 2 + options.boxPadding) : 0;
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(body, (bodyItem) => {
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(bodyItem.before, maxLineWidth);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(bodyItem.lines, maxLineWidth);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(bodyItem.after, maxLineWidth);
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(body, (bodyItem) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(bodyItem.before, maxLineWidth);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(bodyItem.lines, maxLineWidth);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(bodyItem.after, maxLineWidth);
   });
   widthPadding = 0;
   ctx.font = footerFont.string;
-  (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(tooltip.footer, maxLineWidth);
+  (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(tooltip.footer, maxLineWidth);
   ctx.restore();
   width += padding.width;
   return {width, height};
@@ -9163,7 +9383,7 @@ function getBackgroundPoint(options, size, alignment, chart) {
   const {caretSize, caretPadding, cornerRadius} = options;
   const {xAlign, yAlign} = alignment;
   const paddingAndSize = caretSize + caretPadding;
-  const {topLeft, topRight, bottomLeft, bottomRight} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.au)(cornerRadius);
+  const {topLeft, topRight, bottomLeft, bottomRight} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(cornerRadius);
   let x = alignX(size, xAlign);
   const y = alignY(size, yAlign, paddingAndSize);
   if (yAlign === 'center') {
@@ -9178,12 +9398,12 @@ function getBackgroundPoint(options, size, alignment, chart) {
     x += Math.max(topRight, bottomRight) + caretSize;
   }
   return {
-    x: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(x, 0, chart.width - size.width),
-    y: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(y, 0, chart.height - size.height)
+    x: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(x, 0, chart.width - size.width),
+    y: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(y, 0, chart.height - size.height)
   };
 }
 function getAlignedX(tooltip, align, options) {
-  const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(options.padding);
+  const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(options.padding);
   return align === 'center'
     ? tooltip.x + tooltip.width / 2
     : align === 'right'
@@ -9194,7 +9414,7 @@ function getBeforeAfterBodyLines(callback) {
   return pushOrConcat([], splitNewlines(callback));
 }
 function createTooltipContext(parent, tooltip, tooltipItems) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
     tooltip,
     tooltipItems,
     type: 'tooltip'
@@ -9276,7 +9496,7 @@ class Tooltip extends Element {
   getBody(tooltipItems, options) {
     const {callbacks} = options;
     const bodyItems = [];
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(tooltipItems, (context) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(tooltipItems, (context) => {
       const bodyItem = {
         before: [],
         lines: [],
@@ -9321,7 +9541,7 @@ class Tooltip extends Element {
     if (options.itemSort) {
       tooltipItems = tooltipItems.sort((a, b) => options.itemSort(a, b, data));
     }
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(tooltipItems, (context) => {
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(tooltipItems, (context) => {
       const scoped = overrideCallbacks(options.callbacks, context);
       labelColors.push(scoped.labelColor.call(this, context));
       labelPointStyles.push(scoped.labelPointStyle.call(this, context));
@@ -9386,7 +9606,7 @@ class Tooltip extends Element {
   getCaretPosition(tooltipPoint, size, options) {
     const {xAlign, yAlign} = this;
     const {caretSize, cornerRadius} = options;
-    const {topLeft, topRight, bottomLeft, bottomRight} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.au)(cornerRadius);
+    const {topLeft, topRight, bottomLeft, bottomRight} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(cornerRadius);
     const {x: ptX, y: ptY} = tooltipPoint;
     const {width, height} = size;
     let x1, x2, x3, y1, y2, y3;
@@ -9432,11 +9652,11 @@ class Tooltip extends Element {
     const length = title.length;
     let titleFont, titleSpacing, i;
     if (length) {
-      const rtlHelper = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ax)(options.rtl, this.x, this.width);
+      const rtlHelper = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aA)(options.rtl, this.x, this.width);
       pt.x = getAlignedX(this, options.titleAlign, options);
       ctx.textAlign = rtlHelper.textAlign(options.titleAlign);
       ctx.textBaseline = 'middle';
-      titleFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.titleFont);
+      titleFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.titleFont);
       titleSpacing = options.titleSpacing;
       ctx.fillStyle = options.titleColor;
       ctx.font = titleFont.string;
@@ -9453,7 +9673,7 @@ class Tooltip extends Element {
     const labelColors = this.labelColors[i];
     const labelPointStyle = this.labelPointStyles[i];
     const {boxHeight, boxWidth, boxPadding} = options;
-    const bodyFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.bodyFont);
+    const bodyFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.bodyFont);
     const colorX = getAlignedX(this, 'left', options);
     const rtlColorX = rtlHelper.x(colorX);
     const yOffSet = boxHeight < bodyFont.lineHeight ? (bodyFont.lineHeight - boxHeight) / 2 : 0;
@@ -9469,22 +9689,22 @@ class Tooltip extends Element {
       const centerY = colorY + boxHeight / 2;
       ctx.strokeStyle = options.multiKeyBackground;
       ctx.fillStyle = options.multiKeyBackground;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ar)(ctx, drawOptions, centerX, centerY);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.au)(ctx, drawOptions, centerX, centerY);
       ctx.strokeStyle = labelColors.borderColor;
       ctx.fillStyle = labelColors.backgroundColor;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ar)(ctx, drawOptions, centerX, centerY);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.au)(ctx, drawOptions, centerX, centerY);
     } else {
-      ctx.lineWidth = labelColors.borderWidth || 1;
+      ctx.lineWidth = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.i)(labelColors.borderWidth) ? Math.max(...Object.values(labelColors.borderWidth)) : (labelColors.borderWidth || 1);
       ctx.strokeStyle = labelColors.borderColor;
       ctx.setLineDash(labelColors.borderDash || []);
       ctx.lineDashOffset = labelColors.borderDashOffset || 0;
       const outerX = rtlHelper.leftForLtr(rtlColorX, boxWidth - boxPadding);
       const innerX = rtlHelper.leftForLtr(rtlHelper.xPlus(rtlColorX, 1), boxWidth - boxPadding - 2);
-      const borderRadius = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.au)(labelColors.borderRadius);
+      const borderRadius = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(labelColors.borderRadius);
       if (Object.values(borderRadius).some(v => v !== 0)) {
         ctx.beginPath();
         ctx.fillStyle = options.multiKeyBackground;
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.as)(ctx, {
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.av)(ctx, {
           x: outerX,
           y: colorY,
           w: boxWidth,
@@ -9495,7 +9715,7 @@ class Tooltip extends Element {
         ctx.stroke();
         ctx.fillStyle = labelColors.backgroundColor;
         ctx.beginPath();
-        (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.as)(ctx, {
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.av)(ctx, {
           x: innerX,
           y: colorY + 1,
           w: boxWidth - 2,
@@ -9516,10 +9736,10 @@ class Tooltip extends Element {
   drawBody(pt, ctx, options) {
     const {body} = this;
     const {bodySpacing, bodyAlign, displayColors, boxHeight, boxWidth, boxPadding} = options;
-    const bodyFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.bodyFont);
+    const bodyFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.bodyFont);
     let bodyLineHeight = bodyFont.lineHeight;
     let xLinePadding = 0;
-    const rtlHelper = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ax)(options.rtl, this.x, this.width);
+    const rtlHelper = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aA)(options.rtl, this.x, this.width);
     const fillLineOfText = function(line) {
       ctx.fillText(line, rtlHelper.x(pt.x + xLinePadding), pt.y + bodyLineHeight / 2);
       pt.y += bodyLineHeight + bodySpacing;
@@ -9531,7 +9751,7 @@ class Tooltip extends Element {
     ctx.font = bodyFont.string;
     pt.x = getAlignedX(this, bodyAlignForCalculation, options);
     ctx.fillStyle = options.bodyColor;
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this.beforeBody, fillLineOfText);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this.beforeBody, fillLineOfText);
     xLinePadding = displayColors && bodyAlignForCalculation !== 'right'
       ? bodyAlign === 'center' ? (boxWidth / 2 + boxPadding) : (boxWidth + 2 + boxPadding)
       : 0;
@@ -9539,7 +9759,7 @@ class Tooltip extends Element {
       bodyItem = body[i];
       textColor = this.labelTextColors[i];
       ctx.fillStyle = textColor;
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(bodyItem.before, fillLineOfText);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(bodyItem.before, fillLineOfText);
       lines = bodyItem.lines;
       if (displayColors && lines.length) {
         this._drawColorBox(ctx, pt, i, rtlHelper, options);
@@ -9549,11 +9769,11 @@ class Tooltip extends Element {
         fillLineOfText(lines[j]);
         bodyLineHeight = bodyFont.lineHeight;
       }
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(bodyItem.after, fillLineOfText);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(bodyItem.after, fillLineOfText);
     }
     xLinePadding = 0;
     bodyLineHeight = bodyFont.lineHeight;
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.D)(this.afterBody, fillLineOfText);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Q)(this.afterBody, fillLineOfText);
     pt.y -= bodySpacing;
   }
   drawFooter(pt, ctx, options) {
@@ -9561,12 +9781,12 @@ class Tooltip extends Element {
     const length = footer.length;
     let footerFont, i;
     if (length) {
-      const rtlHelper = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ax)(options.rtl, this.x, this.width);
+      const rtlHelper = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aA)(options.rtl, this.x, this.width);
       pt.x = getAlignedX(this, options.footerAlign, options);
       pt.y += options.footerMarginTop;
       ctx.textAlign = rtlHelper.textAlign(options.footerAlign);
       ctx.textBaseline = 'middle';
-      footerFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(options.footerFont);
+      footerFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(options.footerFont);
       ctx.fillStyle = options.footerColor;
       ctx.font = footerFont.string;
       for (i = 0; i < length; ++i) {
@@ -9579,7 +9799,7 @@ class Tooltip extends Element {
     const {xAlign, yAlign} = this;
     const {x, y} = pt;
     const {width, height} = tooltipSize;
-    const {topLeft, topRight, bottomLeft, bottomRight} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.au)(options.cornerRadius);
+    const {topLeft, topRight, bottomLeft, bottomRight} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(options.cornerRadius);
     ctx.fillStyle = options.backgroundColor;
     ctx.strokeStyle = options.borderColor;
     ctx.lineWidth = options.borderWidth;
@@ -9636,6 +9856,9 @@ class Tooltip extends Element {
       }
     }
   }
+  _willRender() {
+    return !!this.opacity;
+  }
   draw(ctx) {
     const options = this.options.setContext(this.getContext());
     let opacity = this.opacity;
@@ -9652,18 +9875,18 @@ class Tooltip extends Element {
       y: this.y
     };
     opacity = Math.abs(opacity) < 1e-3 ? 0 : opacity;
-    const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(options.padding);
+    const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(options.padding);
     const hasTooltipContent = this.title.length || this.beforeBody.length || this.body.length || this.afterBody.length || this.footer.length;
     if (options.enabled && hasTooltipContent) {
       ctx.save();
       ctx.globalAlpha = opacity;
       this.drawBackground(pt, ctx, tooltipSize, options);
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.ay)(ctx, options.textDirection);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aB)(ctx, options.textDirection);
       pt.y += padding.top;
       this.drawTitle(pt, ctx, options);
       this.drawBody(pt, ctx, options);
       this.drawFooter(pt, ctx, options);
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aA)(ctx, options.textDirection);
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aD)(ctx, options.textDirection);
       ctx.restore();
     }
   }
@@ -9683,7 +9906,7 @@ class Tooltip extends Element {
         index,
       };
     });
-    const changed = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.af)(lastActive, active);
+    const changed = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ai)(lastActive, active);
     const positionChanged = this._positionChanged(active, eventPosition);
     if (changed || positionChanged) {
       this._active = active;
@@ -9701,7 +9924,7 @@ class Tooltip extends Element {
     const lastActive = this._active || [];
     const active = this._getActiveElements(e, lastActive, replay, inChartArea);
     const positionChanged = this._positionChanged(active, e);
-    const changed = replay || !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.af)(active, lastActive) || positionChanged;
+    const changed = replay || !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ai)(active, lastActive) || positionChanged;
     if (changed) {
       this._active = active;
       if (options.enabled || options.external) {
@@ -9756,16 +9979,16 @@ var plugin_tooltip = {
   },
   afterDraw(chart) {
     const tooltip = chart.tooltip;
-    const args = {
-      tooltip
-    };
-    if (chart.notifyPlugins('beforeTooltipDraw', args) === false) {
-      return;
-    }
-    if (tooltip) {
+    if (tooltip && tooltip._willRender()) {
+      const args = {
+        tooltip
+      };
+      if (chart.notifyPlugins('beforeTooltipDraw', args) === false) {
+        return;
+      }
       tooltip.draw(chart.ctx);
+      chart.notifyPlugins('afterTooltipDraw', args);
     }
-    chart.notifyPlugins('afterTooltipDraw', args);
   },
   afterEvent(chart, args) {
     if (chart.tooltip) {
@@ -9825,7 +10048,7 @@ var plugin_tooltip = {
       }
     },
     callbacks: {
-      beforeTitle: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
+      beforeTitle: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
       title(tooltipItems) {
         if (tooltipItems.length > 0) {
           const item = tooltipItems[0];
@@ -9841,9 +10064,9 @@ var plugin_tooltip = {
         }
         return '';
       },
-      afterTitle: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
-      beforeBody: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
-      beforeLabel: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
+      afterTitle: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
+      beforeBody: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
+      beforeLabel: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
       label(tooltipItem) {
         if (this && this.options && this.options.mode === 'dataset') {
           return tooltipItem.label + ': ' + tooltipItem.formattedValue || tooltipItem.formattedValue;
@@ -9853,7 +10076,7 @@ var plugin_tooltip = {
           label += ': ';
         }
         const value = tooltipItem.formattedValue;
-        if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(value)) {
+        if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(value)) {
           label += value;
         }
         return label;
@@ -9881,11 +10104,11 @@ var plugin_tooltip = {
           rotation: options.rotation,
         };
       },
-      afterLabel: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
-      afterBody: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
-      beforeFooter: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
-      footer: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB,
-      afterFooter: _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aB
+      afterLabel: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
+      afterBody: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
+      beforeFooter: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
+      footer: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF,
+      afterFooter: _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aF
     }
   },
   defaultRoutes: {
@@ -9913,7 +10136,7 @@ var plugin_tooltip = {
 var plugins = /*#__PURE__*/Object.freeze({
 __proto__: null,
 Decimation: plugin_decimation,
-Filler: plugin_filler,
+Filler: index,
 Legend: plugin_legend,
 SubTitle: plugin_subtitle,
 Title: plugin_title,
@@ -9937,7 +10160,7 @@ function findOrAddLabel(labels, raw, index, addedLabels) {
   const last = labels.lastIndexOf(raw);
   return first !== last ? index : first;
 }
-const validIndex = (index, max) => index === null ? null : (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(Math.round(index), 0, max);
+const validIndex = (index, max) => index === null ? null : (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(Math.round(index), 0, max);
 class CategoryScale extends Scale {
   constructor(cfg) {
     super(cfg);
@@ -9959,12 +10182,12 @@ class CategoryScale extends Scale {
     super.init(scaleOptions);
   }
   parse(raw, index) {
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(raw)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(raw)) {
       return null;
     }
     const labels = this.getLabels();
     index = isFinite(index) && labels[index] === raw ? index
-      : findOrAddLabel(labels, raw, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(index, raw), this._addedLabels);
+      : findOrAddLabel(labels, raw, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(index, raw), this._addedLabels);
     return validIndex(index, labels.length - 1);
   }
   determineDataLimits() {
@@ -10042,20 +10265,20 @@ function generateTicks$1(generationOptions, dataRange) {
   const unit = step || 1;
   const maxSpaces = maxTicks - 1;
   const {min: rmin, max: rmax} = dataRange;
-  const minDefined = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(min);
-  const maxDefined = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(max);
-  const countDefined = !(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(count);
+  const minDefined = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(min);
+  const maxDefined = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(max);
+  const countDefined = !(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(count);
   const minSpacing = (rmax - rmin) / (maxDigits + 1);
-  let spacing = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aE)((rmax - rmin) / maxSpaces / unit) * unit;
+  let spacing = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aI)((rmax - rmin) / maxSpaces / unit) * unit;
   let factor, niceMin, niceMax, numSpaces;
   if (spacing < MIN_SPACING && !minDefined && !maxDefined) {
     return [{value: rmin}, {value: rmax}];
   }
   numSpaces = Math.ceil(rmax / spacing) - Math.floor(rmin / spacing);
   if (numSpaces > maxSpaces) {
-    spacing = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aE)(numSpaces * spacing / maxSpaces / unit) * unit;
+    spacing = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aI)(numSpaces * spacing / maxSpaces / unit) * unit;
   }
-  if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(precision)) {
+  if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(precision)) {
     factor = Math.pow(10, precision);
     spacing = Math.ceil(spacing * factor) / factor;
   }
@@ -10066,7 +10289,7 @@ function generateTicks$1(generationOptions, dataRange) {
     niceMin = rmin;
     niceMax = rmax;
   }
-  if (minDefined && maxDefined && step && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aF)((max - min) / step, spacing / 1000)) {
+  if (minDefined && maxDefined && step && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aJ)((max - min) / step, spacing / 1000)) {
     numSpaces = Math.round(Math.min((max - min) / spacing, maxTicks));
     spacing = (max - min) / numSpaces;
     niceMin = min;
@@ -10078,17 +10301,17 @@ function generateTicks$1(generationOptions, dataRange) {
     spacing = (niceMax - niceMin) / numSpaces;
   } else {
     numSpaces = (niceMax - niceMin) / spacing;
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aG)(numSpaces, Math.round(numSpaces), spacing / 1000)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aK)(numSpaces, Math.round(numSpaces), spacing / 1000)) {
       numSpaces = Math.round(numSpaces);
     } else {
       numSpaces = Math.ceil(numSpaces);
     }
   }
   const decimalPlaces = Math.max(
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aH)(spacing),
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aH)(niceMin)
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aL)(spacing),
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aL)(niceMin)
   );
-  factor = Math.pow(10, (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(precision) ? decimalPlaces : precision);
+  factor = Math.pow(10, (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(precision) ? decimalPlaces : precision);
   niceMin = Math.round(niceMin * factor) / factor;
   niceMax = Math.round(niceMax * factor) / factor;
   let j = 0;
@@ -10098,7 +10321,7 @@ function generateTicks$1(generationOptions, dataRange) {
       if (niceMin < min) {
         j++;
       }
-      if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aG)(Math.round((niceMin + j * spacing) * factor) / factor, min, relativeLabelSize(min, minSpacing, generationOptions))) {
+      if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aK)(Math.round((niceMin + j * spacing) * factor) / factor, min, relativeLabelSize(min, minSpacing, generationOptions))) {
         j++;
       }
     } else if (niceMin < min) {
@@ -10109,7 +10332,7 @@ function generateTicks$1(generationOptions, dataRange) {
     ticks.push({value: Math.round((niceMin + j * spacing) * factor) / factor});
   }
   if (maxDefined && includeBounds && niceMax !== max) {
-    if (ticks.length && (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aG)(ticks[ticks.length - 1].value, max, relativeLabelSize(max, minSpacing, generationOptions))) {
+    if (ticks.length && (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aK)(ticks[ticks.length - 1].value, max, relativeLabelSize(max, minSpacing, generationOptions))) {
       ticks[ticks.length - 1].value = max;
     } else {
       ticks.push({value: max});
@@ -10120,7 +10343,7 @@ function generateTicks$1(generationOptions, dataRange) {
   return ticks;
 }
 function relativeLabelSize(value, minSpacing, {horizontal, minRotation}) {
-  const rad = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(minRotation);
+  const rad = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(minRotation);
   const ratio = (horizontal ? Math.sin(rad) : Math.cos(rad)) || 0.001;
   const length = 0.75 * minSpacing * ('' + value).length;
   return Math.min(minSpacing / ratio, length);
@@ -10135,7 +10358,7 @@ class LinearScaleBase extends Scale {
     this._valueRange = 0;
   }
   parse(raw, index) {
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(raw)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(raw)) {
       return null;
     }
     if ((typeof raw === 'number' || raw instanceof Number) && !isFinite(+raw)) {
@@ -10150,8 +10373,8 @@ class LinearScaleBase extends Scale {
     const setMin = v => (min = minDefined ? min : v);
     const setMax = v => (max = maxDefined ? max : v);
     if (beginAtZero) {
-      const minSign = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(min);
-      const maxSign = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.s)(max);
+      const minSign = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(min);
+      const maxSign = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.s)(max);
       if (minSign < 0 && maxSign < 0) {
         setMax(0);
       } else if (minSign > 0 && maxSign > 0) {
@@ -10214,7 +10437,7 @@ class LinearScaleBase extends Scale {
     const dataRange = this._range || this;
     const ticks = generateTicks$1(numericGeneratorOptions, dataRange);
     if (opts.bounds === 'ticks') {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aD)(ticks, this, 'value');
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aH)(ticks, this, 'value');
     }
     if (opts.reverse) {
       ticks.reverse();
@@ -10241,21 +10464,21 @@ class LinearScaleBase extends Scale {
     this._valueRange = end - start;
   }
   getLabelForValue(value) {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.o)(value, this.chart.options.locale, this.options.ticks.format);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.o)(value, this.chart.options.locale, this.options.ticks.format);
   }
 }
 
 class LinearScale extends LinearScaleBase {
   determineDataLimits() {
     const {min, max} = this.getMinMax(true);
-    this.min = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(min) ? min : 0;
-    this.max = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(max) ? max : 1;
+    this.min = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(min) ? min : 0;
+    this.max = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(max) ? max : 1;
     this.handleTickRangeOptions();
   }
   computeTickLimit() {
     const horizontal = this.isHorizontal();
     const length = horizontal ? this.width : this.height;
-    const minRotation = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.options.ticks.minRotation);
+    const minRotation = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.options.ticks.minRotation);
     const ratio = (horizontal ? Math.sin(minRotation) : Math.cos(minRotation)) || 0.001;
     const tickFont = this._resolveTickFontOptions(0);
     return Math.ceil(length / Math.min(40, tickFont.lineHeight / ratio));
@@ -10275,15 +10498,15 @@ LinearScale.defaults = {
 };
 
 function isMajor(tickVal) {
-  const remain = tickVal / (Math.pow(10, Math.floor((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(tickVal))));
+  const remain = tickVal / (Math.pow(10, Math.floor((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(tickVal))));
   return remain === 1;
 }
 function generateTicks(generationOptions, dataRange) {
-  const endExp = Math.floor((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(dataRange.max));
+  const endExp = Math.floor((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(dataRange.max));
   const endSignificand = Math.ceil(dataRange.max / Math.pow(10, endExp));
   const ticks = [];
-  let tickVal = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(generationOptions.min, Math.pow(10, Math.floor((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(dataRange.min))));
-  let exp = Math.floor((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(tickVal));
+  let tickVal = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(generationOptions.min, Math.pow(10, Math.floor((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(dataRange.min))));
+  let exp = Math.floor((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(tickVal));
   let significand = Math.floor(tickVal / Math.pow(10, exp));
   let precision = exp < 0 ? Math.pow(10, Math.abs(exp)) : 1;
   do {
@@ -10296,7 +10519,7 @@ function generateTicks(generationOptions, dataRange) {
     }
     tickVal = Math.round(significand * Math.pow(10, exp) * precision) / precision;
   } while (exp < endExp || (exp === endExp && significand < endSignificand));
-  const lastTick = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.N)(generationOptions.max, tickVal);
+  const lastTick = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.B)(generationOptions.max, tickVal);
   ticks.push({value: lastTick, major: isMajor(tickVal)});
   return ticks;
 }
@@ -10314,12 +10537,12 @@ class LogarithmicScale extends Scale {
       this._zero = true;
       return undefined;
     }
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(value) && value > 0 ? value : null;
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(value) && value > 0 ? value : null;
   }
   determineDataLimits() {
     const {min, max} = this.getMinMax(true);
-    this.min = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(min) ? Math.max(0, min) : null;
-    this.max = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(max) ? Math.max(0, max) : null;
+    this.min = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(min) ? Math.max(0, min) : null;
+    this.max = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(max) ? Math.max(0, max) : null;
     if (this.options.beginAtZero) {
       this._zero = true;
     }
@@ -10331,7 +10554,7 @@ class LogarithmicScale extends Scale {
     let max = this.max;
     const setMin = v => (min = minDefined ? min : v);
     const setMax = v => (max = maxDefined ? max : v);
-    const exp = (v, m) => Math.pow(10, Math.floor((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(v)) + m);
+    const exp = (v, m) => Math.pow(10, Math.floor((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(v)) + m);
     if (min === max) {
       if (min <= 0) {
         setMin(1);
@@ -10361,7 +10584,7 @@ class LogarithmicScale extends Scale {
     };
     const ticks = generateTicks(generationOptions, this);
     if (opts.bounds === 'ticks') {
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aD)(ticks, this, 'value');
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aH)(ticks, this, 'value');
     }
     if (opts.reverse) {
       ticks.reverse();
@@ -10376,13 +10599,13 @@ class LogarithmicScale extends Scale {
   getLabelForValue(value) {
     return value === undefined
       ? '0'
-      : (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.o)(value, this.chart.options.locale, this.options.ticks.format);
+      : (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.o)(value, this.chart.options.locale, this.options.ticks.format);
   }
   configure() {
     const start = this.min;
     super.configure();
-    this._startValue = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(start);
-    this._valueRange = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(this.max) - (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(start);
+    this._startValue = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(start);
+    this._valueRange = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(this.max) - (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(start);
   }
   getPixelForValue(value) {
     if (value === undefined || value === 0) {
@@ -10393,7 +10616,7 @@ class LogarithmicScale extends Scale {
     }
     return this.getPixelForDecimal(value === this.min
       ? 0
-      : ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.L)(value) - this._startValue) / this._valueRange);
+      : ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.z)(value) - this._startValue) / this._valueRange);
   }
   getValueForPixel(pixel) {
     const decimal = this.getDecimalForPixel(pixel);
@@ -10413,15 +10636,15 @@ LogarithmicScale.defaults = {
 function getTickBackdropHeight(opts) {
   const tickOpts = opts.ticks;
   if (tickOpts.display && opts.display) {
-    const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(tickOpts.backdropPadding);
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(tickOpts.font && tickOpts.font.size, _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.d.font.size) + padding.height;
+    const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(tickOpts.backdropPadding);
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(tickOpts.font && tickOpts.font.size, _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.d.font.size) + padding.height;
   }
   return 0;
 }
 function measureLabelSize(ctx, font, label) {
-  label = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.b)(label) ? label : [label];
+  label = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.b)(label) ? label : [label];
   return {
-    w: (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aI)(ctx, font.string, label),
+    w: (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aM)(ctx, font.string, label),
     h: label.length * font.lineHeight
   };
 }
@@ -10454,16 +10677,16 @@ function fitWithPointLabels(scale) {
   const padding = [];
   const valueCount = scale._pointLabels.length;
   const pointLabelOpts = scale.options.pointLabels;
-  const additionalAngle = pointLabelOpts.centerPointLabels ? _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P / valueCount : 0;
+  const additionalAngle = pointLabelOpts.centerPointLabels ? _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P / valueCount : 0;
   for (let i = 0; i < valueCount; i++) {
     const opts = pointLabelOpts.setContext(scale.getPointLabelContext(i));
     padding[i] = opts.padding;
     const pointPosition = scale.getPointPosition(i, scale.drawingArea + padding[i], additionalAngle);
-    const plFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(opts.font);
+    const plFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(opts.font);
     const textSize = measureLabelSize(scale.ctx, plFont, scale._pointLabels[i]);
     labelSizes[i] = textSize;
-    const angleRadians = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aw)(scale.getIndexAngle(i) + additionalAngle);
-    const angle = Math.round((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.R)(angleRadians));
+    const angleRadians = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.az)(scale.getIndexAngle(i) + additionalAngle);
+    const angle = Math.round((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.F)(angleRadians));
     const hLimits = determineLimits(angle, pointPosition.x, textSize.w, 0, 180);
     const vLimits = determineLimits(angle, pointPosition.y, textSize.h, 90, 270);
     updateLimits(limits, orig, angleRadians, hLimits, vLimits);
@@ -10502,10 +10725,10 @@ function buildPointLabelItems(scale, labelSizes, padding) {
   const opts = scale.options;
   const extra = getTickBackdropHeight(opts) / 2;
   const outerDistance = scale.drawingArea;
-  const additionalAngle = opts.pointLabels.centerPointLabels ? _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.P / valueCount : 0;
+  const additionalAngle = opts.pointLabels.centerPointLabels ? _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.P / valueCount : 0;
   for (let i = 0; i < valueCount; i++) {
     const pointLabelPosition = scale.getPointPosition(i, outerDistance + extra + padding[i], additionalAngle);
-    const angle = Math.round((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.R)((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aw)(pointLabelPosition.angle + _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H)));
+    const angle = Math.round((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.F)((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.az)(pointLabelPosition.angle + _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H)));
     const size = labelSizes[i];
     const y = yForAngle(pointLabelPosition.y, size.h, angle);
     const textAlign = getTextAlignForAngle(angle);
@@ -10550,15 +10773,32 @@ function drawPointLabels(scale, labelCount) {
   const {ctx, options: {pointLabels}} = scale;
   for (let i = labelCount - 1; i >= 0; i--) {
     const optsAtIndex = pointLabels.setContext(scale.getPointLabelContext(i));
-    const plFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(optsAtIndex.font);
+    const plFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(optsAtIndex.font);
     const {x, y, textAlign, left, top, right, bottom} = scale._pointLabelItems[i];
     const {backdropColor} = optsAtIndex;
-    if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(backdropColor)) {
-      const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(optsAtIndex.backdropPadding);
+    if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(backdropColor)) {
+      const borderRadius = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ax)(optsAtIndex.borderRadius);
+      const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(optsAtIndex.backdropPadding);
       ctx.fillStyle = backdropColor;
-      ctx.fillRect(left - padding.left, top - padding.top, right - left + padding.width, bottom - top + padding.height);
+      const backdropLeft = left - padding.left;
+      const backdropTop = top - padding.top;
+      const backdropWidth = right - left + padding.width;
+      const backdropHeight = bottom - top + padding.height;
+      if (Object.values(borderRadius).some(v => v !== 0)) {
+        ctx.beginPath();
+        (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.av)(ctx, {
+          x: backdropLeft,
+          y: backdropTop,
+          w: backdropWidth,
+          h: backdropHeight,
+          radius: borderRadius,
+        });
+        ctx.fill();
+      } else {
+        ctx.fillRect(backdropLeft, backdropTop, backdropWidth, backdropHeight);
+      }
     }
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(
       ctx,
       scale._pointLabels[i],
       x,
@@ -10575,7 +10815,7 @@ function drawPointLabels(scale, labelCount) {
 function pathRadiusLine(scale, radius, circular, labelCount) {
   const {ctx} = scale;
   if (circular) {
-    ctx.arc(scale.xCenter, scale.yCenter, radius, 0, _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T);
+    ctx.arc(scale.xCenter, scale.yCenter, radius, 0, _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T);
   } else {
     let pointPosition = scale.getPointPosition(0, radius);
     ctx.moveTo(pointPosition.x, pointPosition.y);
@@ -10604,7 +10844,7 @@ function drawRadiusLine(scale, gridLineOpts, radius, labelCount) {
   ctx.restore();
 }
 function createPointLabelContext(parent, index, label) {
-  return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
+  return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.h)(parent, {
     label,
     index,
     type: 'pointLabel'
@@ -10620,7 +10860,7 @@ class RadialLinearScale extends LinearScaleBase {
     this._pointLabelItems = [];
   }
   setDimensions() {
-    const padding = this._padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(getTickBackdropHeight(this.options) / 2);
+    const padding = this._padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(getTickBackdropHeight(this.options) / 2);
     const w = this.width = this.maxWidth - padding.width;
     const h = this.height = this.maxHeight - padding.height;
     this.xCenter = Math.floor(this.left + w / 2 + padding.left);
@@ -10629,8 +10869,8 @@ class RadialLinearScale extends LinearScaleBase {
   }
   determineDataLimits() {
     const {min, max} = this.getMinMax(false);
-    this.min = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(min) && !isNaN(min) ? min : 0;
-    this.max = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(max) && !isNaN(max) ? max : 0;
+    this.min = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(min) && !isNaN(min) ? min : 0;
+    this.max = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(max) && !isNaN(max) ? max : 0;
     this.handleTickRangeOptions();
   }
   computeTickLimit() {
@@ -10640,7 +10880,7 @@ class RadialLinearScale extends LinearScaleBase {
     LinearScaleBase.prototype.generateTickLabels.call(this, ticks);
     this._pointLabels = this.getLabels()
       .map((value, index) => {
-        const label = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(this.options.pointLabels.callback, [value, index], this);
+        const label = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(this.options.pointLabels.callback, [value, index], this);
         return label || label === 0 ? label : '';
       })
       .filter((v, i) => this.chart.getDataVisibility(i));
@@ -10659,12 +10899,12 @@ class RadialLinearScale extends LinearScaleBase {
     this.drawingArea -= Math.min(this.drawingArea / 2, Math.max(leftMovement, rightMovement, topMovement, bottomMovement));
   }
   getIndexAngle(index) {
-    const angleMultiplier = _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.T / (this._pointLabels.length || 1);
+    const angleMultiplier = _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.T / (this._pointLabels.length || 1);
     const startAngle = this.options.startAngle || 0;
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aw)(index * angleMultiplier + (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(startAngle));
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.az)(index * angleMultiplier + (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(startAngle));
   }
   getDistanceFromCenterForValue(value) {
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(value)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(value)) {
       return NaN;
     }
     const scalingFactor = this.drawingArea / (this.max - this.min);
@@ -10674,7 +10914,7 @@ class RadialLinearScale extends LinearScaleBase {
     return (value - this.min) * scalingFactor;
   }
   getValueForDistanceFromCenter(distance) {
-    if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(distance)) {
+    if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(distance)) {
       return NaN;
     }
     const scaledDistance = distance / (this.drawingArea / (this.max - this.min));
@@ -10688,7 +10928,7 @@ class RadialLinearScale extends LinearScaleBase {
     }
   }
   getPointPosition(index, distanceFromCenter, additionalAngle = 0) {
-    const angle = this.getIndexAngle(index) - _chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.H + additionalAngle;
+    const angle = this.getIndexAngle(index) - _chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.H + additionalAngle;
     return {
       x: Math.cos(angle) * distanceFromCenter + this.xCenter,
       y: Math.sin(angle) * distanceFromCenter + this.yCenter,
@@ -10783,13 +11023,13 @@ class RadialLinearScale extends LinearScaleBase {
         return;
       }
       const optsAtIndex = tickOpts.setContext(this.getContext(index));
-      const tickFont = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.Z)(optsAtIndex.font);
+      const tickFont = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.O)(optsAtIndex.font);
       offset = this.getDistanceFromCenterForValue(this.ticks[index].value);
       if (optsAtIndex.showLabelBackdrop) {
         ctx.font = tickFont.string;
         width = ctx.measureText(tick.label).width;
         ctx.fillStyle = optsAtIndex.backdropColor;
-        const padding = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.C)(optsAtIndex.backdropPadding);
+        const padding = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.K)(optsAtIndex.backdropPadding);
         ctx.fillRect(
           -width / 2 - padding.left,
           -offset - tickFont.size / 2 - padding.top,
@@ -10797,7 +11037,7 @@ class RadialLinearScale extends LinearScaleBase {
           tickFont.size + padding.height
         );
       }
-      (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.X)(ctx, tick.label, 0, -offset, tickFont, {
+      (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.M)(ctx, tick.label, 0, -offset, tickFont, {
         color: optsAtIndex.color,
       });
     });
@@ -10865,7 +11105,7 @@ function sorter(a, b) {
   return a - b;
 }
 function parse(scale, input) {
-  if ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.k)(input)) {
+  if ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.k)(input)) {
     return null;
   }
   const adapter = scale._adapter;
@@ -10874,7 +11114,7 @@ function parse(scale, input) {
   if (typeof parser === 'function') {
     value = parser(value);
   }
-  if (!(0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(value)) {
+  if (!(0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(value)) {
     value = typeof parser === 'string'
       ? adapter.parse(value, parser)
       : adapter.parse(value);
@@ -10883,7 +11123,7 @@ function parse(scale, input) {
     return null;
   }
   if (round) {
-    value = round === 'week' && ((0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.q)(isoWeekday) || isoWeekday === true)
+    value = round === 'week' && ((0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.x)(isoWeekday) || isoWeekday === true)
       ? adapter.startOf(value, 'isoWeek', isoWeekday)
       : adapter.startOf(value, round);
   }
@@ -10920,7 +11160,7 @@ function addTick(ticks, time, timestamps) {
   if (!timestamps) {
     ticks[time] = true;
   } else if (timestamps.length) {
-    const {lo, hi} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aK)(timestamps, time);
+    const {lo, hi} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aO)(timestamps, time);
     const timestamp = timestamps[lo] >= time ? timestamps[lo] : timestamps[hi];
     ticks[timestamp] = true;
   }
@@ -10970,7 +11210,8 @@ class TimeScale extends Scale {
   init(scaleOpts, opts) {
     const time = scaleOpts.time || (scaleOpts.time = {});
     const adapter = this._adapter = new adapters._date(scaleOpts.adapters.date);
-    (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.a9)(time.displayFormats, adapter.formats());
+    adapter.init(opts);
+    (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.ac)(time.displayFormats, adapter.formats());
     this._parseOpts = {
       parser: time.parser,
       round: time.round,
@@ -11012,8 +11253,8 @@ class TimeScale extends Scale {
         _applyBounds(this.getMinMax(false));
       }
     }
-    min = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(min) && !isNaN(min) ? min : +adapter.startOf(Date.now(), unit);
-    max = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.g)(max) && !isNaN(max) ? max : +adapter.endOf(Date.now(), unit) + 1;
+    min = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(min) && !isNaN(min) ? min : +adapter.startOf(Date.now(), unit);
+    max = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.g)(max) && !isNaN(max) ? max : +adapter.endOf(Date.now(), unit) + 1;
     this.min = Math.min(min, max - 1);
     this.max = Math.max(min + 1, max);
   }
@@ -11038,7 +11279,7 @@ class TimeScale extends Scale {
     }
     const min = this.min;
     const max = this.max;
-    const ticks = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.aJ)(timestamps, min, max);
+    const ticks = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.aN)(timestamps, min, max);
     this._unit = timeOpts.unit || (tickOpts.autoSkip
       ? determineUnitForAutoTicks(timeOpts.minUnit, this.min, this.max, this._getLabelCapacity(min))
       : determineUnitForFormatting(this, ticks.length, timeOpts.minUnit, this.min, this.max));
@@ -11049,6 +11290,11 @@ class TimeScale extends Scale {
       ticks.reverse();
     }
     return ticksFromTimestamps(this, ticks, this._majorUnit);
+  }
+  afterAutoSkip() {
+    if (this.options.offsetAfterAutoskip) {
+      this.initOffsets(this.ticks.map(tick => +tick.value));
+    }
   }
   initOffsets(timestamps) {
     let start = 0;
@@ -11069,8 +11315,8 @@ class TimeScale extends Scale {
       }
     }
     const limit = timestamps.length < 3 ? 0.5 : 0.25;
-    start = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(start, 0, limit);
-    end = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.w)(end, 0, limit);
+    start = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(start, 0, limit);
+    end = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.E)(end, 0, limit);
     this._offsets = {start, end, factor: 1 / (start + 1 + end)};
   }
   _generate() {
@@ -11080,9 +11326,9 @@ class TimeScale extends Scale {
     const options = this.options;
     const timeOpts = options.time;
     const minor = timeOpts.unit || determineUnitForAutoTicks(timeOpts.minUnit, min, max, this._getLabelCapacity(min));
-    const stepSize = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.v)(timeOpts.stepSize, 1);
+    const stepSize = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.v)(timeOpts.stepSize, 1);
     const weekday = minor === 'week' ? timeOpts.isoWeekday : false;
-    const hasWeekday = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.q)(weekday) || weekday === true;
+    const hasWeekday = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.x)(weekday) || weekday === true;
     const ticks = {};
     let first = min;
     let time, count;
@@ -11121,7 +11367,7 @@ class TimeScale extends Scale {
     const major = majorUnit && majorFormat && tick && tick.major;
     const label = this._adapter.format(time, format || (major ? majorFormat : minorFormat));
     const formatter = options.ticks.callback;
-    return formatter ? (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.O)(formatter, [label, index, ticks], this) : label;
+    return formatter ? (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.C)(formatter, [label, index, ticks], this) : label;
   }
   generateTickLabels(ticks) {
     let i, ilen, tick;
@@ -11146,7 +11392,7 @@ class TimeScale extends Scale {
   _getLabelSize(label) {
     const ticksOpts = this.options.ticks;
     const tickLabelWidth = this.ctx.measureText(label).width;
-    const angle = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.t)(this.isHorizontal() ? ticksOpts.maxRotation : ticksOpts.minRotation);
+    const angle = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.t)(this.isHorizontal() ? ticksOpts.maxRotation : ticksOpts.minRotation);
     const cosRotation = Math.cos(angle);
     const sinRotation = Math.sin(angle);
     const tickFontSize = this._resolveTickFontOptions(0).size;
@@ -11192,7 +11438,7 @@ class TimeScale extends Scale {
     return (this._cache.labels = this._normalized ? timestamps : this.normalize(timestamps));
   }
   normalize(values) {
-    return (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__._)(values.sort(sorter));
+    return (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__._)(values.sort(sorter));
   }
 }
 TimeScale.id = 'time';
@@ -11221,13 +11467,13 @@ function interpolate(table, val, reverse) {
   let prevSource, nextSource, prevTarget, nextTarget;
   if (reverse) {
     if (val >= table[lo].pos && val <= table[hi].pos) {
-      ({lo, hi} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(table, 'pos', val));
+      ({lo, hi} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Z)(table, 'pos', val));
     }
     ({pos: prevSource, time: prevTarget} = table[lo]);
     ({pos: nextSource, time: nextTarget} = table[hi]);
   } else {
     if (val >= table[lo].time && val <= table[hi].time) {
-      ({lo, hi} = (0,_chunks_helpers_segment_js__WEBPACK_IMPORTED_MODULE_0__.x)(table, 'time', val));
+      ({lo, hi} = (0,_chunks_helpers_segment_mjs__WEBPACK_IMPORTED_MODULE_0__.Z)(table, 'time', val));
     }
     ({time: prevSource, pos: prevTarget} = table[lo]);
     ({time: nextSource, pos: nextTarget} = table[hi]);
@@ -11325,184 +11571,145 @@ const registerables = [
 
 /***/ }),
 
-/***/ "./node_modules/chart.js/dist/chunks/helpers.segment.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/chart.js/dist/chunks/helpers.segment.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+/***/ "./node_modules/chart.js/dist/chunks/helpers.segment.mjs":
+/*!***************************************************************!*\
+  !*** ./node_modules/chart.js/dist/chunks/helpers.segment.mjs ***!
+  \***************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "$": () => (/* binding */ _toLeftRightCenter),
-/* harmony export */   "A": () => (/* binding */ _rlookupByKey),
-/* harmony export */   "B": () => (/* binding */ getAngleFromPoint),
-/* harmony export */   "C": () => (/* binding */ toPadding),
-/* harmony export */   "D": () => (/* binding */ each),
-/* harmony export */   "E": () => (/* binding */ getMaximumSize),
-/* harmony export */   "F": () => (/* binding */ _getParentNode),
-/* harmony export */   "G": () => (/* binding */ readUsedSize),
-/* harmony export */   "H": () => (/* binding */ HALF_PI),
-/* harmony export */   "I": () => (/* binding */ throttled),
-/* harmony export */   "J": () => (/* binding */ supportsEventListenerOptions),
-/* harmony export */   "K": () => (/* binding */ _isDomSupported),
-/* harmony export */   "L": () => (/* binding */ log10),
-/* harmony export */   "M": () => (/* binding */ _factorize),
-/* harmony export */   "N": () => (/* binding */ finiteOrDefault),
-/* harmony export */   "O": () => (/* binding */ callback),
-/* harmony export */   "P": () => (/* binding */ PI),
-/* harmony export */   "Q": () => (/* binding */ _addGrace),
-/* harmony export */   "R": () => (/* binding */ toDegrees),
-/* harmony export */   "S": () => (/* binding */ _measureText),
-/* harmony export */   "T": () => (/* binding */ TAU),
-/* harmony export */   "U": () => (/* binding */ _int16Range),
-/* harmony export */   "V": () => (/* binding */ _alignPixel),
-/* harmony export */   "W": () => (/* binding */ clipArea),
-/* harmony export */   "X": () => (/* binding */ renderText),
-/* harmony export */   "Y": () => (/* binding */ unclipArea),
-/* harmony export */   "Z": () => (/* binding */ toFont),
-/* harmony export */   "_": () => (/* binding */ _arrayUnique),
-/* harmony export */   "a": () => (/* binding */ resolve),
-/* harmony export */   "a$": () => (/* binding */ _angleDiff),
-/* harmony export */   "a0": () => (/* binding */ _alignStartEnd),
-/* harmony export */   "a1": () => (/* binding */ overrides),
-/* harmony export */   "a2": () => (/* binding */ merge),
-/* harmony export */   "a3": () => (/* binding */ _capitalize),
-/* harmony export */   "a4": () => (/* binding */ descriptors),
-/* harmony export */   "a5": () => (/* binding */ isFunction),
-/* harmony export */   "a6": () => (/* binding */ _attachContext),
-/* harmony export */   "a7": () => (/* binding */ _createResolver),
-/* harmony export */   "a8": () => (/* binding */ _descriptors),
-/* harmony export */   "a9": () => (/* binding */ mergeIf),
-/* harmony export */   "aA": () => (/* binding */ restoreTextDirection),
-/* harmony export */   "aB": () => (/* binding */ noop),
-/* harmony export */   "aC": () => (/* binding */ distanceBetweenPoints),
-/* harmony export */   "aD": () => (/* binding */ _setMinAndMaxByKey),
-/* harmony export */   "aE": () => (/* binding */ niceNum),
-/* harmony export */   "aF": () => (/* binding */ almostWhole),
-/* harmony export */   "aG": () => (/* binding */ almostEquals),
-/* harmony export */   "aH": () => (/* binding */ _decimalPlaces),
-/* harmony export */   "aI": () => (/* binding */ _longestText),
-/* harmony export */   "aJ": () => (/* binding */ _filterBetween),
-/* harmony export */   "aK": () => (/* binding */ _lookup),
-/* harmony export */   "aL": () => (/* binding */ getHoverColor),
-/* harmony export */   "aM": () => (/* binding */ clone$1),
-/* harmony export */   "aN": () => (/* binding */ _merger),
-/* harmony export */   "aO": () => (/* binding */ _mergerIf),
-/* harmony export */   "aP": () => (/* binding */ _deprecated),
-/* harmony export */   "aQ": () => (/* binding */ toFontString),
-/* harmony export */   "aR": () => (/* binding */ splineCurve),
-/* harmony export */   "aS": () => (/* binding */ splineCurveMonotone),
-/* harmony export */   "aT": () => (/* binding */ getStyle),
-/* harmony export */   "aU": () => (/* binding */ fontString),
-/* harmony export */   "aV": () => (/* binding */ toLineHeight),
-/* harmony export */   "aW": () => (/* binding */ PITAU),
-/* harmony export */   "aX": () => (/* binding */ INFINITY),
-/* harmony export */   "aY": () => (/* binding */ RAD_PER_DEG),
-/* harmony export */   "aZ": () => (/* binding */ QUARTER_PI),
-/* harmony export */   "a_": () => (/* binding */ TWO_THIRDS_PI),
-/* harmony export */   "aa": () => (/* binding */ uid),
-/* harmony export */   "ab": () => (/* binding */ debounce),
-/* harmony export */   "ac": () => (/* binding */ retinaScale),
-/* harmony export */   "ad": () => (/* binding */ clearCanvas),
-/* harmony export */   "ae": () => (/* binding */ setsEqual),
-/* harmony export */   "af": () => (/* binding */ _elementsEqual),
-/* harmony export */   "ag": () => (/* binding */ _isClickEvent),
-/* harmony export */   "ah": () => (/* binding */ _isBetween),
-/* harmony export */   "ai": () => (/* binding */ _readValueToProps),
-/* harmony export */   "aj": () => (/* binding */ _updateBezierControlPoints),
-/* harmony export */   "ak": () => (/* binding */ _computeSegments),
-/* harmony export */   "al": () => (/* binding */ _boundSegments),
-/* harmony export */   "am": () => (/* binding */ _steppedInterpolation),
-/* harmony export */   "an": () => (/* binding */ _bezierInterpolation),
-/* harmony export */   "ao": () => (/* binding */ _pointInLine),
-/* harmony export */   "ap": () => (/* binding */ _steppedLineTo),
-/* harmony export */   "aq": () => (/* binding */ _bezierCurveTo),
-/* harmony export */   "ar": () => (/* binding */ drawPoint),
-/* harmony export */   "as": () => (/* binding */ addRoundedRectPath),
-/* harmony export */   "at": () => (/* binding */ toTRBL),
-/* harmony export */   "au": () => (/* binding */ toTRBLCorners),
-/* harmony export */   "av": () => (/* binding */ _boundSegment),
-/* harmony export */   "aw": () => (/* binding */ _normalizeAngle),
-/* harmony export */   "ax": () => (/* binding */ getRtlAdapter),
-/* harmony export */   "ay": () => (/* binding */ overrideTextDirection),
-/* harmony export */   "az": () => (/* binding */ _textX),
-/* harmony export */   "b": () => (/* binding */ isArray),
-/* harmony export */   "c": () => (/* binding */ color),
-/* harmony export */   "d": () => (/* binding */ defaults),
-/* harmony export */   "e": () => (/* binding */ effects),
-/* harmony export */   "f": () => (/* binding */ resolveObjectKey),
-/* harmony export */   "g": () => (/* binding */ isNumberFinite),
-/* harmony export */   "h": () => (/* binding */ createContext),
-/* harmony export */   "i": () => (/* binding */ isObject),
-/* harmony export */   "j": () => (/* binding */ defined),
-/* harmony export */   "k": () => (/* binding */ isNullOrUndef),
-/* harmony export */   "l": () => (/* binding */ listenArrayEvents),
-/* harmony export */   "m": () => (/* binding */ toPercentage),
-/* harmony export */   "n": () => (/* binding */ toDimension),
-/* harmony export */   "o": () => (/* binding */ formatNumber),
-/* harmony export */   "p": () => (/* binding */ _angleBetween),
-/* harmony export */   "q": () => (/* binding */ isNumber),
-/* harmony export */   "r": () => (/* binding */ requestAnimFrame),
-/* harmony export */   "s": () => (/* binding */ sign),
-/* harmony export */   "t": () => (/* binding */ toRadians),
-/* harmony export */   "u": () => (/* binding */ unlistenArrayEvents),
-/* harmony export */   "v": () => (/* binding */ valueOrDefault),
-/* harmony export */   "w": () => (/* binding */ _limitValue),
-/* harmony export */   "x": () => (/* binding */ _lookupByKey),
-/* harmony export */   "y": () => (/* binding */ getRelativePosition),
-/* harmony export */   "z": () => (/* binding */ _isPointInArea)
+/* harmony export */   $: () => (/* binding */ _isPointInArea),
+/* harmony export */   A: () => (/* binding */ _factorize),
+/* harmony export */   B: () => (/* binding */ finiteOrDefault),
+/* harmony export */   C: () => (/* binding */ callback),
+/* harmony export */   D: () => (/* binding */ _addGrace),
+/* harmony export */   E: () => (/* binding */ _limitValue),
+/* harmony export */   F: () => (/* binding */ toDegrees),
+/* harmony export */   G: () => (/* binding */ _measureText),
+/* harmony export */   H: () => (/* binding */ HALF_PI),
+/* harmony export */   I: () => (/* binding */ _int16Range),
+/* harmony export */   J: () => (/* binding */ _alignPixel),
+/* harmony export */   K: () => (/* binding */ toPadding),
+/* harmony export */   L: () => (/* binding */ clipArea),
+/* harmony export */   M: () => (/* binding */ renderText),
+/* harmony export */   N: () => (/* binding */ unclipArea),
+/* harmony export */   O: () => (/* binding */ toFont),
+/* harmony export */   P: () => (/* binding */ PI),
+/* harmony export */   Q: () => (/* binding */ each),
+/* harmony export */   R: () => (/* binding */ _toLeftRightCenter),
+/* harmony export */   S: () => (/* binding */ _alignStartEnd),
+/* harmony export */   T: () => (/* binding */ TAU),
+/* harmony export */   U: () => (/* binding */ overrides),
+/* harmony export */   V: () => (/* binding */ merge),
+/* harmony export */   W: () => (/* binding */ _capitalize),
+/* harmony export */   X: () => (/* binding */ getRelativePosition),
+/* harmony export */   Y: () => (/* binding */ _rlookupByKey),
+/* harmony export */   Z: () => (/* binding */ _lookupByKey),
+/* harmony export */   _: () => (/* binding */ _arrayUnique),
+/* harmony export */   a: () => (/* binding */ resolve),
+/* harmony export */   a$: () => (/* binding */ toLineHeight),
+/* harmony export */   a0: () => (/* binding */ getAngleFromPoint),
+/* harmony export */   a1: () => (/* binding */ getMaximumSize),
+/* harmony export */   a2: () => (/* binding */ _getParentNode),
+/* harmony export */   a3: () => (/* binding */ readUsedSize),
+/* harmony export */   a4: () => (/* binding */ throttled),
+/* harmony export */   a5: () => (/* binding */ supportsEventListenerOptions),
+/* harmony export */   a6: () => (/* binding */ _isDomSupported),
+/* harmony export */   a7: () => (/* binding */ descriptors),
+/* harmony export */   a8: () => (/* binding */ isFunction),
+/* harmony export */   a9: () => (/* binding */ _attachContext),
+/* harmony export */   aA: () => (/* binding */ getRtlAdapter),
+/* harmony export */   aB: () => (/* binding */ overrideTextDirection),
+/* harmony export */   aC: () => (/* binding */ _textX),
+/* harmony export */   aD: () => (/* binding */ restoreTextDirection),
+/* harmony export */   aE: () => (/* binding */ drawPointLegend),
+/* harmony export */   aF: () => (/* binding */ noop),
+/* harmony export */   aG: () => (/* binding */ distanceBetweenPoints),
+/* harmony export */   aH: () => (/* binding */ _setMinAndMaxByKey),
+/* harmony export */   aI: () => (/* binding */ niceNum),
+/* harmony export */   aJ: () => (/* binding */ almostWhole),
+/* harmony export */   aK: () => (/* binding */ almostEquals),
+/* harmony export */   aL: () => (/* binding */ _decimalPlaces),
+/* harmony export */   aM: () => (/* binding */ _longestText),
+/* harmony export */   aN: () => (/* binding */ _filterBetween),
+/* harmony export */   aO: () => (/* binding */ _lookup),
+/* harmony export */   aP: () => (/* binding */ isPatternOrGradient),
+/* harmony export */   aQ: () => (/* binding */ getHoverColor),
+/* harmony export */   aR: () => (/* binding */ clone$1),
+/* harmony export */   aS: () => (/* binding */ _merger),
+/* harmony export */   aT: () => (/* binding */ _mergerIf),
+/* harmony export */   aU: () => (/* binding */ _deprecated),
+/* harmony export */   aV: () => (/* binding */ _splitKey),
+/* harmony export */   aW: () => (/* binding */ toFontString),
+/* harmony export */   aX: () => (/* binding */ splineCurve),
+/* harmony export */   aY: () => (/* binding */ splineCurveMonotone),
+/* harmony export */   aZ: () => (/* binding */ getStyle),
+/* harmony export */   a_: () => (/* binding */ fontString),
+/* harmony export */   aa: () => (/* binding */ _createResolver),
+/* harmony export */   ab: () => (/* binding */ _descriptors),
+/* harmony export */   ac: () => (/* binding */ mergeIf),
+/* harmony export */   ad: () => (/* binding */ uid),
+/* harmony export */   ae: () => (/* binding */ debounce),
+/* harmony export */   af: () => (/* binding */ retinaScale),
+/* harmony export */   ag: () => (/* binding */ clearCanvas),
+/* harmony export */   ah: () => (/* binding */ setsEqual),
+/* harmony export */   ai: () => (/* binding */ _elementsEqual),
+/* harmony export */   aj: () => (/* binding */ _isClickEvent),
+/* harmony export */   ak: () => (/* binding */ _isBetween),
+/* harmony export */   al: () => (/* binding */ _readValueToProps),
+/* harmony export */   am: () => (/* binding */ _updateBezierControlPoints),
+/* harmony export */   an: () => (/* binding */ _computeSegments),
+/* harmony export */   ao: () => (/* binding */ _boundSegments),
+/* harmony export */   ap: () => (/* binding */ _steppedInterpolation),
+/* harmony export */   aq: () => (/* binding */ _bezierInterpolation),
+/* harmony export */   ar: () => (/* binding */ _pointInLine),
+/* harmony export */   as: () => (/* binding */ _steppedLineTo),
+/* harmony export */   at: () => (/* binding */ _bezierCurveTo),
+/* harmony export */   au: () => (/* binding */ drawPoint),
+/* harmony export */   av: () => (/* binding */ addRoundedRectPath),
+/* harmony export */   aw: () => (/* binding */ toTRBL),
+/* harmony export */   ax: () => (/* binding */ toTRBLCorners),
+/* harmony export */   ay: () => (/* binding */ _boundSegment),
+/* harmony export */   az: () => (/* binding */ _normalizeAngle),
+/* harmony export */   b: () => (/* binding */ isArray),
+/* harmony export */   b0: () => (/* binding */ PITAU),
+/* harmony export */   b1: () => (/* binding */ INFINITY),
+/* harmony export */   b2: () => (/* binding */ RAD_PER_DEG),
+/* harmony export */   b3: () => (/* binding */ QUARTER_PI),
+/* harmony export */   b4: () => (/* binding */ TWO_THIRDS_PI),
+/* harmony export */   b5: () => (/* binding */ _angleDiff),
+/* harmony export */   c: () => (/* binding */ color),
+/* harmony export */   d: () => (/* binding */ defaults),
+/* harmony export */   e: () => (/* binding */ effects),
+/* harmony export */   f: () => (/* binding */ resolveObjectKey),
+/* harmony export */   g: () => (/* binding */ isNumberFinite),
+/* harmony export */   h: () => (/* binding */ createContext),
+/* harmony export */   i: () => (/* binding */ isObject),
+/* harmony export */   j: () => (/* binding */ defined),
+/* harmony export */   k: () => (/* binding */ isNullOrUndef),
+/* harmony export */   l: () => (/* binding */ listenArrayEvents),
+/* harmony export */   m: () => (/* binding */ toPercentage),
+/* harmony export */   n: () => (/* binding */ toDimension),
+/* harmony export */   o: () => (/* binding */ formatNumber),
+/* harmony export */   p: () => (/* binding */ _angleBetween),
+/* harmony export */   q: () => (/* binding */ _getStartAndCountOfVisiblePoints),
+/* harmony export */   r: () => (/* binding */ requestAnimFrame),
+/* harmony export */   s: () => (/* binding */ sign),
+/* harmony export */   t: () => (/* binding */ toRadians),
+/* harmony export */   u: () => (/* binding */ unlistenArrayEvents),
+/* harmony export */   v: () => (/* binding */ valueOrDefault),
+/* harmony export */   w: () => (/* binding */ _scaleRangesChanged),
+/* harmony export */   x: () => (/* binding */ isNumber),
+/* harmony export */   y: () => (/* binding */ _parseObjectDataRadialScale),
+/* harmony export */   z: () => (/* binding */ log10)
 /* harmony export */ });
 /*!
- * Chart.js v3.7.1
+ * Chart.js v3.9.1
  * https://www.chartjs.org
  * (c) 2022 Chart.js Contributors
  * Released under the MIT License
  */
-function fontString(pixelSize, fontStyle, fontFamily) {
-  return fontStyle + ' ' + pixelSize + 'px ' + fontFamily;
-}
-const requestAnimFrame = (function() {
-  if (typeof window === 'undefined') {
-    return function(callback) {
-      return callback();
-    };
-  }
-  return window.requestAnimationFrame;
-}());
-function throttled(fn, thisArg, updateFn) {
-  const updateArgs = updateFn || ((args) => Array.prototype.slice.call(args));
-  let ticking = false;
-  let args = [];
-  return function(...rest) {
-    args = updateArgs(rest);
-    if (!ticking) {
-      ticking = true;
-      requestAnimFrame.call(window, () => {
-        ticking = false;
-        fn.apply(thisArg, args);
-      });
-    }
-  };
-}
-function debounce(fn, delay) {
-  let timeout;
-  return function(...args) {
-    if (delay) {
-      clearTimeout(timeout);
-      timeout = setTimeout(fn, delay, args);
-    } else {
-      fn.apply(this, args);
-    }
-    return delay;
-  };
-}
-const _toLeftRightCenter = (align) => align === 'start' ? 'left' : align === 'end' ? 'right' : 'center';
-const _alignStartEnd = (align, start, end) => align === 'start' ? start : align === 'end' ? end : (start + end) / 2;
-const _textX = (align, left, right, rtl) => {
-  const check = rtl ? 'left' : 'right';
-  return align === check ? right : align === 'center' ? (left + right) / 2 : left;
-};
-
 function noop() {}
 const uid = (function() {
   let id = 0;
@@ -11518,7 +11725,7 @@ function isArray(value) {
     return true;
   }
   const type = Object.prototype.toString.call(value);
-  if (type.substr(0, 7) === '[object' && type.substr(-6) === 'Array]') {
+  if (type.slice(0, 7) === '[object' && type.slice(-6) === 'Array]') {
     return true;
   }
   return false;
@@ -11653,24 +11860,41 @@ function _deprecated(scope, value, previous, current) {
 			'" is deprecated. Please use "' + current + '" instead');
   }
 }
-const emptyString = '';
-const dot = '.';
-function indexOfDotOrLength(key, start) {
-  const idx = key.indexOf(dot, start);
-  return idx === -1 ? key.length : idx;
-}
+const keyResolvers = {
+  '': v => v,
+  x: o => o.x,
+  y: o => o.y
+};
 function resolveObjectKey(obj, key) {
-  if (key === emptyString) {
+  const resolver = keyResolvers[key] || (keyResolvers[key] = _getKeyResolver(key));
+  return resolver(obj);
+}
+function _getKeyResolver(key) {
+  const keys = _splitKey(key);
+  return obj => {
+    for (const k of keys) {
+      if (k === '') {
+        break;
+      }
+      obj = obj && obj[k];
+    }
     return obj;
+  };
+}
+function _splitKey(key) {
+  const parts = key.split('.');
+  const keys = [];
+  let tmp = '';
+  for (const part of parts) {
+    tmp += part;
+    if (tmp.endsWith('\\')) {
+      tmp = tmp.slice(0, -1) + '.';
+    } else {
+      keys.push(tmp);
+      tmp = '';
+    }
   }
-  let pos = 0;
-  let idx = indexOfDotOrLength(key, pos);
-  while (obj && idx > pos) {
-    obj = obj[key.substr(pos, idx - pos)];
-    pos = idx + 1;
-    idx = indexOfDotOrLength(key, pos);
-  }
-  return obj;
+  return keys;
 }
 function _capitalize(str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
@@ -11807,6 +12031,190 @@ function _isBetween(value, start, end, epsilon = 1e-6) {
   return value >= Math.min(start, end) - epsilon && value <= Math.max(start, end) + epsilon;
 }
 
+function _lookup(table, value, cmp) {
+  cmp = cmp || ((index) => table[index] < value);
+  let hi = table.length - 1;
+  let lo = 0;
+  let mid;
+  while (hi - lo > 1) {
+    mid = (lo + hi) >> 1;
+    if (cmp(mid)) {
+      lo = mid;
+    } else {
+      hi = mid;
+    }
+  }
+  return {lo, hi};
+}
+const _lookupByKey = (table, key, value, last) =>
+  _lookup(table, value, last
+    ? index => table[index][key] <= value
+    : index => table[index][key] < value);
+const _rlookupByKey = (table, key, value) =>
+  _lookup(table, value, index => table[index][key] >= value);
+function _filterBetween(values, min, max) {
+  let start = 0;
+  let end = values.length;
+  while (start < end && values[start] < min) {
+    start++;
+  }
+  while (end > start && values[end - 1] > max) {
+    end--;
+  }
+  return start > 0 || end < values.length
+    ? values.slice(start, end)
+    : values;
+}
+const arrayEvents = ['push', 'pop', 'shift', 'splice', 'unshift'];
+function listenArrayEvents(array, listener) {
+  if (array._chartjs) {
+    array._chartjs.listeners.push(listener);
+    return;
+  }
+  Object.defineProperty(array, '_chartjs', {
+    configurable: true,
+    enumerable: false,
+    value: {
+      listeners: [listener]
+    }
+  });
+  arrayEvents.forEach((key) => {
+    const method = '_onData' + _capitalize(key);
+    const base = array[key];
+    Object.defineProperty(array, key, {
+      configurable: true,
+      enumerable: false,
+      value(...args) {
+        const res = base.apply(this, args);
+        array._chartjs.listeners.forEach((object) => {
+          if (typeof object[method] === 'function') {
+            object[method](...args);
+          }
+        });
+        return res;
+      }
+    });
+  });
+}
+function unlistenArrayEvents(array, listener) {
+  const stub = array._chartjs;
+  if (!stub) {
+    return;
+  }
+  const listeners = stub.listeners;
+  const index = listeners.indexOf(listener);
+  if (index !== -1) {
+    listeners.splice(index, 1);
+  }
+  if (listeners.length > 0) {
+    return;
+  }
+  arrayEvents.forEach((key) => {
+    delete array[key];
+  });
+  delete array._chartjs;
+}
+function _arrayUnique(items) {
+  const set = new Set();
+  let i, ilen;
+  for (i = 0, ilen = items.length; i < ilen; ++i) {
+    set.add(items[i]);
+  }
+  if (set.size === ilen) {
+    return items;
+  }
+  return Array.from(set);
+}
+
+function fontString(pixelSize, fontStyle, fontFamily) {
+  return fontStyle + ' ' + pixelSize + 'px ' + fontFamily;
+}
+const requestAnimFrame = (function() {
+  if (typeof window === 'undefined') {
+    return function(callback) {
+      return callback();
+    };
+  }
+  return window.requestAnimationFrame;
+}());
+function throttled(fn, thisArg, updateFn) {
+  const updateArgs = updateFn || ((args) => Array.prototype.slice.call(args));
+  let ticking = false;
+  let args = [];
+  return function(...rest) {
+    args = updateArgs(rest);
+    if (!ticking) {
+      ticking = true;
+      requestAnimFrame.call(window, () => {
+        ticking = false;
+        fn.apply(thisArg, args);
+      });
+    }
+  };
+}
+function debounce(fn, delay) {
+  let timeout;
+  return function(...args) {
+    if (delay) {
+      clearTimeout(timeout);
+      timeout = setTimeout(fn, delay, args);
+    } else {
+      fn.apply(this, args);
+    }
+    return delay;
+  };
+}
+const _toLeftRightCenter = (align) => align === 'start' ? 'left' : align === 'end' ? 'right' : 'center';
+const _alignStartEnd = (align, start, end) => align === 'start' ? start : align === 'end' ? end : (start + end) / 2;
+const _textX = (align, left, right, rtl) => {
+  const check = rtl ? 'left' : 'right';
+  return align === check ? right : align === 'center' ? (left + right) / 2 : left;
+};
+function _getStartAndCountOfVisiblePoints(meta, points, animationsDisabled) {
+  const pointCount = points.length;
+  let start = 0;
+  let count = pointCount;
+  if (meta._sorted) {
+    const {iScale, _parsed} = meta;
+    const axis = iScale.axis;
+    const {min, max, minDefined, maxDefined} = iScale.getUserBounds();
+    if (minDefined) {
+      start = _limitValue(Math.min(
+        _lookupByKey(_parsed, iScale.axis, min).lo,
+        animationsDisabled ? pointCount : _lookupByKey(points, axis, iScale.getPixelForValue(min)).lo),
+      0, pointCount - 1);
+    }
+    if (maxDefined) {
+      count = _limitValue(Math.max(
+        _lookupByKey(_parsed, iScale.axis, max, true).hi + 1,
+        animationsDisabled ? 0 : _lookupByKey(points, axis, iScale.getPixelForValue(max), true).hi + 1),
+      start, pointCount) - start;
+    } else {
+      count = pointCount - start;
+    }
+  }
+  return {start, count};
+}
+function _scaleRangesChanged(meta) {
+  const {xScale, yScale, _scaleRanges} = meta;
+  const newRanges = {
+    xmin: xScale.min,
+    xmax: xScale.max,
+    ymin: yScale.min,
+    ymax: yScale.max
+  };
+  if (!_scaleRanges) {
+    meta._scaleRanges = newRanges;
+    return true;
+  }
+  const changed = _scaleRanges.xmin !== xScale.min
+		|| _scaleRanges.xmax !== xScale.max
+		|| _scaleRanges.ymin !== yScale.min
+		|| _scaleRanges.ymax !== yScale.max;
+  Object.assign(_scaleRanges, newRanges);
+  return changed;
+}
+
 const atEdge = (t) => t === 0 || t === 1;
 const elasticIn = (t, s, p) => -(Math.pow(2, 10 * (t -= 1)) * Math.sin((t - s) * TAU / p));
 const elasticOut = (t, s, p) => Math.pow(2, -10 * t) * Math.sin((t - s) * TAU / p) + 1;
@@ -11891,561 +12299,589 @@ const effects = {
 };
 
 /*!
- * @kurkle/color v0.1.9
+ * @kurkle/color v0.2.1
  * https://github.com/kurkle/color#readme
- * (c) 2020 Jukka Kurkela
+ * (c) 2022 Jukka Kurkela
  * Released under the MIT License
  */
-const map = {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, A: 10, B: 11, C: 12, D: 13, E: 14, F: 15, a: 10, b: 11, c: 12, d: 13, e: 14, f: 15};
-const hex = '0123456789ABCDEF';
-const h1 = (b) => hex[b & 0xF];
-const h2 = (b) => hex[(b & 0xF0) >> 4] + hex[b & 0xF];
-const eq = (b) => (((b & 0xF0) >> 4) === (b & 0xF));
-function isShort(v) {
-	return eq(v.r) && eq(v.g) && eq(v.b) && eq(v.a);
-}
-function hexParse(str) {
-	var len = str.length;
-	var ret;
-	if (str[0] === '#') {
-		if (len === 4 || len === 5) {
-			ret = {
-				r: 255 & map[str[1]] * 17,
-				g: 255 & map[str[2]] * 17,
-				b: 255 & map[str[3]] * 17,
-				a: len === 5 ? map[str[4]] * 17 : 255
-			};
-		} else if (len === 7 || len === 9) {
-			ret = {
-				r: map[str[1]] << 4 | map[str[2]],
-				g: map[str[3]] << 4 | map[str[4]],
-				b: map[str[5]] << 4 | map[str[6]],
-				a: len === 9 ? (map[str[7]] << 4 | map[str[8]]) : 255
-			};
-		}
-	}
-	return ret;
-}
-function hexString(v) {
-	var f = isShort(v) ? h1 : h2;
-	return v
-		? '#' + f(v.r) + f(v.g) + f(v.b) + (v.a < 255 ? f(v.a) : '')
-		: v;
-}
 function round(v) {
-	return v + 0.5 | 0;
+  return v + 0.5 | 0;
 }
 const lim = (v, l, h) => Math.max(Math.min(v, h), l);
 function p2b(v) {
-	return lim(round(v * 2.55), 0, 255);
+  return lim(round(v * 2.55), 0, 255);
 }
 function n2b(v) {
-	return lim(round(v * 255), 0, 255);
+  return lim(round(v * 255), 0, 255);
 }
 function b2n(v) {
-	return lim(round(v / 2.55) / 100, 0, 1);
+  return lim(round(v / 2.55) / 100, 0, 1);
 }
 function n2p(v) {
-	return lim(round(v * 100), 0, 100);
+  return lim(round(v * 100), 0, 100);
 }
-const RGB_RE = /^rgba?\(\s*([-+.\d]+)(%)?[\s,]+([-+.e\d]+)(%)?[\s,]+([-+.e\d]+)(%)?(?:[\s,/]+([-+.e\d]+)(%)?)?\s*\)$/;
-function rgbParse(str) {
-	const m = RGB_RE.exec(str);
-	let a = 255;
-	let r, g, b;
-	if (!m) {
-		return;
-	}
-	if (m[7] !== r) {
-		const v = +m[7];
-		a = 255 & (m[8] ? p2b(v) : v * 255);
-	}
-	r = +m[1];
-	g = +m[3];
-	b = +m[5];
-	r = 255 & (m[2] ? p2b(r) : r);
-	g = 255 & (m[4] ? p2b(g) : g);
-	b = 255 & (m[6] ? p2b(b) : b);
-	return {
-		r: r,
-		g: g,
-		b: b,
-		a: a
-	};
+const map$1 = {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, A: 10, B: 11, C: 12, D: 13, E: 14, F: 15, a: 10, b: 11, c: 12, d: 13, e: 14, f: 15};
+const hex = [...'0123456789ABCDEF'];
+const h1 = b => hex[b & 0xF];
+const h2 = b => hex[(b & 0xF0) >> 4] + hex[b & 0xF];
+const eq = b => ((b & 0xF0) >> 4) === (b & 0xF);
+const isShort = v => eq(v.r) && eq(v.g) && eq(v.b) && eq(v.a);
+function hexParse(str) {
+  var len = str.length;
+  var ret;
+  if (str[0] === '#') {
+    if (len === 4 || len === 5) {
+      ret = {
+        r: 255 & map$1[str[1]] * 17,
+        g: 255 & map$1[str[2]] * 17,
+        b: 255 & map$1[str[3]] * 17,
+        a: len === 5 ? map$1[str[4]] * 17 : 255
+      };
+    } else if (len === 7 || len === 9) {
+      ret = {
+        r: map$1[str[1]] << 4 | map$1[str[2]],
+        g: map$1[str[3]] << 4 | map$1[str[4]],
+        b: map$1[str[5]] << 4 | map$1[str[6]],
+        a: len === 9 ? (map$1[str[7]] << 4 | map$1[str[8]]) : 255
+      };
+    }
+  }
+  return ret;
 }
-function rgbString(v) {
-	return v && (
-		v.a < 255
-			? `rgba(${v.r}, ${v.g}, ${v.b}, ${b2n(v.a)})`
-			: `rgb(${v.r}, ${v.g}, ${v.b})`
-	);
+const alpha = (a, f) => a < 255 ? f(a) : '';
+function hexString(v) {
+  var f = isShort(v) ? h1 : h2;
+  return v
+    ? '#' + f(v.r) + f(v.g) + f(v.b) + alpha(v.a, f)
+    : undefined;
 }
 const HUE_RE = /^(hsla?|hwb|hsv)\(\s*([-+.e\d]+)(?:deg)?[\s,]+([-+.e\d]+)%[\s,]+([-+.e\d]+)%(?:[\s,]+([-+.e\d]+)(%)?)?\s*\)$/;
 function hsl2rgbn(h, s, l) {
-	const a = s * Math.min(l, 1 - l);
-	const f = (n, k = (n + h / 30) % 12) => l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
-	return [f(0), f(8), f(4)];
+  const a = s * Math.min(l, 1 - l);
+  const f = (n, k = (n + h / 30) % 12) => l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
+  return [f(0), f(8), f(4)];
 }
 function hsv2rgbn(h, s, v) {
-	const f = (n, k = (n + h / 60) % 6) => v - v * s * Math.max(Math.min(k, 4 - k, 1), 0);
-	return [f(5), f(3), f(1)];
+  const f = (n, k = (n + h / 60) % 6) => v - v * s * Math.max(Math.min(k, 4 - k, 1), 0);
+  return [f(5), f(3), f(1)];
 }
 function hwb2rgbn(h, w, b) {
-	const rgb = hsl2rgbn(h, 1, 0.5);
-	let i;
-	if (w + b > 1) {
-		i = 1 / (w + b);
-		w *= i;
-		b *= i;
-	}
-	for (i = 0; i < 3; i++) {
-		rgb[i] *= 1 - w - b;
-		rgb[i] += w;
-	}
-	return rgb;
+  const rgb = hsl2rgbn(h, 1, 0.5);
+  let i;
+  if (w + b > 1) {
+    i = 1 / (w + b);
+    w *= i;
+    b *= i;
+  }
+  for (i = 0; i < 3; i++) {
+    rgb[i] *= 1 - w - b;
+    rgb[i] += w;
+  }
+  return rgb;
+}
+function hueValue(r, g, b, d, max) {
+  if (r === max) {
+    return ((g - b) / d) + (g < b ? 6 : 0);
+  }
+  if (g === max) {
+    return (b - r) / d + 2;
+  }
+  return (r - g) / d + 4;
 }
 function rgb2hsl(v) {
-	const range = 255;
-	const r = v.r / range;
-	const g = v.g / range;
-	const b = v.b / range;
-	const max = Math.max(r, g, b);
-	const min = Math.min(r, g, b);
-	const l = (max + min) / 2;
-	let h, s, d;
-	if (max !== min) {
-		d = max - min;
-		s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
-		h = max === r
-			? ((g - b) / d) + (g < b ? 6 : 0)
-			: max === g
-				? (b - r) / d + 2
-				: (r - g) / d + 4;
-		h = h * 60 + 0.5;
-	}
-	return [h | 0, s || 0, l];
+  const range = 255;
+  const r = v.r / range;
+  const g = v.g / range;
+  const b = v.b / range;
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const l = (max + min) / 2;
+  let h, s, d;
+  if (max !== min) {
+    d = max - min;
+    s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+    h = hueValue(r, g, b, d, max);
+    h = h * 60 + 0.5;
+  }
+  return [h | 0, s || 0, l];
 }
 function calln(f, a, b, c) {
-	return (
-		Array.isArray(a)
-			? f(a[0], a[1], a[2])
-			: f(a, b, c)
-	).map(n2b);
+  return (
+    Array.isArray(a)
+      ? f(a[0], a[1], a[2])
+      : f(a, b, c)
+  ).map(n2b);
 }
 function hsl2rgb(h, s, l) {
-	return calln(hsl2rgbn, h, s, l);
+  return calln(hsl2rgbn, h, s, l);
 }
 function hwb2rgb(h, w, b) {
-	return calln(hwb2rgbn, h, w, b);
+  return calln(hwb2rgbn, h, w, b);
 }
 function hsv2rgb(h, s, v) {
-	return calln(hsv2rgbn, h, s, v);
+  return calln(hsv2rgbn, h, s, v);
 }
 function hue(h) {
-	return (h % 360 + 360) % 360;
+  return (h % 360 + 360) % 360;
 }
 function hueParse(str) {
-	const m = HUE_RE.exec(str);
-	let a = 255;
-	let v;
-	if (!m) {
-		return;
-	}
-	if (m[5] !== v) {
-		a = m[6] ? p2b(+m[5]) : n2b(+m[5]);
-	}
-	const h = hue(+m[2]);
-	const p1 = +m[3] / 100;
-	const p2 = +m[4] / 100;
-	if (m[1] === 'hwb') {
-		v = hwb2rgb(h, p1, p2);
-	} else if (m[1] === 'hsv') {
-		v = hsv2rgb(h, p1, p2);
-	} else {
-		v = hsl2rgb(h, p1, p2);
-	}
-	return {
-		r: v[0],
-		g: v[1],
-		b: v[2],
-		a: a
-	};
+  const m = HUE_RE.exec(str);
+  let a = 255;
+  let v;
+  if (!m) {
+    return;
+  }
+  if (m[5] !== v) {
+    a = m[6] ? p2b(+m[5]) : n2b(+m[5]);
+  }
+  const h = hue(+m[2]);
+  const p1 = +m[3] / 100;
+  const p2 = +m[4] / 100;
+  if (m[1] === 'hwb') {
+    v = hwb2rgb(h, p1, p2);
+  } else if (m[1] === 'hsv') {
+    v = hsv2rgb(h, p1, p2);
+  } else {
+    v = hsl2rgb(h, p1, p2);
+  }
+  return {
+    r: v[0],
+    g: v[1],
+    b: v[2],
+    a: a
+  };
 }
 function rotate(v, deg) {
-	var h = rgb2hsl(v);
-	h[0] = hue(h[0] + deg);
-	h = hsl2rgb(h);
-	v.r = h[0];
-	v.g = h[1];
-	v.b = h[2];
+  var h = rgb2hsl(v);
+  h[0] = hue(h[0] + deg);
+  h = hsl2rgb(h);
+  v.r = h[0];
+  v.g = h[1];
+  v.b = h[2];
 }
 function hslString(v) {
-	if (!v) {
-		return;
-	}
-	const a = rgb2hsl(v);
-	const h = a[0];
-	const s = n2p(a[1]);
-	const l = n2p(a[2]);
-	return v.a < 255
-		? `hsla(${h}, ${s}%, ${l}%, ${b2n(v.a)})`
-		: `hsl(${h}, ${s}%, ${l}%)`;
+  if (!v) {
+    return;
+  }
+  const a = rgb2hsl(v);
+  const h = a[0];
+  const s = n2p(a[1]);
+  const l = n2p(a[2]);
+  return v.a < 255
+    ? `hsla(${h}, ${s}%, ${l}%, ${b2n(v.a)})`
+    : `hsl(${h}, ${s}%, ${l}%)`;
 }
-const map$1 = {
-	x: 'dark',
-	Z: 'light',
-	Y: 're',
-	X: 'blu',
-	W: 'gr',
-	V: 'medium',
-	U: 'slate',
-	A: 'ee',
-	T: 'ol',
-	S: 'or',
-	B: 'ra',
-	C: 'lateg',
-	D: 'ights',
-	R: 'in',
-	Q: 'turquois',
-	E: 'hi',
-	P: 'ro',
-	O: 'al',
-	N: 'le',
-	M: 'de',
-	L: 'yello',
-	F: 'en',
-	K: 'ch',
-	G: 'arks',
-	H: 'ea',
-	I: 'ightg',
-	J: 'wh'
+const map = {
+  x: 'dark',
+  Z: 'light',
+  Y: 're',
+  X: 'blu',
+  W: 'gr',
+  V: 'medium',
+  U: 'slate',
+  A: 'ee',
+  T: 'ol',
+  S: 'or',
+  B: 'ra',
+  C: 'lateg',
+  D: 'ights',
+  R: 'in',
+  Q: 'turquois',
+  E: 'hi',
+  P: 'ro',
+  O: 'al',
+  N: 'le',
+  M: 'de',
+  L: 'yello',
+  F: 'en',
+  K: 'ch',
+  G: 'arks',
+  H: 'ea',
+  I: 'ightg',
+  J: 'wh'
 };
-const names = {
-	OiceXe: 'f0f8ff',
-	antiquewEte: 'faebd7',
-	aqua: 'ffff',
-	aquamarRe: '7fffd4',
-	azuY: 'f0ffff',
-	beige: 'f5f5dc',
-	bisque: 'ffe4c4',
-	black: '0',
-	blanKedOmond: 'ffebcd',
-	Xe: 'ff',
-	XeviTet: '8a2be2',
-	bPwn: 'a52a2a',
-	burlywood: 'deb887',
-	caMtXe: '5f9ea0',
-	KartYuse: '7fff00',
-	KocTate: 'd2691e',
-	cSO: 'ff7f50',
-	cSnflowerXe: '6495ed',
-	cSnsilk: 'fff8dc',
-	crimson: 'dc143c',
-	cyan: 'ffff',
-	xXe: '8b',
-	xcyan: '8b8b',
-	xgTMnPd: 'b8860b',
-	xWay: 'a9a9a9',
-	xgYF: '6400',
-	xgYy: 'a9a9a9',
-	xkhaki: 'bdb76b',
-	xmagFta: '8b008b',
-	xTivegYF: '556b2f',
-	xSange: 'ff8c00',
-	xScEd: '9932cc',
-	xYd: '8b0000',
-	xsOmon: 'e9967a',
-	xsHgYF: '8fbc8f',
-	xUXe: '483d8b',
-	xUWay: '2f4f4f',
-	xUgYy: '2f4f4f',
-	xQe: 'ced1',
-	xviTet: '9400d3',
-	dAppRk: 'ff1493',
-	dApskyXe: 'bfff',
-	dimWay: '696969',
-	dimgYy: '696969',
-	dodgerXe: '1e90ff',
-	fiYbrick: 'b22222',
-	flSOwEte: 'fffaf0',
-	foYstWAn: '228b22',
-	fuKsia: 'ff00ff',
-	gaRsbSo: 'dcdcdc',
-	ghostwEte: 'f8f8ff',
-	gTd: 'ffd700',
-	gTMnPd: 'daa520',
-	Way: '808080',
-	gYF: '8000',
-	gYFLw: 'adff2f',
-	gYy: '808080',
-	honeyMw: 'f0fff0',
-	hotpRk: 'ff69b4',
-	RdianYd: 'cd5c5c',
-	Rdigo: '4b0082',
-	ivSy: 'fffff0',
-	khaki: 'f0e68c',
-	lavFMr: 'e6e6fa',
-	lavFMrXsh: 'fff0f5',
-	lawngYF: '7cfc00',
-	NmoncEffon: 'fffacd',
-	ZXe: 'add8e6',
-	ZcSO: 'f08080',
-	Zcyan: 'e0ffff',
-	ZgTMnPdLw: 'fafad2',
-	ZWay: 'd3d3d3',
-	ZgYF: '90ee90',
-	ZgYy: 'd3d3d3',
-	ZpRk: 'ffb6c1',
-	ZsOmon: 'ffa07a',
-	ZsHgYF: '20b2aa',
-	ZskyXe: '87cefa',
-	ZUWay: '778899',
-	ZUgYy: '778899',
-	ZstAlXe: 'b0c4de',
-	ZLw: 'ffffe0',
-	lime: 'ff00',
-	limegYF: '32cd32',
-	lRF: 'faf0e6',
-	magFta: 'ff00ff',
-	maPon: '800000',
-	VaquamarRe: '66cdaa',
-	VXe: 'cd',
-	VScEd: 'ba55d3',
-	VpurpN: '9370db',
-	VsHgYF: '3cb371',
-	VUXe: '7b68ee',
-	VsprRggYF: 'fa9a',
-	VQe: '48d1cc',
-	VviTetYd: 'c71585',
-	midnightXe: '191970',
-	mRtcYam: 'f5fffa',
-	mistyPse: 'ffe4e1',
-	moccasR: 'ffe4b5',
-	navajowEte: 'ffdead',
-	navy: '80',
-	Tdlace: 'fdf5e6',
-	Tive: '808000',
-	TivedBb: '6b8e23',
-	Sange: 'ffa500',
-	SangeYd: 'ff4500',
-	ScEd: 'da70d6',
-	pOegTMnPd: 'eee8aa',
-	pOegYF: '98fb98',
-	pOeQe: 'afeeee',
-	pOeviTetYd: 'db7093',
-	papayawEp: 'ffefd5',
-	pHKpuff: 'ffdab9',
-	peru: 'cd853f',
-	pRk: 'ffc0cb',
-	plum: 'dda0dd',
-	powMrXe: 'b0e0e6',
-	purpN: '800080',
-	YbeccapurpN: '663399',
-	Yd: 'ff0000',
-	Psybrown: 'bc8f8f',
-	PyOXe: '4169e1',
-	saddNbPwn: '8b4513',
-	sOmon: 'fa8072',
-	sandybPwn: 'f4a460',
-	sHgYF: '2e8b57',
-	sHshell: 'fff5ee',
-	siFna: 'a0522d',
-	silver: 'c0c0c0',
-	skyXe: '87ceeb',
-	UXe: '6a5acd',
-	UWay: '708090',
-	UgYy: '708090',
-	snow: 'fffafa',
-	sprRggYF: 'ff7f',
-	stAlXe: '4682b4',
-	tan: 'd2b48c',
-	teO: '8080',
-	tEstN: 'd8bfd8',
-	tomato: 'ff6347',
-	Qe: '40e0d0',
-	viTet: 'ee82ee',
-	JHt: 'f5deb3',
-	wEte: 'ffffff',
-	wEtesmoke: 'f5f5f5',
-	Lw: 'ffff00',
-	LwgYF: '9acd32'
+const names$1 = {
+  OiceXe: 'f0f8ff',
+  antiquewEte: 'faebd7',
+  aqua: 'ffff',
+  aquamarRe: '7fffd4',
+  azuY: 'f0ffff',
+  beige: 'f5f5dc',
+  bisque: 'ffe4c4',
+  black: '0',
+  blanKedOmond: 'ffebcd',
+  Xe: 'ff',
+  XeviTet: '8a2be2',
+  bPwn: 'a52a2a',
+  burlywood: 'deb887',
+  caMtXe: '5f9ea0',
+  KartYuse: '7fff00',
+  KocTate: 'd2691e',
+  cSO: 'ff7f50',
+  cSnflowerXe: '6495ed',
+  cSnsilk: 'fff8dc',
+  crimson: 'dc143c',
+  cyan: 'ffff',
+  xXe: '8b',
+  xcyan: '8b8b',
+  xgTMnPd: 'b8860b',
+  xWay: 'a9a9a9',
+  xgYF: '6400',
+  xgYy: 'a9a9a9',
+  xkhaki: 'bdb76b',
+  xmagFta: '8b008b',
+  xTivegYF: '556b2f',
+  xSange: 'ff8c00',
+  xScEd: '9932cc',
+  xYd: '8b0000',
+  xsOmon: 'e9967a',
+  xsHgYF: '8fbc8f',
+  xUXe: '483d8b',
+  xUWay: '2f4f4f',
+  xUgYy: '2f4f4f',
+  xQe: 'ced1',
+  xviTet: '9400d3',
+  dAppRk: 'ff1493',
+  dApskyXe: 'bfff',
+  dimWay: '696969',
+  dimgYy: '696969',
+  dodgerXe: '1e90ff',
+  fiYbrick: 'b22222',
+  flSOwEte: 'fffaf0',
+  foYstWAn: '228b22',
+  fuKsia: 'ff00ff',
+  gaRsbSo: 'dcdcdc',
+  ghostwEte: 'f8f8ff',
+  gTd: 'ffd700',
+  gTMnPd: 'daa520',
+  Way: '808080',
+  gYF: '8000',
+  gYFLw: 'adff2f',
+  gYy: '808080',
+  honeyMw: 'f0fff0',
+  hotpRk: 'ff69b4',
+  RdianYd: 'cd5c5c',
+  Rdigo: '4b0082',
+  ivSy: 'fffff0',
+  khaki: 'f0e68c',
+  lavFMr: 'e6e6fa',
+  lavFMrXsh: 'fff0f5',
+  lawngYF: '7cfc00',
+  NmoncEffon: 'fffacd',
+  ZXe: 'add8e6',
+  ZcSO: 'f08080',
+  Zcyan: 'e0ffff',
+  ZgTMnPdLw: 'fafad2',
+  ZWay: 'd3d3d3',
+  ZgYF: '90ee90',
+  ZgYy: 'd3d3d3',
+  ZpRk: 'ffb6c1',
+  ZsOmon: 'ffa07a',
+  ZsHgYF: '20b2aa',
+  ZskyXe: '87cefa',
+  ZUWay: '778899',
+  ZUgYy: '778899',
+  ZstAlXe: 'b0c4de',
+  ZLw: 'ffffe0',
+  lime: 'ff00',
+  limegYF: '32cd32',
+  lRF: 'faf0e6',
+  magFta: 'ff00ff',
+  maPon: '800000',
+  VaquamarRe: '66cdaa',
+  VXe: 'cd',
+  VScEd: 'ba55d3',
+  VpurpN: '9370db',
+  VsHgYF: '3cb371',
+  VUXe: '7b68ee',
+  VsprRggYF: 'fa9a',
+  VQe: '48d1cc',
+  VviTetYd: 'c71585',
+  midnightXe: '191970',
+  mRtcYam: 'f5fffa',
+  mistyPse: 'ffe4e1',
+  moccasR: 'ffe4b5',
+  navajowEte: 'ffdead',
+  navy: '80',
+  Tdlace: 'fdf5e6',
+  Tive: '808000',
+  TivedBb: '6b8e23',
+  Sange: 'ffa500',
+  SangeYd: 'ff4500',
+  ScEd: 'da70d6',
+  pOegTMnPd: 'eee8aa',
+  pOegYF: '98fb98',
+  pOeQe: 'afeeee',
+  pOeviTetYd: 'db7093',
+  papayawEp: 'ffefd5',
+  pHKpuff: 'ffdab9',
+  peru: 'cd853f',
+  pRk: 'ffc0cb',
+  plum: 'dda0dd',
+  powMrXe: 'b0e0e6',
+  purpN: '800080',
+  YbeccapurpN: '663399',
+  Yd: 'ff0000',
+  Psybrown: 'bc8f8f',
+  PyOXe: '4169e1',
+  saddNbPwn: '8b4513',
+  sOmon: 'fa8072',
+  sandybPwn: 'f4a460',
+  sHgYF: '2e8b57',
+  sHshell: 'fff5ee',
+  siFna: 'a0522d',
+  silver: 'c0c0c0',
+  skyXe: '87ceeb',
+  UXe: '6a5acd',
+  UWay: '708090',
+  UgYy: '708090',
+  snow: 'fffafa',
+  sprRggYF: 'ff7f',
+  stAlXe: '4682b4',
+  tan: 'd2b48c',
+  teO: '8080',
+  tEstN: 'd8bfd8',
+  tomato: 'ff6347',
+  Qe: '40e0d0',
+  viTet: 'ee82ee',
+  JHt: 'f5deb3',
+  wEte: 'ffffff',
+  wEtesmoke: 'f5f5f5',
+  Lw: 'ffff00',
+  LwgYF: '9acd32'
 };
 function unpack() {
-	const unpacked = {};
-	const keys = Object.keys(names);
-	const tkeys = Object.keys(map$1);
-	let i, j, k, ok, nk;
-	for (i = 0; i < keys.length; i++) {
-		ok = nk = keys[i];
-		for (j = 0; j < tkeys.length; j++) {
-			k = tkeys[j];
-			nk = nk.replace(k, map$1[k]);
-		}
-		k = parseInt(names[ok], 16);
-		unpacked[nk] = [k >> 16 & 0xFF, k >> 8 & 0xFF, k & 0xFF];
-	}
-	return unpacked;
+  const unpacked = {};
+  const keys = Object.keys(names$1);
+  const tkeys = Object.keys(map);
+  let i, j, k, ok, nk;
+  for (i = 0; i < keys.length; i++) {
+    ok = nk = keys[i];
+    for (j = 0; j < tkeys.length; j++) {
+      k = tkeys[j];
+      nk = nk.replace(k, map[k]);
+    }
+    k = parseInt(names$1[ok], 16);
+    unpacked[nk] = [k >> 16 & 0xFF, k >> 8 & 0xFF, k & 0xFF];
+  }
+  return unpacked;
 }
-let names$1;
+let names;
 function nameParse(str) {
-	if (!names$1) {
-		names$1 = unpack();
-		names$1.transparent = [0, 0, 0, 0];
-	}
-	const a = names$1[str.toLowerCase()];
-	return a && {
-		r: a[0],
-		g: a[1],
-		b: a[2],
-		a: a.length === 4 ? a[3] : 255
-	};
+  if (!names) {
+    names = unpack();
+    names.transparent = [0, 0, 0, 0];
+  }
+  const a = names[str.toLowerCase()];
+  return a && {
+    r: a[0],
+    g: a[1],
+    b: a[2],
+    a: a.length === 4 ? a[3] : 255
+  };
+}
+const RGB_RE = /^rgba?\(\s*([-+.\d]+)(%)?[\s,]+([-+.e\d]+)(%)?[\s,]+([-+.e\d]+)(%)?(?:[\s,/]+([-+.e\d]+)(%)?)?\s*\)$/;
+function rgbParse(str) {
+  const m = RGB_RE.exec(str);
+  let a = 255;
+  let r, g, b;
+  if (!m) {
+    return;
+  }
+  if (m[7] !== r) {
+    const v = +m[7];
+    a = m[8] ? p2b(v) : lim(v * 255, 0, 255);
+  }
+  r = +m[1];
+  g = +m[3];
+  b = +m[5];
+  r = 255 & (m[2] ? p2b(r) : lim(r, 0, 255));
+  g = 255 & (m[4] ? p2b(g) : lim(g, 0, 255));
+  b = 255 & (m[6] ? p2b(b) : lim(b, 0, 255));
+  return {
+    r: r,
+    g: g,
+    b: b,
+    a: a
+  };
+}
+function rgbString(v) {
+  return v && (
+    v.a < 255
+      ? `rgba(${v.r}, ${v.g}, ${v.b}, ${b2n(v.a)})`
+      : `rgb(${v.r}, ${v.g}, ${v.b})`
+  );
+}
+const to = v => v <= 0.0031308 ? v * 12.92 : Math.pow(v, 1.0 / 2.4) * 1.055 - 0.055;
+const from = v => v <= 0.04045 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
+function interpolate(rgb1, rgb2, t) {
+  const r = from(b2n(rgb1.r));
+  const g = from(b2n(rgb1.g));
+  const b = from(b2n(rgb1.b));
+  return {
+    r: n2b(to(r + t * (from(b2n(rgb2.r)) - r))),
+    g: n2b(to(g + t * (from(b2n(rgb2.g)) - g))),
+    b: n2b(to(b + t * (from(b2n(rgb2.b)) - b))),
+    a: rgb1.a + t * (rgb2.a - rgb1.a)
+  };
 }
 function modHSL(v, i, ratio) {
-	if (v) {
-		let tmp = rgb2hsl(v);
-		tmp[i] = Math.max(0, Math.min(tmp[i] + tmp[i] * ratio, i === 0 ? 360 : 1));
-		tmp = hsl2rgb(tmp);
-		v.r = tmp[0];
-		v.g = tmp[1];
-		v.b = tmp[2];
-	}
+  if (v) {
+    let tmp = rgb2hsl(v);
+    tmp[i] = Math.max(0, Math.min(tmp[i] + tmp[i] * ratio, i === 0 ? 360 : 1));
+    tmp = hsl2rgb(tmp);
+    v.r = tmp[0];
+    v.g = tmp[1];
+    v.b = tmp[2];
+  }
 }
 function clone(v, proto) {
-	return v ? Object.assign(proto || {}, v) : v;
+  return v ? Object.assign(proto || {}, v) : v;
 }
 function fromObject(input) {
-	var v = {r: 0, g: 0, b: 0, a: 255};
-	if (Array.isArray(input)) {
-		if (input.length >= 3) {
-			v = {r: input[0], g: input[1], b: input[2], a: 255};
-			if (input.length > 3) {
-				v.a = n2b(input[3]);
-			}
-		}
-	} else {
-		v = clone(input, {r: 0, g: 0, b: 0, a: 1});
-		v.a = n2b(v.a);
-	}
-	return v;
+  var v = {r: 0, g: 0, b: 0, a: 255};
+  if (Array.isArray(input)) {
+    if (input.length >= 3) {
+      v = {r: input[0], g: input[1], b: input[2], a: 255};
+      if (input.length > 3) {
+        v.a = n2b(input[3]);
+      }
+    }
+  } else {
+    v = clone(input, {r: 0, g: 0, b: 0, a: 1});
+    v.a = n2b(v.a);
+  }
+  return v;
 }
 function functionParse(str) {
-	if (str.charAt(0) === 'r') {
-		return rgbParse(str);
-	}
-	return hueParse(str);
+  if (str.charAt(0) === 'r') {
+    return rgbParse(str);
+  }
+  return hueParse(str);
 }
 class Color {
-	constructor(input) {
-		if (input instanceof Color) {
-			return input;
-		}
-		const type = typeof input;
-		let v;
-		if (type === 'object') {
-			v = fromObject(input);
-		} else if (type === 'string') {
-			v = hexParse(input) || nameParse(input) || functionParse(input);
-		}
-		this._rgb = v;
-		this._valid = !!v;
-	}
-	get valid() {
-		return this._valid;
-	}
-	get rgb() {
-		var v = clone(this._rgb);
-		if (v) {
-			v.a = b2n(v.a);
-		}
-		return v;
-	}
-	set rgb(obj) {
-		this._rgb = fromObject(obj);
-	}
-	rgbString() {
-		return this._valid ? rgbString(this._rgb) : this._rgb;
-	}
-	hexString() {
-		return this._valid ? hexString(this._rgb) : this._rgb;
-	}
-	hslString() {
-		return this._valid ? hslString(this._rgb) : this._rgb;
-	}
-	mix(color, weight) {
-		const me = this;
-		if (color) {
-			const c1 = me.rgb;
-			const c2 = color.rgb;
-			let w2;
-			const p = weight === w2 ? 0.5 : weight;
-			const w = 2 * p - 1;
-			const a = c1.a - c2.a;
-			const w1 = ((w * a === -1 ? w : (w + a) / (1 + w * a)) + 1) / 2.0;
-			w2 = 1 - w1;
-			c1.r = 0xFF & w1 * c1.r + w2 * c2.r + 0.5;
-			c1.g = 0xFF & w1 * c1.g + w2 * c2.g + 0.5;
-			c1.b = 0xFF & w1 * c1.b + w2 * c2.b + 0.5;
-			c1.a = p * c1.a + (1 - p) * c2.a;
-			me.rgb = c1;
-		}
-		return me;
-	}
-	clone() {
-		return new Color(this.rgb);
-	}
-	alpha(a) {
-		this._rgb.a = n2b(a);
-		return this;
-	}
-	clearer(ratio) {
-		const rgb = this._rgb;
-		rgb.a *= 1 - ratio;
-		return this;
-	}
-	greyscale() {
-		const rgb = this._rgb;
-		const val = round(rgb.r * 0.3 + rgb.g * 0.59 + rgb.b * 0.11);
-		rgb.r = rgb.g = rgb.b = val;
-		return this;
-	}
-	opaquer(ratio) {
-		const rgb = this._rgb;
-		rgb.a *= 1 + ratio;
-		return this;
-	}
-	negate() {
-		const v = this._rgb;
-		v.r = 255 - v.r;
-		v.g = 255 - v.g;
-		v.b = 255 - v.b;
-		return this;
-	}
-	lighten(ratio) {
-		modHSL(this._rgb, 2, ratio);
-		return this;
-	}
-	darken(ratio) {
-		modHSL(this._rgb, 2, -ratio);
-		return this;
-	}
-	saturate(ratio) {
-		modHSL(this._rgb, 1, ratio);
-		return this;
-	}
-	desaturate(ratio) {
-		modHSL(this._rgb, 1, -ratio);
-		return this;
-	}
-	rotate(deg) {
-		rotate(this._rgb, deg);
-		return this;
-	}
+  constructor(input) {
+    if (input instanceof Color) {
+      return input;
+    }
+    const type = typeof input;
+    let v;
+    if (type === 'object') {
+      v = fromObject(input);
+    } else if (type === 'string') {
+      v = hexParse(input) || nameParse(input) || functionParse(input);
+    }
+    this._rgb = v;
+    this._valid = !!v;
+  }
+  get valid() {
+    return this._valid;
+  }
+  get rgb() {
+    var v = clone(this._rgb);
+    if (v) {
+      v.a = b2n(v.a);
+    }
+    return v;
+  }
+  set rgb(obj) {
+    this._rgb = fromObject(obj);
+  }
+  rgbString() {
+    return this._valid ? rgbString(this._rgb) : undefined;
+  }
+  hexString() {
+    return this._valid ? hexString(this._rgb) : undefined;
+  }
+  hslString() {
+    return this._valid ? hslString(this._rgb) : undefined;
+  }
+  mix(color, weight) {
+    if (color) {
+      const c1 = this.rgb;
+      const c2 = color.rgb;
+      let w2;
+      const p = weight === w2 ? 0.5 : weight;
+      const w = 2 * p - 1;
+      const a = c1.a - c2.a;
+      const w1 = ((w * a === -1 ? w : (w + a) / (1 + w * a)) + 1) / 2.0;
+      w2 = 1 - w1;
+      c1.r = 0xFF & w1 * c1.r + w2 * c2.r + 0.5;
+      c1.g = 0xFF & w1 * c1.g + w2 * c2.g + 0.5;
+      c1.b = 0xFF & w1 * c1.b + w2 * c2.b + 0.5;
+      c1.a = p * c1.a + (1 - p) * c2.a;
+      this.rgb = c1;
+    }
+    return this;
+  }
+  interpolate(color, t) {
+    if (color) {
+      this._rgb = interpolate(this._rgb, color._rgb, t);
+    }
+    return this;
+  }
+  clone() {
+    return new Color(this.rgb);
+  }
+  alpha(a) {
+    this._rgb.a = n2b(a);
+    return this;
+  }
+  clearer(ratio) {
+    const rgb = this._rgb;
+    rgb.a *= 1 - ratio;
+    return this;
+  }
+  greyscale() {
+    const rgb = this._rgb;
+    const val = round(rgb.r * 0.3 + rgb.g * 0.59 + rgb.b * 0.11);
+    rgb.r = rgb.g = rgb.b = val;
+    return this;
+  }
+  opaquer(ratio) {
+    const rgb = this._rgb;
+    rgb.a *= 1 + ratio;
+    return this;
+  }
+  negate() {
+    const v = this._rgb;
+    v.r = 255 - v.r;
+    v.g = 255 - v.g;
+    v.b = 255 - v.b;
+    return this;
+  }
+  lighten(ratio) {
+    modHSL(this._rgb, 2, ratio);
+    return this;
+  }
+  darken(ratio) {
+    modHSL(this._rgb, 2, -ratio);
+    return this;
+  }
+  saturate(ratio) {
+    modHSL(this._rgb, 1, ratio);
+    return this;
+  }
+  desaturate(ratio) {
+    modHSL(this._rgb, 1, -ratio);
+    return this;
+  }
+  rotate(deg) {
+    rotate(this._rgb, deg);
+    return this;
+  }
 }
 function index_esm(input) {
-	return new Color(input);
+  return new Color(input);
 }
 
-const isPatternOrGradient = (value) => value instanceof CanvasGradient || value instanceof CanvasPattern;
+function isPatternOrGradient(value) {
+  if (value && typeof value === 'object') {
+    const type = value.toString();
+    return type === '[object CanvasPattern]' || type === '[object CanvasGradient]';
+  }
+  return false;
+}
 function color(value) {
   return isPatternOrGradient(value) ? value : index_esm(value);
 }
@@ -12504,7 +12940,8 @@ class Defaults {
     this.indexAxis = 'x';
     this.interaction = {
       mode: 'nearest',
-      intersect: true
+      intersect: true,
+      includeInvisible: false
     };
     this.maintainAspectRatio = true;
     this.onHover = null;
@@ -12638,7 +13075,10 @@ function clearCanvas(canvas, ctx) {
   ctx.restore();
 }
 function drawPoint(ctx, options, x, y) {
-  let type, xOffset, yOffset, size, cornerRadius;
+  drawPointLegend(ctx, options, x, y, null);
+}
+function drawPointLegend(ctx, options, x, y, w) {
+  let type, xOffset, yOffset, size, cornerRadius, width;
   const style = options.pointStyle;
   const rotation = options.rotation;
   const radius = options.radius;
@@ -12660,7 +13100,11 @@ function drawPoint(ctx, options, x, y) {
   ctx.beginPath();
   switch (style) {
   default:
-    ctx.arc(x, y, radius, 0, TAU);
+    if (w) {
+      ctx.ellipse(x, y, w / 2, radius, 0, 0, TAU);
+    } else {
+      ctx.arc(x, y, radius, 0, TAU);
+    }
     ctx.closePath();
     break;
   case 'triangle':
@@ -12685,7 +13129,8 @@ function drawPoint(ctx, options, x, y) {
   case 'rect':
     if (!rotation) {
       size = Math.SQRT1_2 * radius;
-      ctx.rect(x - size, y - size, 2 * size, 2 * size);
+      width = w ? w / 2 : size;
+      ctx.rect(x - width, y - size, 2 * width, 2 * size);
       break;
     }
     rad += QUARTER_PI;
@@ -12724,7 +13169,7 @@ function drawPoint(ctx, options, x, y) {
     ctx.lineTo(x - yOffset, y + xOffset);
     break;
   case 'line':
-    xOffset = Math.cos(rad) * radius;
+    xOffset = w ? w / 2 : Math.cos(rad) * radius;
     yOffset = Math.sin(rad) * radius;
     ctx.moveTo(x - xOffset, y - yOffset);
     ctx.lineTo(x + xOffset, y + yOffset);
@@ -12951,99 +13396,6 @@ function _addGrace(minmax, grace, beginAtZero) {
 }
 function createContext(parentContext, context) {
   return Object.assign(Object.create(parentContext), context);
-}
-
-function _lookup(table, value, cmp) {
-  cmp = cmp || ((index) => table[index] < value);
-  let hi = table.length - 1;
-  let lo = 0;
-  let mid;
-  while (hi - lo > 1) {
-    mid = (lo + hi) >> 1;
-    if (cmp(mid)) {
-      lo = mid;
-    } else {
-      hi = mid;
-    }
-  }
-  return {lo, hi};
-}
-const _lookupByKey = (table, key, value) =>
-  _lookup(table, value, index => table[index][key] < value);
-const _rlookupByKey = (table, key, value) =>
-  _lookup(table, value, index => table[index][key] >= value);
-function _filterBetween(values, min, max) {
-  let start = 0;
-  let end = values.length;
-  while (start < end && values[start] < min) {
-    start++;
-  }
-  while (end > start && values[end - 1] > max) {
-    end--;
-  }
-  return start > 0 || end < values.length
-    ? values.slice(start, end)
-    : values;
-}
-const arrayEvents = ['push', 'pop', 'shift', 'splice', 'unshift'];
-function listenArrayEvents(array, listener) {
-  if (array._chartjs) {
-    array._chartjs.listeners.push(listener);
-    return;
-  }
-  Object.defineProperty(array, '_chartjs', {
-    configurable: true,
-    enumerable: false,
-    value: {
-      listeners: [listener]
-    }
-  });
-  arrayEvents.forEach((key) => {
-    const method = '_onData' + _capitalize(key);
-    const base = array[key];
-    Object.defineProperty(array, key, {
-      configurable: true,
-      enumerable: false,
-      value(...args) {
-        const res = base.apply(this, args);
-        array._chartjs.listeners.forEach((object) => {
-          if (typeof object[method] === 'function') {
-            object[method](...args);
-          }
-        });
-        return res;
-      }
-    });
-  });
-}
-function unlistenArrayEvents(array, listener) {
-  const stub = array._chartjs;
-  if (!stub) {
-    return;
-  }
-  const listeners = stub.listeners;
-  const index = listeners.indexOf(listener);
-  if (index !== -1) {
-    listeners.splice(index, 1);
-  }
-  if (listeners.length > 0) {
-    return;
-  }
-  arrayEvents.forEach((key) => {
-    delete array[key];
-  });
-  delete array._chartjs;
-}
-function _arrayUnique(items) {
-  const set = new Set();
-  let i, ilen;
-  for (i = 0, ilen = items.length; i < ilen; ++i) {
-    set.add(items[i]);
-  }
-  if (set.size === ilen) {
-    return items;
-  }
-  return Array.from(set);
 }
 
 function _createResolver(scopes, prefixes = [''], rootScopes = scopes, fallback, getTarget = () => scopes[0]) {
@@ -13289,6 +13641,20 @@ function resolveKeysFromAllScopes(scopes) {
   }
   return Array.from(set);
 }
+function _parseObjectDataRadialScale(meta, data, start, count) {
+  const {iScale} = meta;
+  const {key = 'r'} = this._parsing;
+  const parsed = new Array(count);
+  let i, ilen, index, item;
+  for (i = 0, ilen = count; i < ilen; ++i) {
+    index = i + start;
+    item = data[index];
+    parsed[i] = {
+      r: iScale.parse(resolveObjectKey(item, key), index)
+    };
+  }
+  return parsed;
+}
 
 const EPSILON = Number.EPSILON || 1e-14;
 const getPoint = (points, i) => i < points.length && !points[i].skip && points[i];
@@ -13485,8 +13851,7 @@ function getPositionedStyle(styles, style, suffix) {
   return result;
 }
 const useOffsetPos = (x, y, target) => (x > 0 || y > 0) && (!target || !target.shadowRoot);
-function getCanvasPosition(evt, canvas) {
-  const e = evt.native || evt;
+function getCanvasPosition(e, canvas) {
   const touches = e.touches;
   const source = touches && touches.length ? touches[0] : e;
   const {offsetX, offsetY} = source;
@@ -13504,6 +13869,9 @@ function getCanvasPosition(evt, canvas) {
   return {x, y, box};
 }
 function getRelativePosition(evt, chart) {
+  if ('native' in evt) {
+    return evt;
+  }
   const {canvas, currentDevicePixelRatio} = chart;
   const style = getComputedStyle(canvas);
   const borderBox = style.boxSizing === 'border-box';
@@ -13969,8 +14337,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Sidenav_vue_vue_type_template_id_3a054bd1___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Sidenav.vue?vue&type=template&id=3a054bd1& */ "./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1&");
-/* harmony import */ var _Sidenav_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Sidenav.vue?vue&type=script&lang=js& */ "./resources/js/components/Sidenav.vue?vue&type=script&lang=js&");
+/* harmony import */ var _Sidenav_vue_vue_type_template_id_3a054bd1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Sidenav.vue?vue&type=template&id=3a054bd1 */ "./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1");
+/* harmony import */ var _Sidenav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Sidenav.vue?vue&type=script&lang=js */ "./resources/js/components/Sidenav.vue?vue&type=script&lang=js");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -13980,9 +14348,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 ;
 var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _Sidenav_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Sidenav_vue_vue_type_template_id_3a054bd1___WEBPACK_IMPORTED_MODULE_0__.render,
-  _Sidenav_vue_vue_type_template_id_3a054bd1___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  _Sidenav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Sidenav_vue_vue_type_template_id_3a054bd1__WEBPACK_IMPORTED_MODULE_0__.render,
+  _Sidenav_vue_vue_type_template_id_3a054bd1__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
   false,
   null,
   null,
@@ -13997,6 +14365,37 @@ component.options.__file = "resources/js/components/Sidenav.vue"
 
 /***/ }),
 
+/***/ "./resources/js/components/Sidenav.vue?vue&type=script&lang=js":
+/*!*********************************************************************!*\
+  !*** ./resources/js/components/Sidenav.vue?vue&type=script&lang=js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Sidenav.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=script&lang=js");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1":
+/*!***************************************************************************!*\
+  !*** ./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1 ***!
+  \***************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_template_id_3a054bd1__WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   staticRenderFns: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_template_id_3a054bd1__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_template_id_3a054bd1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Sidenav.vue?vue&type=template&id=3a054bd1 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1");
+
+
+/***/ }),
+
 /***/ "./resources/js/views/control_panel/Index.vue":
 /*!****************************************************!*\
   !*** ./resources/js/views/control_panel/Index.vue ***!
@@ -14007,8 +14406,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Index_vue_vue_type_template_id_29312956___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Index.vue?vue&type=template&id=29312956& */ "./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956&");
-/* harmony import */ var _Index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Index.vue?vue&type=script&lang=js& */ "./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js&");
+/* harmony import */ var _Index_vue_vue_type_template_id_29312956__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Index.vue?vue&type=template&id=29312956 */ "./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956");
+/* harmony import */ var _Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Index.vue?vue&type=script&lang=js */ "./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -14018,9 +14417,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 ;
 var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _Index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Index_vue_vue_type_template_id_29312956___WEBPACK_IMPORTED_MODULE_0__.render,
-  _Index_vue_vue_type_template_id_29312956___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  _Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Index_vue_vue_type_template_id_29312956__WEBPACK_IMPORTED_MODULE_0__.render,
+  _Index_vue_vue_type_template_id_29312956__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
   false,
   null,
   null,
@@ -14035,6 +14434,37 @@ component.options.__file = "resources/js/views/control_panel/Index.vue"
 
 /***/ }),
 
+/***/ "./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js":
+/*!****************************************************************************!*\
+  !*** ./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Index.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956":
+/*!**********************************************************************************!*\
+  !*** ./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956 ***!
+  \**********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_template_id_29312956__WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   staticRenderFns: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_template_id_29312956__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_template_id_29312956__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Index.vue?vue&type=template&id=29312956 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956");
+
+
+/***/ }),
+
 /***/ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue":
 /*!***********************************************************************!*\
   !*** ./resources/js/views/control_panel/chart/CandidatesChartBar.vue ***!
@@ -14045,8 +14475,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _CandidatesChartBar_vue_vue_type_template_id_3dab1c7c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CandidatesChartBar.vue?vue&type=template&id=3dab1c7c& */ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c&");
-/* harmony import */ var _CandidatesChartBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CandidatesChartBar.vue?vue&type=script&lang=js& */ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js&");
+/* harmony import */ var _CandidatesChartBar_vue_vue_type_template_id_3dab1c7c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CandidatesChartBar.vue?vue&type=template&id=3dab1c7c */ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c");
+/* harmony import */ var _CandidatesChartBar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CandidatesChartBar.vue?vue&type=script&lang=js */ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -14056,9 +14486,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 ;
 var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _CandidatesChartBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _CandidatesChartBar_vue_vue_type_template_id_3dab1c7c___WEBPACK_IMPORTED_MODULE_0__.render,
-  _CandidatesChartBar_vue_vue_type_template_id_3dab1c7c___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  _CandidatesChartBar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"],
+  _CandidatesChartBar_vue_vue_type_template_id_3dab1c7c__WEBPACK_IMPORTED_MODULE_0__.render,
+  _CandidatesChartBar_vue_vue_type_template_id_3dab1c7c__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
   false,
   null,
   null,
@@ -14073,6 +14503,37 @@ component.options.__file = "resources/js/views/control_panel/chart/CandidatesCha
 
 /***/ }),
 
+/***/ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js ***!
+  \***********************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartBar.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c":
+/*!*****************************************************************************************************!*\
+  !*** ./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c ***!
+  \*****************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_template_id_3dab1c7c__WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   staticRenderFns: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_template_id_3dab1c7c__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_template_id_3dab1c7c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartBar.vue?vue&type=template&id=3dab1c7c */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c");
+
+
+/***/ }),
+
 /***/ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue":
 /*!***********************************************************************!*\
   !*** ./resources/js/views/control_panel/chart/CandidatesChartPie.vue ***!
@@ -14083,8 +14544,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a& */ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a&");
-/* harmony import */ var _CandidatesChartPie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CandidatesChartPie.vue?vue&type=script&lang=js& */ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js&");
+/* harmony import */ var _CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a */ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a");
+/* harmony import */ var _CandidatesChartPie_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CandidatesChartPie.vue?vue&type=script&lang=js */ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -14094,9 +14555,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 ;
 var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _CandidatesChartPie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a___WEBPACK_IMPORTED_MODULE_0__.render,
-  _CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  _CandidatesChartPie_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"],
+  _CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a__WEBPACK_IMPORTED_MODULE_0__.render,
+  _CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
   false,
   null,
   null,
@@ -14111,6 +14572,37 @@ component.options.__file = "resources/js/views/control_panel/chart/CandidatesCha
 
 /***/ }),
 
+/***/ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js ***!
+  \***********************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartPie.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a":
+/*!*****************************************************************************************************!*\
+  !*** ./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a ***!
+  \*****************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   render: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a__WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   staticRenderFns: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a");
+
+
+/***/ }),
+
 /***/ "./resources/js/views/control_panel/chart/UserVoted.vue":
 /*!**************************************************************!*\
   !*** ./resources/js/views/control_panel/chart/UserVoted.vue ***!
@@ -14121,8 +14613,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _UserVoted_vue_vue_type_template_id_ef16df7c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./UserVoted.vue?vue&type=template&id=ef16df7c& */ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c&");
-/* harmony import */ var _UserVoted_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./UserVoted.vue?vue&type=script&lang=js& */ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js&");
+/* harmony import */ var _UserVoted_vue_vue_type_template_id_ef16df7c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./UserVoted.vue?vue&type=template&id=ef16df7c */ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c");
+/* harmony import */ var _UserVoted_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./UserVoted.vue?vue&type=script&lang=js */ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -14132,9 +14624,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 ;
 var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _UserVoted_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _UserVoted_vue_vue_type_template_id_ef16df7c___WEBPACK_IMPORTED_MODULE_0__.render,
-  _UserVoted_vue_vue_type_template_id_ef16df7c___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  _UserVoted_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"],
+  _UserVoted_vue_vue_type_template_id_ef16df7c__WEBPACK_IMPORTED_MODULE_0__.render,
+  _UserVoted_vue_vue_type_template_id_ef16df7c__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
   false,
   null,
   null,
@@ -14149,722 +14641,33 @@ component.options.__file = "resources/js/views/control_panel/chart/UserVoted.vue
 
 /***/ }),
 
-/***/ "./resources/js/components/Sidenav.vue?vue&type=script&lang=js&":
-/*!**********************************************************************!*\
-  !*** ./resources/js/components/Sidenav.vue?vue&type=script&lang=js& ***!
-  \**********************************************************************/
+/***/ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js ***!
+  \**************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Sidenav.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=script&lang=js&");
- /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./UserVoted.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
-/***/ "./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js&":
-/*!*****************************************************************************!*\
-  !*** ./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js& ***!
-  \*****************************************************************************/
+/***/ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c ***!
+  \********************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */   render: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_template_id_ef16df7c__WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   staticRenderFns: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_template_id_ef16df7c__WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
 /* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Index.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=script&lang=js&");
- /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js&":
-/*!************************************************************************************************!*\
-  !*** ./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js& ***!
-  \************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartBar.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=script&lang=js&");
- /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js&":
-/*!************************************************************************************************!*\
-  !*** ./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js& ***!
-  \************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartPie.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=script&lang=js&");
- /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js&":
-/*!***************************************************************************************!*\
-  !*** ./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js& ***!
-  \***************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./UserVoted.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=script&lang=js&");
- /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1&":
-/*!****************************************************************************!*\
-  !*** ./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1& ***!
-  \****************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_template_id_3a054bd1___WEBPACK_IMPORTED_MODULE_0__.render),
-/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_template_id_3a054bd1___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
-/* harmony export */ });
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Sidenav_vue_vue_type_template_id_3a054bd1___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Sidenav.vue?vue&type=template&id=3a054bd1& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1&");
-
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956&":
-/*!***********************************************************************************!*\
-  !*** ./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956& ***!
-  \***********************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_template_id_29312956___WEBPACK_IMPORTED_MODULE_0__.render),
-/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_template_id_29312956___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
-/* harmony export */ });
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Index_vue_vue_type_template_id_29312956___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Index.vue?vue&type=template&id=29312956& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956&");
-
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c&":
-/*!******************************************************************************************************!*\
-  !*** ./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c& ***!
-  \******************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_template_id_3dab1c7c___WEBPACK_IMPORTED_MODULE_0__.render),
-/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_template_id_3dab1c7c___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
-/* harmony export */ });
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartBar_vue_vue_type_template_id_3dab1c7c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartBar.vue?vue&type=template&id=3dab1c7c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c&");
-
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a&":
-/*!******************************************************************************************************!*\
-  !*** ./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a& ***!
-  \******************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a___WEBPACK_IMPORTED_MODULE_0__.render),
-/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
-/* harmony export */ });
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CandidatesChartPie_vue_vue_type_template_id_5a9d7a8a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a&");
-
-
-/***/ }),
-
-/***/ "./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c&":
-/*!*********************************************************************************************!*\
-  !*** ./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c& ***!
-  \*********************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_template_id_ef16df7c___WEBPACK_IMPORTED_MODULE_0__.render),
-/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_template_id_ef16df7c___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
-/* harmony export */ });
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_template_id_ef16df7c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./UserVoted.vue?vue&type=template&id=ef16df7c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c&");
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1&":
-/*!*******************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Sidenav.vue?vue&type=template&id=3a054bd1& ***!
-  \*******************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render),
-/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
-/* harmony export */ });
-var render = function () {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "border p-3 rounded mb-5" }, [
-    _c("ul", { staticClass: "nav flex-column" }, [
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-primary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel",
-                exact: "",
-              },
-            },
-            [_vm._v("Beranda Control Panel")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c("li", { staticClass: "nav-item" }, [
-        _c(
-          "a",
-          {
-            staticClass: "btn btn-inverted-primary d-block text-start",
-            attrs: { href: "" },
-            on: {
-              click: function ($event) {
-                $event.preventDefault()
-                return _vm.livechart()
-              },
-            },
-          },
-          [_vm._v("Live Chart")]
-        ),
-      ]),
-    ]),
-    _vm._v(" "),
-    _c("hr", { staticClass: "bg-secondary" }),
-    _vm._v(" "),
-    _vm._m(0),
-    _vm._v(" "),
-    _c("ul", { staticClass: "nav flex-column" }, [
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/candidates",
-                exact: "",
-              },
-            },
-            [_vm._v("Data Semua Kandidat")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/candidates/create",
-              },
-            },
-            [_vm._v("Buat Data Kandidat Baru")]
-          ),
-        ],
-        1
-      ),
-    ]),
-    _vm._v(" "),
-    _c("hr", { staticClass: "bg-secondary" }),
-    _vm._v(" "),
-    _vm._m(1),
-    _vm._v(" "),
-    _c("ul", { staticClass: "nav flex-column" }, [
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/students",
-                exact: "",
-              },
-            },
-            [_vm._v("Data Semua Mahasiswa")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/students/create",
-              },
-            },
-            [_vm._v("Buat Data Mahasiswa Baru")]
-          ),
-        ],
-        1
-      ),
-    ]),
-    _vm._v(" "),
-    _c("hr", { staticClass: "bg-secondary" }),
-    _vm._v(" "),
-    _vm._m(2),
-    _vm._v(" "),
-    _c("ul", { staticClass: "nav flex-column" }, [
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: { "aria-current": "page", to: "/control-panel/teachers" },
-            },
-            [_vm._v("Data Semua Dosen")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/teachers/create",
-              },
-            },
-            [_vm._v("Buat Data Dosen Baru")]
-          ),
-        ],
-        1
-      ),
-    ]),
-    _vm._v(" "),
-    _c("hr", { staticClass: "bg-secondary" }),
-    _vm._v(" "),
-    _vm._m(3),
-    _vm._v(" "),
-    _c("ul", { staticClass: "nav flex-column" }, [
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/configurations/voting",
-              },
-            },
-            [_vm._v("Voting")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/configurations/user",
-              },
-            },
-            [_vm._v("User")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/configurations/terms-and-conditions",
-              },
-            },
-            [_vm._v("Syarat & Ketentuan")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/configurations/privacy-policy",
-              },
-            },
-            [_vm._v("Kebijakan Privasi")]
-          ),
-        ],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "li",
-        { staticClass: "nav-item" },
-        [
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-inverted-secondary d-block text-start",
-              attrs: {
-                "aria-current": "page",
-                to: "/control-panel/configurations/log",
-              },
-            },
-            [_vm._v("Log")]
-          ),
-        ],
-        1
-      ),
-    ]),
-  ])
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("h6", [
-      _c("i", { staticClass: "fa fa-user-check" }),
-      _vm._v(" Kandidat"),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("h6", [
-      _c("i", { staticClass: "fa fa-user-graduate" }),
-      _vm._v(" Mahasiswa"),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("h6", [
-      _c("i", { staticClass: "fa fa-user-tie" }),
-      _vm._v(" Dosen"),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("h6", [
-      _c("i", { staticClass: "fa fa-cogs" }),
-      _vm._v(" Konfigurasi"),
-    ])
-  },
-]
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956&":
-/*!**************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/Index.vue?vue&type=template&id=29312956& ***!
-  \**************************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render),
-/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
-/* harmony export */ });
-var render = function () {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "container" }, [
-    _c("div", { staticClass: "row" }, [
-      _c("div", { staticClass: "col-lg-3" }, [_c("Sidenav")], 1),
-      _vm._v(" "),
-      _c(
-        "div",
-        { staticClass: "col-lg" },
-        [
-          _vm._m(0),
-          _vm._v(" "),
-          _c("CandidatesChartBar"),
-          _vm._v(" "),
-          _c("CandidatesChartPie"),
-          _vm._v(" "),
-          _c("UserVoted"),
-        ],
-        1
-      ),
-    ]),
-  ])
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("h5", [
-      _c("i", { staticClass: "fa fa-chart-line" }),
-      _vm._v(" Grafik Statistik"),
-    ])
-  },
-]
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c&":
-/*!*********************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartBar.vue?vue&type=template&id=3dab1c7c& ***!
-  \*********************************************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render),
-/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
-/* harmony export */ });
-var render = function () {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "card border-0 shadow-sm mb-4" }, [
-    _vm._m(0),
-    _vm._v(" "),
-    _c("div", { staticClass: "collapse show", attrs: { id: "chartBar" } }, [
-      _c("div", { staticClass: "card-body" }, [
-        _c("canvas", { ref: "candidatesBarChart" }),
-      ]),
-    ]),
-  ])
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "card-header border-0" }, [
-      _c("div", { staticClass: "py-2" }, [
-        _c("span", { staticClass: "h5 fw-bold text-muted" }, [
-          _vm._v("Total Suara Sementara"),
-        ]),
-        _vm._v(" "),
-        _c(
-          "a",
-          {
-            staticClass: "float-end",
-            attrs: {
-              "data-bs-toggle": "collapse",
-              href: "#chartBar",
-              role: "button",
-            },
-          },
-          [_c("i", { staticClass: "fa fa-bars" })]
-        ),
-      ]),
-    ])
-  },
-]
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a&":
-/*!*********************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/CandidatesChartPie.vue?vue&type=template&id=5a9d7a8a& ***!
-  \*********************************************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render),
-/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
-/* harmony export */ });
-var render = function () {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "card border-0 shadow-sm mb-4" }, [
-    _vm._m(0),
-    _vm._v(" "),
-    _c("div", { staticClass: "collapse show", attrs: { id: "chartPie" } }, [
-      _c("div", { staticClass: "card-body" }, [
-        _c("div", { staticClass: "col-lg-8 mx-auto" }, [
-          _c("canvas", { ref: "candidatesPieChart" }),
-        ]),
-      ]),
-    ]),
-  ])
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "card-header border-0" }, [
-      _c("div", { staticClass: "py-2" }, [
-        _c("span", { staticClass: "h5 fw-bold text-muted" }, [
-          _vm._v("Total Suara Sementara"),
-        ]),
-        _vm._v(" "),
-        _c(
-          "a",
-          {
-            staticClass: "float-end",
-            attrs: {
-              "data-bs-toggle": "collapse",
-              href: "#chartPie",
-              role: "button",
-            },
-          },
-          [_c("i", { staticClass: "fa fa-bars" })]
-        ),
-      ]),
-    ])
-  },
-]
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c&":
-/*!************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c& ***!
-  \************************************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render),
-/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
-/* harmony export */ });
-var render = function () {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "card border-0 shadow-sm mb-4" }, [
-    _vm._m(0),
-    _vm._v(" "),
-    _c(
-      "div",
-      { staticClass: "collapse show", attrs: { id: "userVotedChart" } },
-      [
-        _c("div", { staticClass: "card-body" }, [
-          _c("canvas", { ref: "userVoted" }),
-        ]),
-      ]
-    ),
-  ])
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "card-header border-0" }, [
-      _c("div", { staticClass: "py-2" }, [
-        _c("span", { staticClass: "h5 fw-bold text-muted" }, [
-          _vm._v("Total Voting"),
-        ]),
-        _vm._v(" "),
-        _c(
-          "a",
-          {
-            staticClass: "float-end",
-            attrs: {
-              "data-bs-toggle": "collapse",
-              href: "#userVotedChart",
-              role: "button",
-            },
-          },
-          [_c("i", { staticClass: "fa fa-bars" })]
-        ),
-      ]),
-    ])
-  },
-]
-render._withStripped = true
-
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_lib_loaders_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UserVoted_vue_vue_type_template_id_ef16df7c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./UserVoted.vue?vue&type=template&id=ef16df7c */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/control_panel/chart/UserVoted.vue?vue&type=template&id=ef16df7c");
 
 
 /***/ })
