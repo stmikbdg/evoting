@@ -1,0 +1,13 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~aos/src/sass/aos';
+
+@import 'vue-toast-notification/sugar/index.scss';
+@import 'sweetalert2/sweetalert2.scss';
+@import "~vue-wysiwyg/dist/vueWysiwyg.css";
+
+// Style
+@import 'style';
