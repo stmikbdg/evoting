@@ -37,9 +37,9 @@
           <div class="card-body">
             <h4>Informasi Detail Kandidat</h4>
             <div class="mb-3">
-              <h5 class="card-title">{{ candidates.student.name }}</h5>
-              <p class="mb-0">- {{ candidates.student.student_number }}</p>
-              <p class="mb-0">- {{ candidates.student.study_program.name }}</p>
+              <h3 class="card-title">{{ candidates.student.name }}</h3>
+              <!-- <p class="mb-0">- {{ candidates.student.student_number }}</p>
+              <p class="mb-0">- {{ candidates.student.study_program.name }}</p> -->
             </div>
             <!-- Accordion -->
             <div

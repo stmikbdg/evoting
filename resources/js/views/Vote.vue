@@ -31,8 +31,8 @@
           <div class="card-body">
             <div class="mb-3">
               <h5 class="card-title">{{ item.student.name }}</h5>
-              <p class="mb-0">- {{ item.student.student_number }}</p>
-              <p class="mb-0">- {{ item.student.study_program.name }}</p>
+              <!-- <p class="mb-0">- {{ item.student.student_number }}</p>
+              <p class="mb-0">- {{ item.student.study_program.name }}</p> -->
             </div>
             <!-- <div class="d-grid mb-2">
               <a
