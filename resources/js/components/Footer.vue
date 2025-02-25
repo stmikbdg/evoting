@@ -7,7 +7,7 @@
           <div class="col-lg-5">
             <router-link to="/">
               <img
-                src="https://www.stmik-bandung.ac.id/core/public/assets/img/core-img/logo_stmik_kampusmerdeka.png"
+                src="https://stmik-bandung.ac.id/assets/img/core-img/logo_stmik_kampusmerdeka.png"
                 class="img-fluid mb-3"
               >
             </router-link>
